@@ -1,0 +1,1245 @@
+﻿/*
+  | This file is part of the DITA Open Toolkit project hosted on
+  | Sourceforge.net. See the accompanying license.txt file for
+  | applicable licenses.
+ */
+/*
+  | (c) Copyright IBM Corp. 2004, 2005 All Rights Reserved.
+ */
+ 
+ html{
+ -webkit-font-smoothing: antialiased;
+ overfl-y:scroll;
+ }
+
+::-webkit-scrollbar-track-piece{/*滚动条里面内轨道*/
+	background-color:transparent;}
+::-webkit-scrollbar{
+	width:3px; 
+	height:3px;}
+::-webkit-scrollbar-thumb{/*滚动条里面小方块*/
+	background-color:#ccc;
+	border-radius:4px;
+	min-height:10px} 
+
+::-webkit-scrollbar-track {/*滚动条里面轨道*/
+    border-radius: 10px;
+    background:#EDEDED;
+}
+ 
+.figtitle {
+    text-align:left;
+	text-indent:2em;
+}
+
+.stepsection{
+    margin-left:1em;
+}
+ 
+.topictitle2{
+    margin-left:30px;
+}
+
+ul{
+    padding-left:15px;
+    margin-top:0.5em;
+    margin-bottom:0;
+}
+
+ul>li{
+	list-style-type: none;
+    padding-left:10px;
+    line-height: 25px;
+}
+ul[name=steps] li:before {
+  content: "–";
+  padding-right:15px;
+  margin-left:1.0em;
+}
+ul[name=contents] li:before {
+  content: "–";
+  padding-right:15px;
+  margin-left:-1.8em;
+}
+
+ul>li .ul>li{
+	line-height: 25px;
+	padding-left:10px;
+}
+
+ul>li .ul>li:before{
+  content: "•";
+  padding-right:15px;
+  margin-left:-1.8em;
+}
+/*
+ul>li .ul>li{
+	list-style-type: disc; 
+	line-height: 28px;
+	padding-left:10px;
+	padding-left:10px;
+}
+ul>li .ul>li .ul>li{
+	list-style-type: square;  
+	line-height: 28px;
+	padding-left:10px;
+}*/
+ol { /* Won't be interpreted by IE6/7. */
+                list-style-type: decimal;
+                counter-reset: level1; 
+                padding-left:15px;
+            }
+            ol >li{
+                content: counter(level1) ". ";
+                counter-increment: level1;
+				line-height: 25px;
+				padding-left:10px;
+            }
+            /*ol li .ol {
+                list-style-type: decimal;
+                counter-reset: level2;
+                line-height: 10px;
+            }
+            ol >li ol >li{
+                content: counter(level2) ;
+				counter-increment: level2;
+				line-height: 28px;
+				padding-left:10px;
+            }
+            ol li .ol li .ol{
+                list-style-type: lower-alpha;
+                counter-reset: level3;
+                line-height: 10px;
+            }
+            ol >li .ol >li .ol >li:before {
+                content: counter(level3) ".";
+                counter-increment: level3;
+				line-height: 28px;
+             }*/
+ol li:before {  
+  /*  content:counter(sectioncounter) "、";   
+    counter-increment:sectioncounter;  */
+} 
+
+.oltable{
+    border:0;
+    margin-left:-0.5em;
+}
+.oltable tr td{
+    border:0;
+}
+
+/*
+.shortdesc{
+    margin-left:30px;
+}
+*/
+       
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	word-break:break-all;
+}
+.glossdef{
+    
+    margin-left: 30px;
+}
+
+.body {
+    /*font-family: 'Blue Sky StandardLight','Noto Sans CJK SC-Light';*/
+	font-family:方正兰亭纤黑简体;
+    font-weight: normal;
+    font-style: normal;
+    score-spaces: true;
+    line-height: 1.6; 
+    margin-left: 0pt;
+    margin-right: 0pt;
+    text-indent: 0em;
+    break-before: page;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size:15px;
+}
+
+/*
+  .table {
+  width: 705px;
+  }
+  .div{
+  word-break:break-all;
+  }
+ */
+.unresolved {
+    background-color: skyblue;
+    
+}
+.noTemplate {
+    background-color: red;
+    
+}
+.base {
+    background-color: #ffffff;
+    
+}
+/* Add space for top level topics */
+.nested0 {
+    margin-top: 1em;
+}
+/* div with class=p is used for paragraphs that contain blocks, to keep the XHTML valid */
+/*.p {
+	word-break: break-all;
+
+}
+
+li .p{
+	margin-left: 0em;
+	
+}*/
+div[type="0"]>p{
+	text-indent: 0em;!important
+	
+}
+
+.b {
+  font-weight:bold;
+}
+/* Default of italics to set apart figure captions */
+.figcap {
+    font-style: normall;
+}
+.figdesc {
+    font-style: normal
+}
+/* Use @frame to create frames on figures */
+.figborder {
+    border-style: solid;
+    padding-left: 3px;
+    border-width: 2px;
+    padding-right: 3px;
+    margin-top: 1em;
+    border-color: Silver;
+}
+.figsides {
+    border-left: 2px solid;
+    padding-left: 3px;
+    border-right: 2px solid;
+    padding-right: 3px;
+    margin-top: 1em;
+    border-color: Silver;
+}
+.figtop {
+    border-top: 2px solid;
+    margin-top: 1em;
+    border-color: Silver;
+}
+.figbottom {
+    border-bottom: 2px solid;
+    border-color: Silver;
+}
+.figtopbot {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    margin-top: 1em;
+    border-color: Silver;
+}
+/* Most link groups are created with <div>. Ensure they have space before and after. */
+.ullinks {
+    list-style-type: none
+}
+.ulchildlink {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.olchildlink {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.linklist {
+    margin-bottom: 1em
+}
+.linklistwithchild {
+    margin-left: 1.5em;
+    margin-bottom: 1em
+}
+.sublinklist {
+    margin-left: 1.5em;
+    margin-bottom: 1em
+}
+.relconcepts {
+    margin-top: 1em;
+    margin-bottom: 1em;
+	
+}
+.reltasks {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.relref {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.relinfo {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.breadcrumb {
+    font-size: smaller;
+    margin-bottom: 1em
+}
+dt.prereq {
+    margin-left: 20px;
+}
+/* Set heading sizes, getting smaller for deeper nesting */
+.topictitle1 {
+    font-size: 18px;
+	line-height:2.2;
+    color: rgb(205, 13,64);
+    /*margin-left: 30px;*/
+    margin-right: 30px;
+    font-family:方正兰亭特黑简体;
+}
+.topictitle2 {
+    margin-top: 1pc;
+    margin-bottom:  10pt;
+    color: rgb(205, 13,64);
+    font-size: 16px;
+    font-family:方正兰亭中黑简体;
+}
+.topictitle3 {
+    margin-top: 1pc;
+    margin-bottom: .17em;
+    color: rgb(205, 13,64);
+    font-size: 14px;
+    font-family:方正兰亭纤黑简体; 
+}
+.topictitle4 {
+    margin-top: .83em;
+    font-size: 12px;
+    color: red;
+    
+}
+.topictitle5 {
+    font-size: 1.17em;
+    color: red;
+}
+.topictitle6 {
+    font-size: 1.17em;
+    font-style: italic;
+    color: red;
+}
+.sectiontitle {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: black;
+    /*font-size: 1.27em;*/
+    font-weight: bold;
+	text-indent:0px;
+}
+.section {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.example {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+div.tasklabel {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+}
+h2.tasklabel, h3.tasklabel, h4.tasklabel, h5.tasklabel, h6.tasklabel {
+    font-size: 100%;
+    
+}
+/* All note formats have the same default presentation */
+.note {
+    margin-top: 0em;
+    margin-bottom: 0em;
+	text-indent:2em;
+}
+
+.notetitle {
+	color: #ff8000;
+    margin: 20 0px 2px 5px;
+    font-size: 15px;
+    font-weight: bold;
+	padding-left: 8px;
+}
+.notelisttitle {
+    font-weight: bold
+}
+
+.tiptitle {
+    font-weight: bold;
+    color: blue;
+    margin: 20 0px 2px 5px;
+    font-size: 15px;
+}
+.fastpath {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.fastpathtitle {
+    font-weight: bold
+}
+.important {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.importanttitle {
+    font-weight: bold
+}
+.remember {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.remembertitle {
+    font-weight: bold
+}
+.restriction {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.restrictiontitle {
+    font-weight: bold
+}
+.attention {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.attentiontitle {
+    font-weight: bold
+}
+
+
+.cautiontitle {
+    font-weight: bold
+}
+  
+}
+.notice {
+    margin-top: 1em;
+}
+.noticetitle {
+    font-weight: bold
+}
+.notice {
+    font-weight: 500;
+    padding: 0 5px;
+    margin: -4.5px 0;
+    padding-top: 5px
+}
+
+/*  内容跟下边框间距 */
+.noticetitle {
+    color: #222;
+    background: #d6d2c4;
+    margin: 0 0px 2px 0px;
+    font-size: 12px;
+    text-transform: uppercase;
+    position: relative;
+    height: 20px;
+    line-height: 20px
+}
+.noticetitle header {
+    margin: 0;
+    padding: 0 5px;
+    font-weight: 500;
+    font-weight: bold;
+    background: url(img/default/note.png);
+    -webkit-background-size:1.4em;
+    background-size:1.4em;
+    background-repeat: no-repeat;
+    background-position: 3px 2px;
+    padding-left: 20px
+}
+.caution {
+    font-size: 1em;
+    font-weight: normal;
+    text-indent:2em;
+}
+
+/*  ݸ±߿ */
+.cautiontitle {
+    color: red;
+    margin: 20 0px 2px 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+    position: relative;
+    height: 20px;
+    line-height: 10px
+}
+/*
+.itemgroup{
+	margin-left: 40px;
+}*/
+
+.cautiontitle header {
+    margin: 0;
+	color: #ff8000;
+    padding: 0 5px;
+    font-weight: 500;
+    font-weight: bold;
+    /*background: url(img/default/note.png);
+    -webkit-background-size:1.4em;
+    background-size:1.4em;
+    background-repeat: no-repeat;
+    background-position: 3px 2px;*/
+    padding-left: 5px
+}
+.warning {
+    font-size: 1em;
+    font-weight: normal;
+    text-indent: 2em;
+}
+
+/*  ݸ±߿ */
+.warningtitle {
+    color: red;
+    margin: 20 0px 2px 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+    position: relative;
+    height: 20px;
+    line-height: 20px
+}
+
+.warningtitle header {
+    margin: 0;
+    padding: 0 5px;
+    font-weight: 500;
+    font-weight: bold;
+    background: url(img/default/warning.svg);
+    -webkit-background-size:1.4em;
+    background-size:1.4em;
+    background-repeat: no-repeat;
+    background-position: 3px 2px;
+    padding-left: 30px
+}
+.danger {
+    font-size: 1em;
+    font-weight: normal;
+    padding: 0 5px;
+}
+
+/*  ݸ±߿ */
+.dangertitle {
+    color: black;
+    font-size: 1em;
+}
+
+.dangertitle header {
+    margin: 0;
+    padding: 0 5px;
+    font-weight: 500;
+    font-weight: bold;
+    background: url(img/default/danger.svg);
+    -webkit-background-size:1.4em;
+    background-size:1.4em;
+    background-repeat: no-repeat;
+    background-position: 3px 2px;
+    padding-left: 30px
+}
+
+
+/*  ݸ±߿ */
+.tiptitle {
+    margin: 20 0px 2px 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+    position: relative;
+    height: 20px;
+    line-height: 20px
+}
+.tiptitle header {
+    margin: 0;
+    padding: 0 5px;
+    font-weight: 500;
+    font-weight: bold;
+    /* background: url(img/default/caution.png);
+    -webkit-background-size:1.4em;
+    background-size:1.4em;
+    background-repeat: no-repeat;
+    background-position: 3px 2px;
+    padding-left: 20px */
+}
+.note[type="note"] {
+    font-size: 1em;
+    background: #fff;
+    text-indent:2em;
+    padding: 0 5px;
+    margin: -4.5px 0;
+    font-weight: 500;
+    padding-top: 5px
+}
+
+/*  ݸ±߿ */
+.notetitle[type="note"] {
+    color: #222;
+    background: #ea8438;
+    margin: 20 0px 2px 5px;
+    font-size: 15px;	
+    text-transform: uppercase;
+    position: relative;
+    height: 20px;
+    line-height: 20px
+}
+.notetitle[type="note"] header {
+    margin: 0;
+    padding: 0 5px;
+    font-weight: 500;
+    background: url(img/default/warning.svg);
+    -webkit-background-size:1.4em;
+    background-size:1.4em;
+    background-repeat: no-repeat;
+    background-position: 3px 2px;
+    padding-left: 20px
+}
+/* Simple lists do not get a bullet */
+ul.simple {
+    list-style-type: none
+}
+/* Used on the first column of a table, when rowheader="firstcol" is used */
+.firstcol {
+    font-weight: bold;
+}
+/* Various basic phrase styles */
+.bold {
+    font-weight: bold;
+    
+}
+.boldItalic {
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.italic {
+    font-style: italic;
+    
+}
+.underlined {
+    text-decoration: underline;
+    
+}
+.uicontrol {
+    font-weight: bold;
+    
+}
+.parmname {
+    font-weight: bold;
+    
+}
+.kwd {
+    font-weight: bold;
+    
+}
+.defkwd {
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+.var {
+    font-style: italic;
+}
+.shortcut {
+    text-decoration: underline;
+    
+}
+/* Default of bold for definition list terms */
+.dlterm {
+    font-weight: bold;
+    
+}
+/* Use CSS to expand lists with @compact="no" */
+.dltermexpand {
+    font-weight: bold;
+    margin-top: 1em;
+    
+}
+*[compact="yes"]>li {
+    margin-top: 0em;
+}
+*[compact="no"]>li {
+    margin-top: .53em;
+}
+.liexpand {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.sliexpand {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.dlexpand {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.ddexpand {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.stepexpand {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+.substepexpand {
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+/* Align images based on @align on topic/image */
+.fig{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.image{
+	margin-bottom: 10pt;
+	margin-top:0pt;
+	width:100%;
+}
+
+div.imagecenter[softtype="sDTTopic"]{
+	width:100%;
+	text-align: center
+}
+div.imageleft {
+    text-align: left
+	
+}
+div.imagecenter {
+    text-align: left;
+	
+}
+div.imageright {
+	
+    text-align: right
+}
+div.imagejustify {
+    text-align: justify
+}
+.imagecenterlevel1{
+	
+}
+.imagecenterlevel2{
+	
+}
+.imagecenterlevel3{
+	
+}
+/*用来标记有topic的节点*/
+.treenodecolor{
+	color:indigo
+}
+/*
+   The cell border can be turned on with
+  {border-right:solid}
+  This value creates a very thick border in Firefox (does not match other tables)
+  Firefox works with
+  {border-right:solid 1pt}
+  but this causes a barely visible line in IE
+ */
+.cellrowborder {
+    border-left: none;
+    border-top: none;
+    border-right: solid 1px;
+    border-bottom: solid 1px
+}
+.row-nocellborder {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-right: hidden;
+    border-bottom: solid 1px
+}
+.cell-norowborder {
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-bottom: hidden;
+    border-right: solid 1px
+}
+.nocellnorowborder {
+    border: none;
+    border-right: hidden;
+    border-bottom: hidden
+}
+pre.screen {
+    padding: 5px 5px 5px 5px;
+    border: outset;
+    background-color: #CCCCCC;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    white-space: pre
+}
+span.filepath, samp.codeph, pre.codeblock {
+    font-family: monospace
+}
+/*-----------------------startpage-------------------------------------------------------*/
+.Absolute-Center {
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.image-logo {
+    margin: 5px 5px 5px;
+    width: 60px;
+    height: 60px;
+    float: left
+}
+.wl-startpage-header>header>h1 {
+    position: relative;
+    bottom: -4px;
+    color: #000;
+    font-size: 30px;
+    line-height: 32px;
+    margin: 10px 50px 10px;
+    position: absolute;
+    top: 12px;
+    left: 30px;
+}
+.wl-startpage-model {
+    margin-bottom: 12px;
+    background: #fff url(img/default/vcc/BP13.png) no-repeat center;
+    background-size:10% auto;
+    color: #97999b;
+    border: 1px solid #cdcdcd;
+    height: 50px;
+    width: 98%;
+    clear: both;
+    font-size: 150px;
+    position: relative;
+    overflow: hidden
+}
+.wl-topic {
+    width: 98%;
+    box-sizing:border-box;
+    min-height: 1px;
+    background: #fff;
+    margin: 0;
+    padding: .5em;
+    border: 1px solid #cdcdcd
+}
+.wl-topic-title {
+    display: block;
+    font-size: 1.67em;
+    line-height: 1.1;
+    color: #97999b;
+    font-family: SimSun;
+    margin: 0 0 0px;
+    padding: 0
+}
+.wl-section-title {
+    display: inline;
+    font-family: SimSun;
+    font-size: .8em;
+    color: #97999b
+}
+.wl-img {
+    margin-right: 10px;
+    align: center;
+    width: 100%;
+    padding-bottom: 0px;
+}
+.wl-button {
+    display: block;
+    font-size: 1em;
+    width: 98.3%;
+    padding: 0;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 0px solid #979799;
+    white-space: nowrap;
+    overflow: ellipsis;
+    user-select: none
+}
+.wl-button a {
+    display: block;
+    width: 100%;
+    padding: 8px 8px;
+    border-radius:0;
+    color: #fff;
+    background-color: #979799;
+    border-color: #ccc;
+    font-weight: bold;
+    text-decoration: none
+}
+/*--------------------------------startpage-------------------------------------------------------*/
+/*-----------------------table-------------------------------------------------------------------*/
+.tablenoborder {
+    overflow-x: auto;
+    margin: 0 0 4.5px;
+    padding: 0
+}
+table {
+	width:100%;
+    color: #222;
+    font-size: 1em;
+    background-color: transparent;
+    border-spacing: 0;
+    border-collapse: collapse;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    table-layout: fixed;
+    border: 0.5pt solid #B3B3B3;
+}
+th {
+}
+td{
+	valign:top;
+	padding-left:5pt;
+}
+
+table, th, td {
+    /* should be rgb(179,179,179) */
+    border: 0.5pt solid #B3B3B3;
+    valign:top;
+}
+
+.wl-table {
+    border: 1px solid #ddd
+}
+.wl-table>caption {
+    text-align: left;
+    font-style: italic
+}
+.wl-table>tbody>tr>td,.wl-table>tbody>tr>th,.wl-table>tfoot>tr>td,.wl-table>tfoot>tr>th,.wl-table>thead>tr>td,.wl-table>thead>tr>th {
+    padding: 3px;
+    line-height: 1.3;
+    vertical-align: top;
+    border: 1px solid #ddd
+}
+.wl-table>thead>tr>td,.wl-table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 1px solid #ddd
+}
+.wl-table>tbody+tbody {
+    border-top: 3px solid #ddd
+}
+.wl-align-center {
+    text-align: center!important
+}
+/*-----------------------table-------------------------------------------------------------------*/
+
+.wl-attention {
+    margin-top:10px;
+    border: 1px solid #DCDCDC;
+    margin-bottom: 10px;
+}
+
+.wl-attention h1, .wl-attention h2, .wl-attention h3, .wl-attention h4, .wl-attention h5 {
+    border-bottom: 1px dotted #BCBCBC;
+    color: #D81224;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 10px 10px 3px 32px;
+    padding: 2px 0px;
+    text-transform: uppercase;
+}
+
+.wl-attention-content {
+    margin: 3px 10px 10px 32px;
+    padding: 0px;
+}
+
+.wl-attention[data-attention-type="note"] > header {
+    background: transparent url("./basefiles/artwork/note.svg") no-repeat scroll 6px 0px / 20px auto;
+    -moz-background-size: 20px;
+    -o-background-size: 20px;
+    -webkit-background-size: 20px;
+    background-position: 6px 0;
+    background-size: 20px;
+}
+
+
+.wl-attention > header {
+    margin-top: -2px;
+}
+
+.wl-attention[data-attention-type="warning"] > header {
+    background: transparent url("./basefiles/artwork/warning_icon.svg") no-repeat scroll 6px 0px / 20px auto;
+    -moz-background-size: 20px;
+    -o-background-size: 20px;
+    -webkit-background-size: 20px;
+    background-position: 6px 0;
+    background-size: 20px;
+}
+
+.wl-attention[data-attention-type='warning'] {
+    background: #fcdcdc;
+}
+
+.wl-attention[data-attention-type="caution"] {
+    background: #EEE none repeat scroll 0% 0%;
+}
+
+.wl-attention[data-attention-type="caution"] > header {
+    background: transparent url("./basefiles/artwork/caution_icon.svg") no-repeat scroll 6px 0px / 20px auto;
+    -moz-background-size: 20px;
+    -o-background-size: 20px;
+    -webkit-background-size: 20px;
+    background-position: 6px 0;
+    background-size: 20px;
+}
+
+.step{
+    line-height:20px;
+}
+.keyword{
+	visibility:hidden;
+}
+/*cyq20171128----设置专用工具只显示前两列*/
+.specialtool td:not(.specialtool){
+    display:none}
+	
+
+div.column_CA{
+    margin-top: 1em;
+	line-height: 20px;
+ }	
+ 
+.subentry{
+	vertical-align:sub;
+	float:left
+} 
+
+.supentry{
+	
+	vertical-align:sup;
+	float:right
+}
+
+table>caption {
+	text-align:left;
+	text-indent:2em;
+}
+
+p>img{    
+    width: auto;
+    height: 1.5em;
+    vertical-align: sub;
+}
+
+.msgblock{
+	color:black;
+	background-size:24px!important;
+	background-repeat:no-repeat!important;
+	background-position:center left!important;
+	padding-left:30px;
+	margin-left:-2em;
+	/*background:url(http://instructions.changan.com.cn/themes/0840c1/images/tit.png);*/
+}
+
+.tiptop{
+	color:#0840c1!important;
+	margin-top:5%;
+	font-size:18pt
+	
+}
+
+.tipbottom{
+	color:#0840c1!important;
+	margin-top:2%;
+	width:90%;
+	margin-top:5%;
+	margin-left:-2em;
+	font-size:14pt;
+	line-height:1.7;
+	position:relative;
+	text-align:justify;
+	box-sizing:border-box;
+}
+
+
+.select{
+    margin-left:3pt;
+    padding-left:5pt;
+}
+
+.button{
+     margin-left:3pt;
+    padding-left:5pt; 
+}
+.stepbtn{
+    margin-left:5pt;
+    padding-left:5pt;
+    margin-bottom:5pt;
+}
+
+
+.wl-attention {
+    border: 1px solid #DCDCDC;
+    margin-bottom: 10px;
+}
+
+.wl-attention h1, .wl-attention h2, .wl-attention h3, .wl-attention h4, .wl-attention h5 {
+    border-bottom: 1px dotted #BCBCBC;
+    color: #D81224;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 10px 10px 3px 32px;
+    padding: 2px 0px;
+    text-transform: uppercase;
+}
+
+.wl-attention-content {
+    margin: 3px 10px 10px 32px;
+    padding: 0px;
+}
+
+.wl-attention[data-attention-type="note"] > header {
+    background: transparent url("./basefiles/artwork/note.svg") no-repeat scroll 6px 0px / 20px auto;
+    -moz-background-size: 20px;
+    -o-background-size: 20px;
+    -webkit-background-size: 20px;
+    background-position: 6px 0;
+    background-size: 20px;
+}
+
+
+.wl-attention > header {
+    margin-top: -2px;
+}
+
+.wl-attention[data-attention-type="warning"] > header {
+    background: transparent url("./basefiles/artwork/warning_icon.svg") no-repeat scroll 6px 0px / 20px auto;
+    -moz-background-size: 20px;
+    -o-background-size: 20px;
+    -webkit-background-size: 20px;
+    background-position: 6px 0;
+    background-size: 20px;
+}
+
+.wl-attention[data-attention-type='warning'] {
+    background: #fcdcdc;
+}
+
+.wl-attention[data-attention-type="caution"] {
+    background: #EEE none repeat scroll 0% 0%;
+}
+
+.wl-attention[data-attention-type="caution"] > header {
+    background: transparent url("./basefiles/artwork/caution_icon.svg") no-repeat scroll 6px 0px / 20px auto;
+    -moz-background-size: 20px;
+    -o-background-size: 20px;
+    -webkit-background-size: 20px;
+    background-position: 6px 0;
+    background-size: 20px;
+}
+ .postspace{
+     /* margin-top:10pt;
+      padding-top:10pt;*/
+ }
+ 
+ .step_process{
+     padding-top:5px;
+     padding-bottom:5px;
+ }
+ 
+
+.scalable-width img {
+    cursor: zoom-in;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+    vertical-align: middle;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+/*.thumb {
+    width: 50%;
+}*/
+
+.full {
+    width: 100%;
+}
+
+.ST{
+	width: 10%;
+}
+
+@media(max-width:1200px){
+	div.imageleft {
+    text-align: left
+	width:100%;
+}
+div.imagecenter {
+    text-align: center;
+	width:100%;
+}
+div.imageright {
+	width:100%;
+    text-align: right
+}
+.imagecenterlevel1{
+	width:100%;
+}
+.imagecenterlevel2{
+	width:100%;
+}
+.imagecenterlevel3{
+	width:100%;
+}
+}
+
+@media(max-width:991px){
+	div.imageleft {
+    text-align: left
+	width:100%;
+}
+div.imagecenter {
+    text-align: center;
+	width:100%;
+}
+div.imageright {
+	width:100%;
+    text-align: right
+}
+.imagecenterlevel1{
+	width:100%;
+}
+.imagecenterlevel2{
+	width:100%;
+}
+.imagecenterlevel3{
+	width:100%;
+}
+}
+
+@media(max-width:767px){
+	div.imageleft {
+    text-align: left
+	width:100%;
+}
+.imagecenterlevel1{
+	width:100%;
+}
+.imagecenterlevel2{
+	width:100%;
+}
+.imagecenterlevel3{
+	width:100%;
+}
+div.imagecenter {
+    text-align: center;
+	width:100%;
+}
+div.imageright {
+	width:100%;
+    text-align: right
+}
+
+}

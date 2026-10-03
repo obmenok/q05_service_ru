@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 38431,65416" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.B{fill:none;fill-opacity:0.0;font-family:sans-serif;stroke-width:410px;}
+.C{font-size:10566px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:4px;}
+.C,.A,.B{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M9620,8639h19818m0,4774h-19818M35617,19359 C35617,18715 35095,18194 34452,18194 M34452,62493 C35095,62493 35617,61971 35617,61328 M3442,61328 C3442,61971 3964,62493 4607,62493 M4607,18194 C3964,18194 3442,18715 3442,19359 M9620,9800h-5945m34273,55607h-36838m28328,-60270h4663m-4663,4663h5945m-25763,-9786h19818m-19818,2325h19818m0,4663h5945v-1865h-1282v1865m1282,8277v-8277m-5945,-2797h-4080v3497h4080m0,-6528h-19818v-1165h19818v18186h6178m-10258,-10491h-11657v-3497h11657m12590,11074v15038h-2331m-25996,-29144v3031h4080m0,3497h-4080v-3497m0,2797h-4663v-1865m0,1865h-1282v-1865h5945m-5945,10142v-8277m25763,8277h8510l-2331,2914v18885h-6761l699,699h6062m0,-1865h2797v8859h-2797m-6062,-6994v5129h6062v-5828m-6062,5828l-699,699v-6528m6761,5828v699h-6761m-19235,-35905v10491h-6178l-2331,-2914h8510m25996,28328v18885l2331,2914v-15038h-2331m-32175,-20051h-2331v-15038m9093,21799v6528l-699,-699v-5129l699,-699h-6761v-18885m0,18885v699h6062m-6062,0v5129h6062m-6062,0v699h6761m-6761,1165h-2797v-8859h2797m0,7694v18885h32175m-32175,-12124h-2331v15038l2331,-2914"/>
+     <rect class="B" x="13328" y="20541" width="11900" height="13479"/>
+     <rect class="B" x="13229" y="45107" width="11900" height="13477"/>
+     <g>      <text class="C" x="18250" y="33081" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="C" x="18149" y="57647" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

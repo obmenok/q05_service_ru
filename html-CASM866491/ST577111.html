@@ -1,0 +1,226 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Метод калибровки"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="topic-1-F5240221"></meta>
+      
+      <meta name="DC.Language" content="ru"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Метод калибровки</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="topic-1-F5240221">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST577111">Метод калибровки</h3>
+         
+         
+         <div class="body"> 
+            
+            <p class="p">Установите автомобиль горизонтально и неподвижно, подключите диагностический прибор к разъему OBD автомобиля, включите зажигание автомобиля и запустите диагностический прибор.</p>  
+            
+            <ol class="num"> 
+               
+               <li> 
+                  
+                  <p>Правильно подключите диагностический прибор к разъему OBD автомобиля и включите зажигание автомобиля.</p> 
+                  
+               </li>  
+               
+               <li> 
+                  
+                  <p>Запишите код конфигурации модели автомобиля и код конфигурации колес.</p>  
+                  
+                  <ul name="contents" class="ul"> 
+                     
+                     <li> 
+                        
+                        <p>Определите коды конфигурации модели автомобиля и конфигурации колес, подлежащие записи; коды конфигурации для каждой модели автомобиля указаны в таблице;</p>  
+                        
+                        
+                        <table width="100%" border="1" frame="box" rules="all">  
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           <tbody> 
+                              
+                              <tr> 
+                                 
+                                 <td width="4.714285714285714%" valign="&#xA;            top&#xA;          ">Сокращенное наименование модели</td>  
+                                 
+                                 <td width="16.57142857142857%" valign="&#xA;            top&#xA;          ">LEV0</td>  
+                                 
+                                 <td width="16%" valign="&#xA;            top&#xA;          ">LEV1</td>  
+                                 
+                                 <td width="11%" valign="&#xA;            top&#xA;          ">LEV2</td>  
+                                 
+                                 <td width="17.142857142857142%" valign="&#xA;            top&#xA;          ">LEV3</td>  
+                                 
+                                 <td width="17.857142857142858%" valign="&#xA;            top&#xA;          ">LEV4</td>  
+                                 
+                                 <td width="16.71428571428571%" valign="&#xA;            top&#xA;          ">LEV5</td> 
+                                 
+                              </tr>  
+                              
+                              <tr> 
+                                 
+                                 <td width="4.714285714285714%" valign="&#xA;            top&#xA;          ">Модель автомобиля</td>  
+                                 
+                                 <td width="16.57142857142857%" valign="&#xA;            top&#xA;          ">SC6440AAAABEV</td>  
+                                 
+                                 <td width="16%" valign="&#xA;            top&#xA;          ">SC6440AAAABEV</td>  
+                                 
+                                 <td width="11%" valign="&#xA;            top&#xA;          ">SC6440AAAABEV,SC6440AAABBEV</td>  
+                                 
+                                 <td width="17.142857142857142%" valign="&#xA;            top&#xA;          ">SC6440AAAABEV,SC6440AAABBEV</td>  
+                                 
+                                 <td width="17.857142857142858%" valign="&#xA;            top&#xA;          ">SC6440AAABBEV</td>  
+                                 
+                                 <td width="16.71428571428571%" valign="&#xA;            top&#xA;          ">SC6440AAABBEV</td> 
+                                 
+                              </tr>  
+                              
+                              <tr> 
+                                 
+                                 <td width="4.714285714285714%" valign="&#xA;            top&#xA;          ">Номер статуса</td>  
+                                 
+                                 <td width="16.57142857142857%" valign="&#xA;            top&#xA;          ">CNH0001</td>  
+                                 
+                                 <td width="16%" valign="&#xA;            top&#xA;          ">CNH1001,CNH1002</td>  
+                                 
+                                 <td width="11%" valign="&#xA;            top&#xA;          ">CNH2001,CNH2002,CNH2003,CNH2004,CNH2501,CNH2502</td>  
+                                 
+                                 <td width="17.142857142857142%" valign="&#xA;            top&#xA;          ">CNH3001,CNH3002,CNH3003,CNH3502,CNH3501</td>  
+                                 
+                                 <td width="17.857142857142858%" valign="&#xA;            top&#xA;          ">CNH4001,CNH4002,CNH4003,CNH4004</td>  
+                                 
+                                 <td width="16.71428571428571%" valign="&#xA;            top&#xA;          ">CNH5001,CNH5002,CNH5003</td> 
+                                 
+                              </tr>  
+                              
+                              <tr> 
+                                 
+                                 <td width="4.714285714285714%" valign="&#xA;            top&#xA;          ">Вариант модели автомобиля</td>  
+                                 
+                                 <td width="16.57142857142857%" valign="&#xA;            top&#xA;          ">01</td>  
+                                 
+                                 <td width="16%" valign="&#xA;            top&#xA;          ">01</td>  
+                                 
+                                 <td width="11%" valign="&#xA;            top&#xA;          ">02</td>  
+                                 
+                                 <td width="17.142857142857142%" valign="&#xA;            top&#xA;          ">03</td>  
+                                 
+                                 <td width="17.857142857142858%" valign="&#xA;            top&#xA;          ">04</td>  
+                                 
+                                 <td width="16.71428571428571%" valign="&#xA;            top&#xA;          ">05</td> 
+                                 
+                              </tr> 
+                              
+                           </tbody> 
+                           
+                        </table> 
+                        
+                        
+                     </li>  
+                     
+                     <li> 
+                        
+                        <p>Путь для записи кода конфигурации модели автомобиля: Диагностический прибор &gt; Диагностика автомобиля &gt; Интегрированный модуль управления тормозной системой IBCU &gt; Версия диагностических данных &gt; Специальные функции &gt; Ручная запись кода конфигурации модели автомобиля; код конфигурации необходимо записывать полностью, например, при вводе «01» вводить 01, а не просто 1. Путь показан на рисунке. Путь для записи типа колес: Диагностический прибор &gt; Диагностика автомобиля &gt; Интегрированный модуль управления тормозной системой IBCU &gt; Версия диагностических данных &gt; Специальные функции &gt; Конфигурация функций &gt; Тип передних/задних колес</p> 
+                        
+                     </li>  
+                     
+                     <li> 
+                        
+                        <p>После правильной и успешной записи кода конфигурации модели автомобиля и кода конфигурации колес пошагово возвращайтесь по интерфейсу назад до экрана выбора «Электронный стояночный тормоз в сборе EPBi», подождите около 10s, пока на комбинации приборов перестанет выводиться сообщение о неисправности стояночной системы.</p> 
+                        
+                     </li> 
+                     
+                  </ul>
+                  
+                  
+               </li>  
+               
+               <li>Калибровка датчика хода TMC (эта шаг требуется только для 3505200-FQ03) 
+                  
+                  <p>Припаркуйте автомобиль на горизонтальной поверхности земли, убедитесь, что педаль тормоза не нажата</p>Калибровка датчика хода TMC, путь калибровки: Диагностический прибор &gt; Диагностика автомобиля &gt; Интегрированный модуль управления тормозной системой IBCU &gt; Специальные функции &gt; Запуск калибровки датчика хода TMC, нажать «Запустить процедуру», отобразится сообщение об успешном выполнении калибровки датчика хода TMC, как показано на рисунке ниже
+                  
+                  <div class="imagecenterlevel1"><img width="50%" src="image/MP433412.jpg" alt="MP365682"></img></div> 
+                  
+               </li>  
+               
+               <li> 
+                  
+                  <p>Убедитесь в отсутствии кодов неисправностей и отображения контрольных ламп неисправностей.</p>  
+                  
+                  <ol class="num"> 
+                     
+                     <li> 
+                        
+                        <p>Проверьте наличие оставшихся кодов неисправностей; при их наличии удалите текущие коды неисправностей, обновите и проверьте снова.</p> 
+                        
+                     </li>  
+                     
+                     <li> 
+                        
+                        <p>Проверьте, отображаются ли на панели приборов контрольные лампы неисправностей, связанные с системой IBCU.</p> 
+                        
+                     </li> 
+                     
+                  </ol>  
+                  
+                  <p>Примечание:</p>  
+                  
+                  <p>1. Если производилась замена компонентов сборки исполнительного механизма IBCU, и заменяемая сборка исполнительного механизма IBCU является сухой деталью, необходимо выполнить заправку жидкостью и прокачку; для влажной детали этот шаг не требуется.</p>  
+                  
+                  <p>2. Во время калибровки параметры 4 углов установки колес автомобиля должны быть правильными, а автомобиль должен стоять на горизонтальной поверхности земли.</p>  
+                  
+                  <p>3. Используя портативный диагностический прибор, строго выполняйте калибровку в соответствии с инструкциями на диагностическом приборе.</p> 
+                  
+               </li> 
+               
+            </ol> 
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>

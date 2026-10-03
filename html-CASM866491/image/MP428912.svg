@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,30964" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:128px;}
+.A,.C,.B{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B{stroke-width:898px;}
+.D{font-size:9251px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.D,.A,.C,.B{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M56279,1331v10437h-46727v-10437"/>
+     <path class="B" d="M5168,30948h-2537v-16883h-1552v-2349h5255v-11698h53212v6535h3703v13048h2154v3983h-2154v7364h-2537v-3427h-55544 z"/>
+     <path class="C" d="M32917,11768h-7325v-4415h14650v4415 z"/>
+     <path class="A" d="M56279,1331h-12471l-2204,1272h-17376l-2204,-1272h-12471"/>
+     <path class="C" d="M5168,13632v13888h13888v-13888h13885v13888v-13888h13888v13888h13881v-13888h-13881v13888h-27774v-13888 z"/>
+     <g>      <text class="D" x="13004" y="25775" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="25940" y="25775" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="39828" y="25775" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="D" x="53710" y="25775" style="stroke:none;">4</text>
+    </g>
+  </g></svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,55341" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke-width:282px;}
+.A,.B{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B{stroke-width:40px;}
+.C{font-size:7285px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:2px;}
+.C,.A,.B{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M4001,48610 C4135,48912 4324,49187 4558,49421 M9686,54548l-5128,-5128M9683,54547 C10187,55050 10870,55333 11582,55333 M54907,55333h-43327M54905,55333 C55617,55333 56300,55050 56804,54547 M61930,49420l-5128,5128M61929,49421 C62163,49187 62352,48912 62486,48610 M22826,9684l-1925,-1925m1925,1925l60,43l97,42l130,41l165,41l195,37l226,37l253,34l280,31l301,29m17414,0l301,-29l279,-31l254,-34l225,-37l196,-37l164,-41l131,-41l96,-42l61,-43l1925,-1925m-17835,-1052h10984m0,2557h-10984m0,925h10984M19580,5326 C19580,6038 19863,6721 20366,7225 M46121,7225 C46624,6721 46907,6038 46907,5326 M52668,3758h-4420v-2679h4420v5894h-4420v-3215m-6296,3846l1741,-1741l1894,1894l535,-535m-7386,286v5358h3215v-5358m-15271,-1339v-3482h13128v3482m8439,803v14333h-6296v-8439m-3215,-6697h3215v1339h-3215v-4286h-10984v4286h-3215v-1339h3215m-3215,1435l-1741,-1741v-5856m20897,0v5856l3215,-535v-5320h-27327v5320l3215,535l-1894,1894l-535,-535m7386,286v5358h10984v4420h-10984v-4420h-3215v-5358"/>
+     <rect class="B" x="40169" y="28304" width="11235" height="12725"/>
+     <path class="A" d="M18240,6973v14333h6296v-8439m-10716,-9109v3215h4420v-5894h-4420v2679h4420"/>
+     <rect class="B" x="13695" y="28302" width="11235" height="12726"/>
+     <path class="A" d="M52668,6973v14333h12726v27327h-64300v-27327h12726v-14333"/>
+     <g>      <text class="C" x="18531" y="37343" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="C" x="45380" y="36829" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

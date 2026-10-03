@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,52234" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-linecap:butt;stroke-width:74px;}
+.A,.C,.E,.B,.D{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B,.D{stroke-width:789px;}
+.E{stroke-width:112px;}
+.F{font-size:8131px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.F,.A,.C,.E,.B,.D{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+.F,.E,.B,.D{stroke-linecap:square;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M64081,41073l591,-978l423,-1065"/>
+     <path class="B" d="M65097,4901l-423,-1062l-591,-981"/>
+     <path class="A" d="M1079,37528h18m61451,5073l-978,594l-1065,423m-2105,-18246h-49770m8381,11303v-22491m8574,22491v-22491m24435,22491v-22491m-8574,22491v-22491"/>
+     <path class="B" d="M6094,275l-1127,432l-1034,619"/>
+     <path class="A" d="M2403,2858l-619,1034l-429,1127"/>
+     <path class="B" d="M58487,43926l1392,-143l1295,-404l1177,-635l1021,-847l844,-1021l638,-1174l401,-1298l143,-1392m-64319,0l143,1392l401,1298l638,1174l844,1021l1021,847l1177,635l1295,404l1392,143m50490,0l1392,-143l1298,-401l1174,-638l1024,-844l844,-1024l638,-1171l401,-1301l143,-1392m0,-30082l-143,-1392l-401,-1301l-638,-1171l-844,-1024l-1024,-844l-1174,-638l-1298,-401l-1392,-143m-50490,0l-1392,143l-1298,401l-1174,638l-1024,844l-844,1024l-638,1171l-401,1301l-143,1392m0,30082l143,1392l401,1301l638,1171l844,1024l1024,844l1174,638l1298,401l1392,143"/>
+     <path class="A" d="M62549,1328l-978,-594l-1065,-423"/>
+     <path class="B" d="M28056,46000v-2074m-26973,-37003l143,-1392l401,-1298l638,-1174l844,-1021l1021,-844l1177,-638l1295,-401l1392,-143m50490,0l1392,143l1295,401l1177,638l1021,844l844,1021l638,1174l401,1298l143,1392"/>
+     <path class="A" d="M1353,38911l429,1130l619,1030"/>
+     <path class="B" d="M3932,42602l981,594l1065,423"/>
+     <path class="C" d="M46256,8h-280 z"/>
+     <path class="C" d="M44539,8h-778h1541 z"/>
+     <path class="C" d="M45975,8h-2896 z"/>
+     <path class="C" d="M43079,8h-289 z"/>
+     <path class="A" d="M54338,5194h-3806h3806v7089v-7089v7089h6048v26628v-26628h-6048"/>
+     <path class="B" d="M49841,8h-3585h3585h-10636h3585h-3585"/>
+     <path class="C" d="M50532,5194h-9338 z"/>
+     <path class="C" d="M41194,2773v2420 z"/>
+     <path class="D" d="M35887,8h-1557 z"/>
+     <path class="D" d="M34329,8h-2915 z"/>
+     <path class="D" d="M65402,6922v30085 z"/>
+     <path class="D" d="M31414,8h-1554 z"/>
+     <path class="A" d="M65402,37045v482v-470"/>
+     <path class="D" d="M39465,8h-12446 z"/>
+     <path class="B" d="M39023,8h-3136h3136h-12303h3139h-3139"/>
+     <path class="C" d="M61082,11591v28011v-28011h-6051v-7089h-3806v-1728h-10029h10029v1728h3806v7089 z"/>
+     <path class="C" d="M41194,5194h-15903v-2420v2420 z"/>
+     <path class="B" d="M19643,8h3068h-2644h2644h-2644h5799h-3155h3155"/>
+     <path class="D" d="M50853,8h-36311 z"/>
+     <path class="B" d="M20067,8h-3796h3796h-3796"/>
+     <path class="C" d="M61082,39602h-5880v-691v691 z"/>
+     <path class="B" d="M58487,8h-50490h50490h-50490"/>
+     <path class="A" d="M25290,5194h-9338h9338v-2420h-10029h10029"/>
+     <path class="C" d="M15261,2773v1728 z"/>
+     <path class="D" d="M58487,43926h-5186 z"/>
+     <path class="C" d="M49324,38911h-1728h1728v691 z"/>
+     <path class="A" d="M55201,41331h-5877h5877v-1728v1728v-2420h-5877h5877"/>
+     <path class="C" d="M49324,39602v1728v-1728h-1728v-691v691 z"/>
+     <path class="C" d="M15952,5194h-3806 z"/>
+     <path class="C" d="M15261,4502h-3806 z"/>
+     <path class="D" d="M53301,43926v8300 z"/>
+     <path class="C" d="M41714,38911h-1728h1728v691 z"/>
+     <path class="A" d="M47595,41331h-5880h5880v-1728v1728v-2420h-5880h5880"/>
+     <path class="C" d="M41714,39602v1728v-1728h-1728v-691v691 z"/>
+     <path class="C" d="M12146,5194v7089 z"/>
+     <path class="C" d="M11454,4502v7089 z"/>
+     <path class="A" d="M33516,14074v22603"/>
+     <path class="C" d="M12146,12283h-6051 z"/>
+     <path class="C" d="M11454,11591h-6051 z"/>
+     <path class="C" d="M34105,38911h-1728h1728v691 z"/>
+     <path class="A" d="M39986,41331h-5880h5880v-1728v1728v-2420h-5880h5880"/>
+     <path class="C" d="M34105,39602v1728v-1728h-1728v-691v691 z"/>
+     <path class="D" d="M38428,43926v2074 z"/>
+     <path class="C" d="M26499,38911h-1728h1728v691 z"/>
+     <path class="A" d="M32376,41331h-5877h5877v-1728v1728v-2420h-5877h5877"/>
+     <path class="C" d="M26499,39602v1728v-1728h-1728v-691v691 z"/>
+     <path class="D" d="M38428,46000h-10372v-2074v2074 z"/>
+     <path class="B" d="M45000,43926h-23516h23516v8300h8300h-8300v-8300v8300"/>
+     <path class="C" d="M18889,38911h-1728h1728v691 z"/>
+     <path class="A" d="M24770,41331h-5880h5880v-1728v1728v-2420h-5880h5880"/>
+     <path class="C" d="M18889,39602v1728v-1728h-1728v-691v691 z"/>
+     <path class="A" d="M17161,41331h-5880h5880v-1728v1728v-2420h-5880h5880"/>
+     <path class="D" d="M21484,43926v8300 z"/>
+     <path class="A" d="M60387,12283v26628h-5186h5186h-54293v-26628v26628h5186v691v-691h-5186"/>
+     <path class="C" d="M11280,39602h-5877v-28011v28011h5877v1728 z"/>
+     <path class="B" d="M1079,37008v520v-26441v1887v-6051v30085v-30085m12103,37003v8300h8300h-8300v-8300h-5186h5186v8300"/>
+     <rect class="E" x="8629" y="14074" width="49770" height="22603"/>
+     <g>      <text class="F" x="53685" y="22990" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="F" x="45085" y="23049" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="F" x="36710" y="22772" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="F" x="11636" y="23539" style="stroke:none;">6</text>
+    </g>
+     <g>      <text class="F" x="20510" y="23068" style="stroke:none;">5</text>
+    </g>
+     <g>      <text class="F" x="28521" y="23127" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="F" x="53439" y="34518" style="stroke:none;">7</text>
+    </g>
+     <g>      <text class="F" x="45272" y="34577" style="stroke:none;">8</text>
+    </g>
+     <g>      <text class="F" x="36859" y="34636" style="stroke:none;">9</text>
+    </g>
+     <g>      <text class="F" x="9642" y="34499" style="stroke:none;">12</text>
+    </g>
+     <g>      <text class="F" x="18058" y="34618" style="stroke:none;">11</text>
+    </g>
+     <g>      <text class="F" x="25967" y="34440" style="stroke:none;">10</text>
+    </g>
+  </g></svg>

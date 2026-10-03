@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,40858" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke-width:569px;}
+.A,.B,.C{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B,.C{stroke-width:81px;}
+.D{font-size:5868px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:2px;}
+.D,.A,.B,.C{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1080,8244v24370"/>
+     <path class="B" d="M1885,8244v24370m3214,-23280v-6110m161,33605v-32803m2149,22057v-14472m2353,11712v-5788m1445,-1769v9327"/>
+     <path class="A" d="M42246,40850h-13829"/>
+     <path class="B" d="M5099,4027h-1315m53957,27365h-45023m2994,-20128h39237m0,18332h-39237m45246,-20072h-51457m-5716,27306h1315"/>
+     <path class="A" d="M28416,8h13829"/>
+     <path class="B" d="M59452,25093v-9327m1445,1769v5788m2151,-11712v14472"/>
+     <path class="A" d="M65401,36830v-32803"/>
+     <path class="B" d="M54950,29596 C57436,29596 59452,27580 59452,25093 M59452,15766 C59452,13279 57436,11263 54950,11263 "/>
+     <path class="A" d="M1080,32615 C1080,34477 1887,36248 3292,37469 "/>
+     <path class="B" d="M15712,11263 C13226,11263 11210,13279 11210,15766 M11210,25093 C11210,27580 13226,29596 15712,29596 "/>
+     <path class="A" d="M28416,8 C27972,8 27611,368 27611,812 M43051,812 C43051,368 42690,8 42246,8 M65403,4027 C65403,3583 65043,3222 64598,3222 M3292,3390 C1887,4612 1080,6382 1080,8244 "/>
+     <path class="B" d="M6064,3222 C5619,3222 5259,3583 5259,4027 "/>
+     <path class="A" d="M5259,36830 C5259,37275 5619,37635 6064,37635 M27611,40045 C27611,40490 27972,40850 28416,40850 M42246,40850 C42690,40850 43051,40490 43051,40045 M64598,37635 C65043,37635 65403,37275 65403,36830 "/>
+     <path class="B" d="M7410,11613 C7410,11058 7630,10525 8022,10133 L8022,10133 C8414,9740 8947,9520 9502,9521 M60958,9521 C61513,9520 62045,9740 62438,10133 L62438,10133 C62830,10525 63050,11058 63049,11613 "/>
+     <path class="A" d="M3784,3222 C3590,3222 3403,3292 3256,3420 "/>
+     <path class="B" d="M63049,26084 C63047,29015 60672,31390 57741,31392 M12719,31392 C9788,31390 7412,29015 7410,26084 "/>
+     <path class="A" d="M3256,37438 C3403,37565 3590,37635 3784,37635 "/>
+     <path class="B" d="M3819,3996 C2589,5065 1882,6615 1882,8244 M1882,32615 C1882,34245 2589,35794 3819,36864 M60898,17535 C60898,15503 59832,13620 58091,12574 M58091,28286 C59832,27239 60898,25356 60898,23324 M9764,23324 C9764,25356 10830,27239 12571,28286 M12571,12574 C10830,13620 9764,15503 9764,17535 "/>
+     <path class="A" d="M3784,37633h1315v-6107m964,6107h21547v2412m15437,0v-2412h21549m-36986,-36820v2412h-23826m60813,0h-21549v-2412"/>
+     <rect class="C" x="51070" y="16737" width="6609" height="7483"/>
+     <rect class="C" x="43332" y="16737" width="6609" height="7483"/>
+     <rect class="C" x="28899" y="650" width="12863" height="4986"/>
+     <rect class="C" x="35657" y="16737" width="6609" height="7483"/>
+     <rect class="C" x="28047" y="16737" width="6609" height="7483"/>
+     <rect class="C" x="20566" y="16737" width="6609" height="7483"/>
+     <rect class="C" x="12959" y="16737" width="6609" height="7483"/>
+     <rect class="C" x="28899" y="35223" width="12863" height="4981"/>
+     <path class="B" d="M5099,15604h-1126v9648h1126m161,-15918h-1288v2733h1126v16723h-1126v2733h1288"/>
+     <g>      <text class="D" x="16027" y="23493" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="23635" y="23493" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="38726" y="23493" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="D" x="31116" y="23493" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="D" x="46401" y="23493" style="stroke:none;">5</text>
+    </g>
+     <g>      <text class="D" x="54138" y="23493" style="stroke:none;">6</text>
+    </g>
+  </g></svg>

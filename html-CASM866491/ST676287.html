@@ -1,0 +1,196 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Обновление программного обеспечения (системного, голосового, карт)"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="topic-1-F5240221"></meta>
+      
+      <meta name="DC.Language" content="ru"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Обновление программного обеспечения (системного, голосового, карт)</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="topic-1-F5240221">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST676287">Обновление программного обеспечения (системного, голосового, карт)</h3>
+         
+         
+         <div class="body"> 
+            
+            <p class="p"> 
+               <span class="ph b">Подготовительные работы к обновлению с USB-накопителя</span> 
+               
+            </p>  
+            
+            <p class="p">Контроллеры, необходимые для обновления с USB-накопителя: EDC и контроллеры, требующие обновления.</p>  
+            
+            <p class="p">Инструменты, необходимые для обновления с USB-накопителя: USB-накопитель, инструмент для создания пакетов обновления для USB-накопителя (предоставляется командой OTA).</p>  
+            
+            <p class="p">Требования к пакетам обновления для объектов обновления с USB-накопителя:</p>  
+            
+            <ul name="contents" class="ul"> 
+               
+               <li> 
+                  
+                  <p>Для объектов обновления FBL, таких как MCU VIU/EDC и т. д., подготовить соответствующий пакет обновления в формате.sdb (можно обратиться к системному инженеру OTA для его генерации).</p> 
+                  
+               </li>  
+               
+               <li> 
+                  
+                  <p>Для объектов обновления системного ПО, таких как ОС C2 / ОС блока A EDC, подготовить архивный файл объекта обновления.</p> 
+                  
+               </li> 
+               
+            </ul>
+            
+            
+            <div class="section">
+               <h3 class="title topictitle1">Загрузка пакета для USB-накопителя</h3> 
+               
+               
+               <p class="p">Обратитесь к соответствующему системному инженеру OTA для получения.</p> 
+               
+            </div>
+            
+            
+            <div class="section">
+               <h3 class="title topictitle1">Подготовка пакета для USB-накопителя</h3> 
+               
+               
+               <p class="p">Распаковать загруженный ZIP-файл, поместить полученную после распаковки папку IncallUpgrade в корневой каталог USB-накопителя.</p>  
+               
+               <p class="p"> 
+                  
+                  <div> 
+                     
+                     <h3 class="title topictitle1"></h3>  
+                     
+                     <div class="imagecenter"><img width="" src="image/P335252.png" alt="P335252"></img></div> 
+                     
+                  </div> 
+                  
+               </p>  
+               
+               <p class="p">Примечание: в корневом каталоге USB-накопителя должна быть только одна папка IncallUpgrade, предназначенная для обновления, файлы с одинаковыми именами следует удалить.</p> 
+               
+            </div>
+            
+            
+            <div class="section">
+               <h3 class="title topictitle1">Операции на автомобиле при использовании USB-накопителя</h3> 
+               
+               
+               <p class="p">1. При подключении USB-накопителя появится всплывающее окно с информацией об обнаружении пакета обновления на накопителе</p>  
+               
+               <p class="p">Нажать «Установка»</p>  
+               
+               <p class="p">Интерфейс подготовки данных обновления</p>  
+               
+               <p class="p"> 
+                  
+                  <div> 
+                     
+                     <h3 class="title topictitle1"></h3>  
+                     
+                     <div class="imagecenter"><img width="" src="image/P335261.png" alt="P335261"></img></div> 
+                     
+                  </div> 
+                  
+               </p>  
+               
+               <p class="p">После завершения копирования нажать кнопку «Обновить сейчас»</p>  
+               
+               <p class="p">2. Переход к этапу обновления</p>  
+               
+               <p class="p"> 
+                  
+                  <div> 
+                     
+                     <h3 class="title topictitle1"></h3>  
+                     
+                     <div class="imagecenter"><img width="" src="image/P335262.png" alt="P335262"></img></div> 
+                     
+                  </div> 
+                  
+               </p>  
+               
+               <p class="p">Нажать «Обновить сейчас», чтобы пропустить обратный отсчет</p>  
+               
+               <p class="p"> 
+                  
+                  <div> 
+                     
+                     <h3 class="title topictitle1"></h3>  
+                     
+                     <div class="imagecenter"><img width="" src="image/P335263.png" alt="P335263"></img></div> 
+                     
+                  </div> 
+                  
+               </p>  
+               
+               <p class="p">Переход в интерфейс проверки условий обновления</p>  
+               
+               <p class="p"> 
+                  
+                  <div> 
+                     
+                     <h3 class="title topictitle1"></h3>  
+                     
+                     <div class="imagecenter"><img width="" src="image/P335264.png" alt="P335264"></img></div> 
+                     
+                  </div> 
+                  
+               </p> 
+               
+            </div>
+            
+            
+            <p class="p">По завершении проверки обновление завершается.</p>  
+            
+            <div class="section">Операции на автомобиле при OTA-обновлении</div>
+            
+            
+            <p class="p">После отправки OTA-задачи из облака при включении зажигания головное устройство автоматически проверит версию программного обеспечения; при появлении подсказки об обновлении версии нажать «Обновить» и выполнить действия в соответствии с подсказками на автомобиле.</p>  
+            
+            <div></div> 
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>

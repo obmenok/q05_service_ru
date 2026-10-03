@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 34159,65416" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:144px;}
+.B{stroke-width:1012px;}
+.B,.A,.C{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.D{font-size:10429px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:4px;}
+.D,.B,.A,.C{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M28182,6637v14583h-2429v-14583h-16793v14583h-2429v-14583m17012,0v-3755h-12374v3755m-7068,11047h2429m21651,0h2429m-21651,0h16793"/>
+     <path class="B" d="M13643,59661v5745h-9541v-5745m-3536,-37118v30050l3536,3532m26510,-33582h3536v-22534h-9281v3316h3316v3312h2429v53024h-26510v-53024h2429v-3312h3312v-3316h-9277v22534h3536m30046,0v40654h-11491v-3536"/>
+     <rect class="C" x="12520" y="23610" width="11746" height="13305"/>
+     <rect class="C" x="12520" y="41917" width="11746" height="13305"/>
+     <g>      <text class="D" x="16852" y="34471" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="17619" y="52779" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

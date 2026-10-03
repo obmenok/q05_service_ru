@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,23481" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:470px;}
+.A,.C,.B,.D{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B,.D{stroke-width:66px;}
+.E{font-size:3954px;fill:#000;fill-opacity:1.0;font-family:Lucida Sans;stroke-width:1px;}
+.E,.A,.C,.B,.D{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M61091,9l103,5l103,14l102,25l98,35l94,44l90,53l83,63l77,70l70,77l63,83l53,90l44,94l35,98l25,102l14,103l22,180M59547,9 C58956,9 58476,489 58476,1081 M58476,1079l5,-98l13,-98l22,-94l31,-94l38,-89l48,-87l55,-81l63,-76l70,-68l76,-63l81,-55l85,-48l90,-40l92,-31l96,-22l98,-12l98,-5M8207,1081 C8207,489 7727,9 7135,9 M7137,9l100,5l96,12l96,22l94,31l89,40l87,48l81,55l74,63l70,68l63,76l55,81l48,87l40,89l29,94l24,94l13,98l3,98M62162,1069 C62152,480 61671,8 61082,7 M5356,1079l3,-98l12,-98l24,-94l29,-94l40,-89l48,-87l55,-81l63,-76l70,-68l74,-63l81,-55l87,-48l89,-40l94,-31l96,-22l96,-12l100,-5M6428,9 C5836,9 5356,489 5356,1081 "/>
+     <path class="B" d="M64327,23471l98,-5l98,-12l96,-22l92,-31l90,-40l85,-46l81,-57l76,-63l70,-68l63,-76l55,-81l48,-85l38,-90l31,-94l22,-94l14,-98l3,-98M3445,20568 C2981,21113 2810,21851 2986,22545 M3445,20568l79,22l79,14l81,9l83,3M64019,20618 C64611,20618 65091,20139 65091,19547 M2978,21635 C2973,21894 2976,22153 2986,22413 M3847,23450 C3912,23463 3978,23470 4044,23471 M2974,21688l11,770l259,642l599,349M3122,20401 C3310,20542 3538,20618 3773,20618 M2586,19192 C2540,19787 2885,20343 3439,20567 M65396,22413 C65406,22153 65409,21894 65404,21635 "/>
+     <path class="A" d="M61091,9h-1545"/>
+     <path class="C" d="M58476,1079v1782 z"/>
+     <path class="B" d="M62175,3504v4991v-4991h534h-293h2674h-2915h3231v18183v-18183h-315h315v18183"/>
+     <path class="D" d="M59102,5894v6417 z"/>
+     <path class="D" d="M65091,3504v16044 z"/>
+     <path class="B" d="M64064,20618h-42h42h-40"/>
+     <path class="D" d="M61598,19192h-94 z"/>
+     <path class="D" d="M59102,12312h-6415v-6417h6415h-6415v6417 z"/>
+     <path class="D" d="M64021,20618h-2139 z"/>
+     <path class="D" d="M64327,23471h-22 z"/>
+     <path class="D" d="M50047,5894v6417 z"/>
+     <path class="D" d="M50047,12312h-6417v-6417h6417h-6417v6417 z"/>
+     <path class="D" d="M40992,5894v6417 z"/>
+     <path class="D" d="M40992,12312h-6417v-6417h6417h-6417v6417 z"/>
+     <path class="D" d="M31936,5894v6417 z"/>
+     <path class="D" d="M61867,20618h-25468 z"/>
+     <path class="D" d="M31936,12312h-6417v-6417h6417h-6417v6417 z"/>
+     <path class="D" d="M22881,5894v6417 z"/>
+     <path class="B" d="M36398,21688h-51l-48,-2495l48,2495h51h-5398l-50,-2495l50,2495h5346"/>
+     <path class="D" d="M22881,12312h-6417v-6417h6417h-6417v6417 z"/>
+     <path class="D" d="M13824,5894v6417 z"/>
+     <path class="B" d="M2701,9922v-6417h2674h-2674h2655"/>
+     <path class="D" d="M13824,12312h-6415v-6417h6415h-6415v6417 z"/>
+     <path class="C" d="M5356,1079v8843 z"/>
+     <path class="D" d="M11666,19192v713 z"/>
+     <path class="B" d="M11666,19905h-932v-713v713h438"/>
+     <path class="D" d="M30977,20618h-25082 z"/>
+     <path class="D" d="M64305,23471h-60252 z"/>
+     <path class="D" d="M5876,19192l18,1426 z"/>
+     <path class="D" d="M5910,20618h-2139 z"/>
+     <path class="A" d="M7137,9h-711m52049,1069v1782h-50269v-1782m53955,77l13,15539l1,12l12,2480l-467,1h-60644v-9270h4278v-8843m53119,0v1782h-49829"/>
+     <g>      <text class="E" x="10052" y="10949" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="E" x="18965" y="11305" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="E" x="28236" y="11305" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="E" x="37149" y="11305" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="E" x="46063" y="10949" style="stroke:none;">5</text>
+    </g>
+     <g>      <text class="E" x="54976" y="11662" style="stroke:none;">6</text>
+    </g>
+  </g></svg>

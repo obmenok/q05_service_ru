@@ -1,0 +1,2442 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Список кодов неисправностей DTC и простые методы устранения"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="topic-1-F5240221"></meta>
+      
+      <meta name="DC.Language" content="ru"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Список кодов неисправностей DTC и простые методы устранения</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="topic-1-F5240221">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST576868">Список кодов неисправностей DTC и простые методы устранения</h3>
+         
+         
+         <div class="body"> 
+            
+            <p class="p">Диагностика системного уровня (включая диагностику шины CAN по состояниям BUSOFF, потере сообщений, недействительности данных и т.д., контролируемым отделом архитектуры; диагностику высокого и низкого напряжения питания автомобиля; проводную связь между ECU на уровне архитектуры автомобиля)</p>  
+            
+            
+            <table width="100%" border="1" frame="box" rules="all">  
+               
+               
+               
+               
+               
+               
+               <tbody> 
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Номер</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Код неисправности</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Значение</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Возможная причина</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Рекомендации по ремонту</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">1</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B256216</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком низкое напряжение аккумулятора ECU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Неисправность аккумуляторной батареи</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить аккумуляторную батарею</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">2</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B256217</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком высокое напряжение аккумулятора ECU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Неисправность аккумуляторной батареи</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить аккумуляторную батарею</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">3</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8088</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность BUSOFF (общей CAN)</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Обрыв соединения CAN</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить соединение проводов CAN</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">4</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8187</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут по углу поворота EPS</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">5</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8287</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут по скорости рыскания ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">6</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8387</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут по передаче VCU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">7</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8487</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут по скорости автомобиля ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">8</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8186</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Недействительные данные угла поворота EPS</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">9</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8286</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Недействительные данные скорости рыскания ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">10</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8386</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Недействительные данные передачи VCU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">11</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8486</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Недействительные данные скорости автомобиля ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">12</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8587</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут VIU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">13</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8787</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут управления AD</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">14</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8887</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут VIUOTA</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">15</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8883</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка проверки VIUOTA</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">16</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8882</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка счетчика VIUOTA</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">17</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8183</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка проверки угла поворота EPS</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">18</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8182</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка счетчика угла поворота EPS</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">19</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8283</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка проверки скорости рыскания ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">20</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8282</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка счетчика скорости рыскания ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">21</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8383</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка проверки передачи VCU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">22</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8382</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка счетчика передачи VCU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">23</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8483</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка проверки скорости автомобиля ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">24</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8482</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка счетчика скорости автомобиля ESP</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">25</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8687</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут напряжения питания BCM</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">26</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8C87</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут местного времени TBOX</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">27</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8D87</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Таймаут общего пробега CDC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">28</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">U1A8087</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Нарушение синхронизации времени</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Ошибка выхода C3B</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Проверить выходной сигнал C3B</p> 
+                        
+                     </td> 
+                     
+                  </tr> 
+                  
+               </tbody> 
+               
+            </table> 
+            
+            
+            <p class="p">Диагностика уровня изделия (включая диагностику связи CAN/LIN, контролируемую разработчиком изделия; диагностику питания внутренних микросхем; диагностику выключателей и драйверов; внутреннюю диагностику ECU; диагностику целостности контактов и цепей контроллера и т.д.)</p>  
+            
+            
+            <table width="100%" border="1" frame="box" rules="all">  
+               
+               
+               
+               
+               
+               
+               <tbody> 
+                  
+                  <tr> 
+                     
+                     <td width="20%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Номер</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Код неисправности</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Значение</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Возможная причина</p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Рекомендации по ремонту</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">1</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250055</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Параметры недействительны</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Параметры радара не сконфигурированы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Сконфигурировать параметры радара</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">2</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250296</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Отказ радиочастотного тракта (radio)</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность контроллера радара</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">3</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250396</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Отказ модуля базовой полосы (bb)</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность контроллера радара</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">4</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250054</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Не откалиброван</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Контроллер радара не откалиброван</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Выполнить калибровку контроллера радара</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">5</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250097</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ослепление радара</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Контроллер радара находится в условиях ослепления</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Устранить условия ослепления контроллера радара</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">6</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250076</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Несоответствие расположения радара</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Расположение радаров перепутано местами</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Поменять местами радары в соответствии с правильным расположением</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">7</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250896</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Разъюстировка радара</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Угол отклонения радара выходит за допустимые пределы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">8</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250078</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Сбой калибровки</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Большая погрешность монтажного положения</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Проверить угол установки </span> <span class="ph b"></span> <span class="ph b"> Выполнить калибровку контроллера радара</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">9</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251196</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Результат калибровки угла в горизонтальной плоскости превышает допуск</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Большая погрешность монтажного положения</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Проверить угол установки </span> <span class="ph b"></span> <span class="ph b"> Выполнить калибровку контроллера радара</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">10</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251217</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком высокое напряжение 3V3 SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность аппаратной схемы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">11</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251216</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком низкое напряжение 3V3 SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность аппаратной схемы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">12</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251317</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком высокое напряжение AVDDRF SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность аппаратной схемы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">13</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251316</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком низкое напряжение AVDDRF SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность аппаратной схемы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">14</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251417</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком высокое напряжение VDDC SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность аппаратной схемы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">15</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251416</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком низкое напряжение VDDC SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность аппаратной схемы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">16</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251596</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком высокая рабочая температура SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком высокая температура рабочей среды</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Использовать после снижения температуры контроллера</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">17</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251796</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка сторожевого таймера</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Сбой в работе программы</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Использовать после возвращения температуры контроллера к норме</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">18</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B251996</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Рабочая температура PMIC превышает допуск</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Слишком высокая температура рабочей среды</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Температура контроллера</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">19</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250096</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Внутренняя неисправность микросхемы SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Внутренняя неисправность микросхемы SOC</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">20</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250089</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность BUSOFF контроллера CAN1 (частной CAN)</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Неисправность шины CAN или ECU</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Проверить шину CAN или Заменить ECU.</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">21</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250057</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Несоответствие программного обеспечения радара</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Версии программного обеспечения левого и правого радаров не совпадают</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Заменить контроллер</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph i">22</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">B250056</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Ошибка конфигурации радара на сходе с конвейера</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">В радар не записано конфигурационное слово либо диапазон конфигурационного слова некорректен</span> 
+                           
+                        </p> 
+                        
+                     </td>  
+                     
+                     <td width="20%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p> 
+                           <span class="ph b">Необходимо выполнить шаг прошивки конфигурационного слова при электрической проверке</span> 
+                           
+                        </p> 
+                        
+                     </td> 
+                     
+                  </tr> 
+                  
+               </tbody> 
+               
+            </table> 
+            
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>

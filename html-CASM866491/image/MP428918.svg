@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 45211,65416" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.B{stroke-width:104px;}
+.A,.B,.C{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.C{stroke-width:733px;}
+.D{font-size:7553px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.D,.A,.B,.C{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <rect class="A" x="24093" y="18903" width="11265" height="11103"/>
+     <rect class="A" x="11324" y="18941" width="11265" height="11100"/>
+     <path class="B" d="M13662,57791 C12494,57791 11546,58738 11546,59907 M11546,63292 C11546,64460 12494,65408 13662,65408 "/>
+     <path class="C" d="M9006,65405h27938"/>
+     <path class="B" d="M39060,49110h-32169"/>
+     <path class="C" d="M39060,63292v-18837m-1267,-35979l54,2l54,5l54,5l54,2l54,5l54,8l54,8l54,8l52,8l54,14l52,14l54,14l52,17l104,40l49,20l52,26l49,23l49,26l49,28l46,28l46,28l46,28l46,34l43,31l43,34l43,34l40,37l40,34l40,40l37,37l37,43l37,40l34,43l34,43l31,43l31,46l31,46l28,46l28,46l28,49l26,49l23,49l23,52l23,49l40,104l17,52l14,52l14,54l11,52l11,54l17,109l5,54l8,54l2,54l5,54l5,54l2,54m0,27515v-27515m-31746,-2115h29631"/>
+     <path class="B" d="M39907,29639h5292m-20108,8466h12700m-24130,19682h18626"/>
+     <path class="C" d="M36944,65408 C38113,65408 39060,64460 39060,63292 "/>
+     <path class="B" d="M34404,59907v3385M32288,65408 C33457,65408 34404,64460 34404,63292 M34404,59907 C34404,58738 33457,57791 32288,57791 "/>
+     <path class="C" d="M6043,10590v27515m2118,-29631l-57,2l-54,5l-54,5l-54,2l-54,5l-54,8l-54,8l-54,8l-52,8l-54,14l-52,14l-54,14l-52,17l-104,40l-49,20l-52,26l-49,23l-49,26l-46,28l-49,28l-46,28l-46,28l-46,34l-43,31l-86,69l-40,37l-40,37l-40,37l-37,40l-37,40l-37,40l-34,43l-34,43l-31,43l-31,46l-31,46l-57,92l-28,49l-26,49l-23,49l-23,52l-23,49l-40,104l-17,52l-14,52l-14,54l-11,54l-11,52l-17,109l-5,54l-11,109l-5,54l-2,54l-5,54m847,33864v18837"/>
+     <path class="B" d="M6043,29639h-5289m7407,8466l-1059,1059m4444,24127v-3385"/>
+     <path class="C" d="M6891,53555l-3599,3599v1481l3599,-315m33016,-35030h5292v21164h-44446v-21164h5289m33016,30264l3599,3599v1481l-3599,-315m-9734,-49846v-8466h-12700v8466M6891,63292 C6891,64460 7838,65408 9006,65408 "/>
+     <path class="B" d="M39907,19904h-2751v-5081h2751m-2115,5081v18201l1056,1059m-1056,-24341v-4233l-29631,-11v4245m-2118,0h2751v5081h-2751m19049,20316v-4233h-4233v4233m-12697,-20316v18201h12697m-20105,0h5289l2118,2115h29631l2115,-2115h5292"/>
+     <g>      <text class="D" x="29470" y="27530" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="15809" y="28456" style="stroke:none;">1</text>
+    </g>
+  </g></svg>

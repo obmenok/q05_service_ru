@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,45475" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke:#808080;}
+.A1,.D1,.B1,.U,.W{fill:#FFF;}
+.B,.D,.C,.A,.A1,.D1,.B1,.U,.W{stroke-width:16px;}
+.C1{fill:#00F;}
+.C1,.D1,.G1{font-family:Lucida Sans;font-size:400px;}
+.E,.F,.H{stroke-width:122px;}
+.E,.F,.H,.B,.D,.C,.A,.G,.I,.O,.M,.K,.E1,.F1,.Z,.X,.V,.C1,.Y,.A1,.D1,.B1,.U,.W,.S,.Q,.T,.R,.G1{stroke-dasharray:none;}
+.E1,.F1,.G1{stroke-width:16.0px;}
+.E1,.F1,.Z,.X,.V,.C1,.Y,.A1,.D1,.B1,.U,.W,.S,.Q,.T,.R,.G1{fill-opacity:1.0;}
+.E1,.Z,.X,.V,.S,.Q,.T,.R,.G1{fill:#000;}
+.F1{fill:#0F0;}
+.G{stroke-width:49px;}
+.H,.C,.F1{stroke:#0F0;}
+.I,.O,.M,.K,.Z,.X,.V,.C1,.Y,.A1,.D1,.B1,.U,.W,.S,.Q,.T,.R,.G1{stroke-linecap:square;}
+.J,.E,.F,.B,.D,.G,.I,.E1,.Z,.X,.V,.S,.Q,.T,.R,.G1{stroke:#000;}
+.J,.P,.N,.L{stroke-dasharray:824,412,164,412;}
+.J,.P,.N,.L,.E,.F,.H,.B,.D,.C,.A,.G,.E1,.F1{stroke-linecap:butt;}
+.J,.P,.N,.L,.E,.F,.H,.B,.D,.C,.A,.G,.I,.O,.M,.K{fill-opacity:0.0;fill:none;}
+.J,.P,.N,.L,.E,.F,.H,.B,.D,.C,.A,.G,.I,.O,.M,.K,.E1,.F1{font-family:sans-serif;}
+.J,.P,.N,.L,.E,.F,.H,.B,.D,.C,.A,.G,.I,.O,.M,.K,.E1,.F1,.S,.Q,.T,.R,.G1{stroke-opacity:1.0;}
+.J,.P,.N,.L,.E,.F,.H,.B,.D,.C,.A,.G,.I,.O,.M,.K,.E1,.F1,.Z,.X,.V,.C1,.Y,.A1,.D1,.B1,.U,.W,.S,.Q,.T,.R,.G1{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.J,.P,.N,.L,.I,.O,.M,.K{stroke-width:158px;}
+.K{stroke:#F00;}
+.L,.M,.A1,.D1,.B1,.U,.W{stroke:#D3D3D3;}
+.N{stroke:#0F3;}
+.P,.O,.C1{stroke:#00F;}
+.Q{font-family:仿宋;font-size:897px;}
+.S{font-family:Arial;font-size:399px;}
+.U,.T{font-size:359px;}
+.V,.W,.R{font-size:603px;}
+.V,.Y,.W,.R{font-family:微软雅黑;}
+.X,.B1{font-size:323px;}
+.X,.B1,.U,.T{font-family:宋体;}
+.Y{fill:#800080;font-size:362px;stroke:#800080;}
+.Z,.A1{font-family:Arial Unicode MS;font-size:461px;}
+.Z,.X,.V,.C1,.Y,.A1,.D1,.B1,.U,.W{stroke-opacity:0.0;}
+.Z,.X,.V,.C1,.Y,.S,.Q,.T,.R{stroke-width:0.5px;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1098,45467v-45459h64291v45459h-64291m64291,-45459v45459h-64291m64291,-45459v45459"/>
+     <path class="B" d="M2040,2393h10584"/>
+     <path class="C" d="M65390,45467h-64292l0,-45459l64291,1 z"/>
+     <rect class="D" x="2004" y="849" width="62407" height="43849"/>
+     <path class="B" d="M12625,2393v-1511"/>
+     <path class="E" d="M62468,3255h-54531m51608,37666h-52928"/>
+     <g>      <path class="B" d="M23502,22737v649M23178,23712 C23178,23891 23323,24036 23502,24036 L23502,24036 C23682,24036 23827,23891 23827,23712 "/>
+       <rect class="E1" x="23372" y="22932" width="259" height="974"/>
+    </g>
+     <g>      <path class="B" d="M23762,23841 C23762,23698 23646,23582 23502,23582 L23502,23582 C23359,23582 23243,23698 23243,23841 M23502,22737v844"/>
+    </g>
+     <g>      <path class="B" d="M28373,28907 C28373,28728 28518,28582 28698,28582 L28698,28582 C28877,28582 29023,28728 29023,28907 M28698,29232v649"/>
+       <rect class="E1" x="28568" y="28712" width="259" height="974"/>
+    </g>
+     <g>      <path class="B" d="M28698,29037v844M28958,28777 C28958,28921 28841,29037 28698,29037 L28698,29037 C28554,29037 28438,28921 28438,28777 "/>
+    </g>
+     <g>      <path class="B" d="M31945,22737v649M31620,23712 C31620,23891 31766,24036 31945,24036 L31945,24036 C32124,24036 32270,23891 32270,23712 "/>
+       <rect class="E1" x="31815" y="22932" width="259" height="974"/>
+       <path class="B" d="M28698,22737v649M28373,23712 C28373,23891 28518,24036 28698,24036 L28698,24036 C28877,24036 29023,23891 29023,23712 "/>
+       <rect class="E1" x="28568" y="22932" width="259" height="974"/>
+    </g>
+     <g>      <path class="B" d="M28958,23841 C28958,23698 28841,23582 28698,23582 L28698,23582 C28554,23582 28438,23698 28438,23841 M28698,22737v844"/>
+    </g>
+     <g>      <path class="B" d="M32205,23841 C32205,23698 32088,23582 31945,23582 L31945,23582 C31801,23582 31685,23698 31685,23841 M31945,22737v844"/>
+    </g>
+     <g>      <path class="B" d="M20580,13970 C20580,13791 20725,13645 20905,13645 L20905,13645 C21084,13645 21229,13791 21229,13970 M20905,14295v649"/>
+       <rect class="E1" x="20775" y="13775" width="259" height="974"/>
+       <path class="B" d="M18632,13970 C18632,13791 18777,13645 18956,13645 L18956,13645 C19136,13645 19281,13791 19281,13970 M18956,14295v649"/>
+       <rect class="E1" x="18827" y="13775" width="259" height="974"/>
+    </g>
+     <g>      <path class="B" d="M18956,22737v649M18632,23712 C18632,23891 18777,24036 18956,24036 L18956,24036 C19136,24036 19281,23891 19281,23712 "/>
+       <rect class="E1" x="18827" y="22932" width="259" height="974"/>
+    </g>
+     <g>      <circle class="E1" cx="28698" cy="40921" r="259"/>
+    </g>
+     <g>      <path class="F" d="M33568,24036h324v4545h-6494v-4545 z"/>
+    </g>
+     <g>      <path class="B" d="M18967,8424 C19039,8464 19083,8540 19080,8622 L19080,8622 C19078,8704 19031,8778 18957,8813 "/>
+       <circle class="D" cx="18957" cy="8814" r="83"/>
+       <circle class="D" cx="18957" cy="8043" r="83"/>
+       <path class="B" d="M18968,8425 C18901,8386 18858,8314 18856,8236 L18856,8236 C18854,8158 18893,8084 18958,8042 "/>
+       <rect class="D" x="18643" y="7801" width="624" height="1298"/>
+       <path class="B" d="M18957,7801v242m-2,772v284"/>
+    </g>
+     <g>      <rect class="D" x="18589" y="11693" width="2817" height="1301"/>
+       <circle class="D" cx="20900" cy="12615" r="32"/>
+       <path class="B" d="M19089,12333h1858m-1858,68h1889"/>
+       <circle class="D" cx="20900" cy="12152" r="32"/>
+       <path class="B" d="M20931,12144l195,431M18922,12532 C18948,12565 18992,12578 19032,12563 L19032,12563 C19071,12549 19097,12510 19095,12468 L19095,12468 C19093,12426 19064,12390 19024,12379 L19024,12379 C18983,12368 18940,12384 18917,12420 M18917,12422 C18940,12457 18983,12474 19024,12463 L19024,12463 C19064,12452 19093,12415 19095,12373 L19095,12373 C19097,12331 19071,12293 19032,12278 L19032,12278 C18992,12264 18948,12277 18922,12310 M18953,12679 C18998,12703 19054,12687 19081,12643 L19081,12643 C19108,12600 19096,12543 19053,12514 L19053,12514 C19011,12484 18954,12493 18922,12534 M18922,12306 C18948,12340 18992,12352 19032,12338 L19032,12338 C19071,12323 19097,12285 19095,12243 L19095,12243 C19093,12201 19064,12165 19024,12153 L19024,12153 C18983,12142 18940,12159 18917,12194 M18917,12195 C18946,12239 19004,12252 19049,12225 L19049,12225 C19093,12198 19108,12140 19082,12094 L19082,12094 C19057,12049 18999,12032 18953,12057 M20868,12160l195,430"/>
+       <circle class="D" cx="21095" cy="12583" r="32"/>
+       <path class="B" d="M18952,11754v303v-364m1948,462v-462m0,922v378m-1948,-315v315m0,-61v-254"/>
+    </g>
+     <g>      <path class="F" d="M25126,24036h324v2143h-259l519,259h-259v2143h-8442v-4545 z"/>
+    </g>
+     <g>      <path class="G" d="M28698,41571h649m-649,259h454m-454,259h259m-259,-1168v649h-649m649,259h-454m194,259h259"/>
+    </g>
+     <g>      <path class="F" d="M28373,13645h324v-3117h-259l519,-259h-259v-3117h-11689v6494 z"/>
+    </g>
+     <g>      <path class="H" d="M18956,7801v-4545"/>
+    </g>
+     <g>      <path class="H" d="M18956,12996v649"/>
+    </g>
+     <g>      <path class="H" d="M20905,12996v649"/>
+    </g>
+     <g>      <rect class="F1" x="18875" y="9668" width="162" height="162"/>
+       <path class="H" d="M18956,11697v-1948v-649m0,649h1948v1948"/>
+    </g>
+     <g>      <path class="I" d="M28698,29881v11040"/>
+       <path class="J" d="M28698,29881v11040"/>
+    </g>
+     <g>      <path class="K" d="M28698,22737v-2597"/>
+       <path class="L" d="M28698,22737v-2597"/>
+    </g>
+     <g>      <path class="M" d="M31945,22737v-1948"/>
+       <path class="N" d="M31945,22737v-1948"/>
+    </g>
+     <g>      <path class="M" d="M31945,19490v-2597"/>
+       <path class="N" d="M31945,19490v-2597"/>
+    </g>
+     <g>      <path class="M" d="M20905,14944h11040"/>
+       <path class="N" d="M20905,14944h11040"/>
+       <path class="M" d="M31945,14944v649"/>
+       <path class="N" d="M31945,14944v649"/>
+    </g>
+     <g>      <path class="O" d="M18956,22737v-7793"/>
+       <path class="P" d="M18956,22737v-7793"/>
+    </g>
+     <g>      <path class="K" d="M23502,22737v-4545"/>
+       <path class="L" d="M23502,22737v-4545"/>
+       <path class="K" d="M23502,18191h5195"/>
+       <path class="L" d="M23502,18191h5195"/>
+       <path class="K" d="M28698,18191v649"/>
+       <path class="L" d="M28698,18191v649"/>
+    </g>
+     <text class="Q" x="2806" y="2146" style="stroke:none;">后雨刮电机</text>
+     <text class="R" x="4392" y="41078" style="stroke:none;">GND</text>
+     <text class="R" x="2418" y="3411" style="stroke:none;">前舱保险盒BAT电源</text>
+     <g>      <text class="S" x="23665" y="23502" style="stroke:none;">F101a</text>
+    </g>
+     <g>      <text class="T" x="23944" y="23069" style="stroke:none;">/35</text>
+    </g>
+     <g>      <text class="S" x="29109" y="20785" style="stroke:none;">DF5</text>
+    </g>
+     <g>      <text class="S" x="28147" y="20742" style="stroke:none;">/9</text>
+    </g>
+     <g>      <text class="S" x="29077" y="29434" style="stroke:none;">D27</text>
+    </g>
+     <g>      <text class="T" x="29248" y="29971" style="stroke:none;">/3</text>
+    </g>
+     <g>      <text class="S" x="29077" y="23502" style="stroke:none;">D27</text>
+    </g>
+     <g>      <text class="T" x="29248" y="23069" style="stroke:none;">/2</text>
+    </g>
+     <g>      <text class="S" x="32324" y="23502" style="stroke:none;">D27</text>
+    </g>
+     <g>      <text class="T" x="32495" y="23069" style="stroke:none;">/1</text>
+    </g>
+     <g>      <text class="S" x="29109" y="18620" style="stroke:none;">FD5</text>
+    </g>
+     <g>      <text class="S" x="28147" y="18664" style="stroke:none;">/9</text>
+    </g>
+     <g>      <text class="S" x="32356" y="19270" style="stroke:none;">FD5</text>
+    </g>
+     <g>      <text class="S" x="31273" y="19313" style="stroke:none;">/17</text>
+    </g>
+     <g>      <text class="S" x="32356" y="21435" style="stroke:none;">DF5</text>
+    </g>
+     <g>      <text class="S" x="31273" y="21391" style="stroke:none;">/17</text>
+    </g>
+     <g>      <text class="S" x="32356" y="15275" style="stroke:none;">CF1</text>
+    </g>
+     <g>      <text class="S" x="31273" y="15318" style="stroke:none;">/15</text>
+    </g>
+     <g>      <text class="S" x="19227" y="15058" style="stroke:none;">C01c</text>
+    </g>
+     <g>      <text class="T" x="19398" y="15586" style="stroke:none;">/22</text>
+    </g>
+     <g>      <text class="S" x="21176" y="15058" style="stroke:none;">C01c</text>
+    </g>
+     <g>      <text class="T" x="21346" y="15586" style="stroke:none;">/31</text>
+    </g>
+     <g>      <text class="S" x="32356" y="17440" style="stroke:none;">FC1</text>
+    </g>
+     <g>      <text class="S" x="31273" y="17396" style="stroke:none;">/15</text>
+    </g>
+     <g>      <text class="S" x="19215" y="22950" style="stroke:none;">C80a</text>
+    </g>
+     <g>      <text class="T" x="19398" y="22517" style="stroke:none;">/49</text>
+    </g>
+     <g>      <rect class="U" x="29264" y="25826" width="3197" height="649"/>
+       <text class="V" x="29357" y="26470" style="stroke:none;">MA-WMTR</text>
+    </g>
+     <g>      <rect class="W" x="29018" y="25205" width="3256" height="649"/>
+       <text class="V" x="29111" y="25848" style="stroke:none;">雨刮电机-后</text>
+    </g>
+     <g>      <text class="X" x="31991" y="24446" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="Y" x="31821" y="24803" style="stroke:none;">电</text>
+    </g>
+     <g>      <text class="X" x="28744" y="28424" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="Y" x="28337" y="28082" style="stroke:none;">GND</text>
+    </g>
+     <g>      <text class="X" x="28744" y="24444" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="Y" x="28035" y="24823" style="stroke:none;">停位信号</text>
+    </g>
+     <g>      <text class="V" x="19671" y="9055" style="stroke:none;">EF12</text>
+    </g>
+     <g>      <text class="Z" x="19882" y="8371" style="stroke:none;">15A</text>
+    </g>
+     <g>      <text class="V" x="20678" y="12230" style="stroke:none;">ER20</text>
+    </g>
+     <g>      <text class="Z" x="20925" y="12827" style="stroke:none;">30A</text>
+    </g>
+     <g>      <rect class="A1" x="20670" y="25843" width="1811" height="649"/>
+       <text class="V" x="20763" y="26487" style="stroke:none;">BDC-F</text>
+    </g>
+     <g>      <rect class="W" x="19132" y="25207" width="4455" height="649"/>
+       <text class="V" x="19225" y="25851" style="stroke:none;">车身域控制器-前</text>
+    </g>
+     <g>      <text class="X" x="23061" y="24536" style="stroke:none;">J 2-35</text>
+    </g>
+     <g>      <text class="Y" x="22300" y="24823" style="stroke:none;">后雨刮停止信号</text>
+    </g>
+     <g>      <text class="X" x="18515" y="24536" style="stroke:none;">J 3-49</text>
+    </g>
+     <g>      <text class="Y" x="17933" y="24818" style="stroke:none;">后雨刮继电器</text>
+    </g>
+     <g>      <text class="Z" x="27812" y="42854" style="stroke:none;">GD502B</text>
+    </g>
+     <g>      <text class="Z" x="27521" y="43395" style="stroke:none;">背门线接地</text>
+    </g>
+     <g>      <rect class="A1" x="22124" y="10074" width="2150" height="649"/>
+       <text class="V" x="22217" y="10717" style="stroke:none;">GA-EFB</text>
+    </g>
+     <g>      <rect class="W" x="21484" y="10831" width="2997" height="649"/>
+       <text class="V" x="21577" y="11475" style="stroke:none;">前舱保险盒</text>
+    </g>
+     <g>      <text class="X" x="18808" y="13507" style="stroke:none;">C22</text>
+    </g>
+     <g>      <text class="X" x="20756" y="13507" style="stroke:none;">C31</text>
+    </g>
+     <g>      <rect class="B1" x="28573" y="35185" width="248" height="432"/>
+       <text class="C1" x="28638" y="35614" style="stroke:none;">B</text>
+    </g>
+     <g>      <rect class="D1" x="28356" y="34752" width="684" height="432"/>
+       <text class="C1" x="28421" y="35181" style="stroke:none;">1.0</text>
+    </g>
+     <g>      <rect class="D1" x="28262" y="21222" width="870" height="432"/>
+       <text class="C1" x="28327" y="21651" style="stroke:none;">W/R</text>
+    </g>
+     <g>      <rect class="D1" x="28219" y="20789" width="958" height="432"/>
+       <text class="C1" x="28284" y="21218" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="D1" x="31490" y="21547" width="910" height="432"/>
+       <text class="C1" x="31555" y="21976" style="stroke:none;">G/W</text>
+    </g>
+     <g>      <rect class="D1" x="31603" y="21114" width="684" height="432"/>
+       <text class="C1" x="31668" y="21543" style="stroke:none;">1.0</text>
+    </g>
+     <g>      <rect class="D1" x="31490" y="17975" width="910" height="432"/>
+       <text class="C1" x="31555" y="18404" style="stroke:none;">G/W</text>
+    </g>
+     <g>      <rect class="D1" x="31603" y="17542" width="684" height="432"/>
+       <text class="C1" x="31668" y="17971" style="stroke:none;">1.0</text>
+    </g>
+     <g>      <rect class="D1" x="26208" y="14489" width="432" height="910"/>
+       <text class="C1" x="0" y="0" transform="translate(26637 15333) rotate (270.0)" style="stroke:none;">G/W</text>
+    </g>
+     <g>      <rect class="D1" x="25775" y="14602" width="432" height="684"/>
+       <text class="C1" x="0" y="0" transform="translate(26204 15220) rotate (270.0)" style="stroke:none;">1.0</text>
+    </g>
+     <g>      <rect class="D1" x="18769" y="18624" width="374" height="432"/>
+       <text class="C1" x="18834" y="19053" style="stroke:none;">Bl</text>
+    </g>
+     <g>      <rect class="D1" x="18477" y="18191" width="958" height="432"/>
+       <text class="C1" x="18542" y="18620" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="D1" x="25884" y="17756" width="432" height="870"/>
+       <text class="C1" x="0" y="0" transform="translate(26313 18561) rotate (270.0)" style="stroke:none;">W/R</text>
+    </g>
+     <g>      <rect class="D1" x="25451" y="17712" width="432" height="958"/>
+       <text class="C1" x="0" y="0" transform="translate(25880 18604) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <circle class="G1" cx="18956" cy="3255" r="259"/>
+    </g>
+  </g></svg>

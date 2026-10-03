@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,45475" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke:#808080;}
+.B,.D,.C,.A,.E,.H,.F,.M,.N,.L,.K,.J,.I{stroke-dasharray:none;}
+.B,.D,.C,.A,.E,.N,.L{stroke-width:16px;}
+.B,.D,.H,.K,.J,.I{stroke:#000;}
+.C{stroke:#0F0;}
+.E{stroke:#990;}
+.G{stroke-dasharray:824,412,164,412;}
+.G,.B,.D,.C,.A,.E{stroke-linecap:butt;}
+.G,.B,.D,.C,.A,.E,.H,.F{fill-opacity:0.0;fill:none;font-family:sans-serif;}
+.G,.B,.D,.C,.A,.E,.H,.F,.K,.J,.I{stroke-opacity:1.0;}
+.G,.B,.D,.C,.A,.E,.H,.F,.M,.N,.L,.K,.J,.I{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.G,.F,.N,.L{stroke:#0F3;}
+.G,.H,.F{stroke-width:158px;}
+.H,.F,.M,.N,.L,.K,.J,.I{stroke-linecap:square;}
+.I{font-size:897px;font-family:仿宋;}
+.K{font-size:399px;font-family:Arial;}
+.K,.J,.I{fill:#000;}
+.L,.J{font-size:603px;font-family:微软雅黑;}
+.M{fill:#00F;stroke:#00F;}
+.M,.K,.J,.I{stroke-width:0.5px;}
+.M,.N{font-size:400px;font-family:Lucida Sans;}
+.M,.N,.L{stroke-opacity:0.0;}
+.M,.N,.L,.K,.J,.I{fill-opacity:1.0;}
+.N,.L{fill:#FFF;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1098,45467v-45459h64291v45459h-64291m64291,-45459v45459h-64291m64291,-45459v45459"/>
+     <path class="B" d="M2040,2393h10584"/>
+     <path class="C" d="M65390,45467h-64292l0,-45459l64291,1 z"/>
+     <rect class="D" x="2004" y="849" width="62407" height="43849"/>
+     <path class="B" d="M12625,2393v-1511"/>
+     <rect class="E" x="14086" y="21114" width="2272" height="4221"/>
+     <rect class="E" x="51428" y="21114" width="2272" height="4221"/>
+     <g>      <path class="B" d="M28698,21332 C28639,21332 28591,21380 28591,21439 M28805,21439 C28805,21380 28757,21332 28698,21332 M28591,24686 C28591,24745 28639,24793 28698,24793 M28698,24793 C28757,24793 28805,24745 28805,24686 M28591,21439l213,3247m0,-3247l-213,3247"/>
+    </g>
+     <g>      <path class="B" d="M22204,21332 C22145,21332 22097,21380 22097,21439 M22310,21439 C22310,21380 22263,21332 22204,21332 M22097,24686 C22097,24745 22145,24793 22204,24793 M22204,24793 C22263,24793 22310,24745 22310,24686 M22097,21439l213,3247m0,-3247l-213,3247"/>
+    </g>
+     <g>      <path class="B" d="M42336,21332 C42277,21332 42229,21380 42229,21439 M42443,21439 C42443,21380 42395,21332 42336,21332 M42229,24686 C42229,24745 42277,24793 42336,24793 M42336,24793 C42395,24793 42443,24745 42443,24686 M42229,21439l213,3247m0,-3247l-213,3247"/>
+    </g>
+     <g>      <path class="B" d="M48830,21332 C48771,21332 48723,21380 48723,21439 M48937,21439 C48937,21380 48889,21332 48830,21332 M48723,24686 C48723,24745 48771,24793 48830,24793 M48830,24793 C48889,24793 48937,24745 48937,24686 M48723,21439l213,3247m0,-3247l-213,3247"/>
+    </g>
+     <g/>
+     <g>      <path class="B" d="M33049,24686h844M32789,24945 C32933,24945 33049,24829 33049,24686 L33049,24686 C33049,24542 32933,24426 32789,24426 "/>
+    </g>
+     <g>      <path class="B" d="M33049,21439h844M32789,21698 C32933,21698 33049,21582 33049,21439 L33049,21439 C33049,21295 32933,21179 32789,21179 "/>
+    </g>
+     <g>      <rect class="D" x="14865" y="22672" width="389" height="844"/>
+       <path class="B" d="M15060,22088v584m0,844v519"/>
+    </g>
+     <g>      <rect class="D" x="52532" y="22672" width="389" height="844"/>
+       <path class="B" d="M52727,22088v584m0,844v519"/>
+    </g>
+     <g>      <path class="F" d="M32594,21439h-12988"/>
+       <path class="G" d="M32594,21439h-12988"/>
+       <path class="F" d="M19443,21439l-162,-162"/>
+       <path class="G" d="M19443,21439l-162,-162"/>
+       <path class="F" d="M19443,21439l-162,162"/>
+       <path class="G" d="M19443,21439l-162,162"/>
+       <path class="F" d="M19606,21439l-162,-162"/>
+       <path class="G" d="M19606,21439l-162,-162"/>
+       <path class="F" d="M19606,21439l-162,162"/>
+       <path class="G" d="M19606,21439l-162,162"/>
+    </g>
+     <g>      <path class="H" d="M32594,24686h-12988"/>
+       <path class="G" d="M32594,24686h-12988"/>
+       <path class="H" d="M19443,24686l-162,-162"/>
+       <path class="G" d="M19443,24686l-162,-162"/>
+       <path class="H" d="M19443,24686l-162,162"/>
+       <path class="G" d="M19443,24686l-162,162"/>
+       <path class="H" d="M19606,24686l-162,-162"/>
+       <path class="G" d="M19606,24686l-162,-162"/>
+       <path class="H" d="M19606,24686l-162,162"/>
+       <path class="G" d="M19606,24686l-162,162"/>
+    </g>
+     <g>      <path class="H" d="M33893,24686h15586"/>
+       <path class="G" d="M33893,24686h15586"/>
+       <path class="H" d="M49479,24686l-162,-162"/>
+       <path class="G" d="M49479,24686l-162,-162"/>
+       <path class="H" d="M49479,24686l-162,162"/>
+       <path class="G" d="M49479,24686l-162,162"/>
+       <path class="H" d="M49642,24686l-162,-162"/>
+       <path class="G" d="M49642,24686l-162,-162"/>
+       <path class="H" d="M49642,24686l-162,162"/>
+       <path class="G" d="M49642,24686l-162,162"/>
+    </g>
+     <g>      <path class="F" d="M33893,21439h15586"/>
+       <path class="G" d="M33893,21439h15586"/>
+       <path class="F" d="M49479,21439l-162,-162"/>
+       <path class="G" d="M49479,21439l-162,-162"/>
+       <path class="F" d="M49479,21439l-162,162"/>
+       <path class="G" d="M49479,21439l-162,162"/>
+       <path class="F" d="M49642,21439l-162,-162"/>
+       <path class="G" d="M49642,21439l-162,-162"/>
+       <path class="F" d="M49642,21439l-162,162"/>
+       <path class="G" d="M49642,21439l-162,162"/>
+    </g>
+     <text class="I" x="2806" y="2146" style="stroke:none;">ADSECANFD 2M</text>
+     <text class="J" x="0" y="0" transform="translate(13561 23025) rotate (270.0)" style="stroke:none;">C3B</text>
+     <text class="J" x="54228" y="23247" style="stroke:none;">FRm</text>
+     <g>      <text class="K" x="0" y="0" transform="translate(32275 25801) rotate (270.0)" style="stroke:none;">CB2</text>
+    </g>
+     <g>      <text class="K" x="0" y="0" transform="translate(32319 24491) rotate (270.0)" style="stroke:none;">/18</text>
+    </g>
+     <g>      <text class="K" x="0" y="0" transform="translate(32275 22554) rotate (270.0)" style="stroke:none;">CB2</text>
+    </g>
+     <g>      <text class="K" x="0" y="0" transform="translate(32319 21244) rotate (270.0)" style="stroke:none;">/19</text>
+    </g>
+     <g>      <text class="K" x="0" y="0" transform="translate(33888 25801) rotate (270.0)" style="stroke:none;">BC2</text>
+    </g>
+     <g>      <text class="K" x="0" y="0" transform="translate(33845 24491) rotate (270.0)" style="stroke:none;">/18</text>
+    </g>
+     <g>      <text class="K" x="0" y="0" transform="translate(33888 22554) rotate (270.0)" style="stroke:none;">BC2</text>
+    </g>
+     <g>      <text class="K" x="0" y="0" transform="translate(33845 21244) rotate (270.0)" style="stroke:none;">/19</text>
+    </g>
+     <g>      <text class="J" x="16978" y="23026" style="stroke:none;">120Ω</text>
+    </g>
+     <g>      <text class="J" x="50099" y="23350" style="stroke:none;">120Ω</text>
+    </g>
+     <g>      <rect class="L" x="25884" y="21282" width="432" height="312"/>
+       <text class="M" x="0" y="0" transform="translate(26313 21529) rotate (270.0)" style="stroke:none;">G</text>
+    </g>
+     <g>      <rect class="N" x="25451" y="20959" width="432" height="958"/>
+       <text class="M" x="0" y="0" transform="translate(25880 21852) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="N" x="25884" y="24291" width="432" height="788"/>
+       <text class="M" x="0" y="0" transform="translate(26313 25014) rotate (270.0)" style="stroke:none;">G/B</text>
+    </g>
+     <g>      <rect class="N" x="25451" y="24206" width="432" height="958"/>
+       <text class="M" x="0" y="0" transform="translate(25880 25099) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="N" x="41470" y="24291" width="432" height="788"/>
+       <text class="M" x="0" y="0" transform="translate(41899 25014) rotate (270.0)" style="stroke:none;">G/B</text>
+    </g>
+     <g>      <rect class="N" x="41037" y="24206" width="432" height="958"/>
+       <text class="M" x="0" y="0" transform="translate(41466 25099) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="N" x="41470" y="21282" width="432" height="312"/>
+       <text class="M" x="0" y="0" transform="translate(41899 21529) rotate (270.0)" style="stroke:none;">G</text>
+    </g>
+     <g>      <rect class="N" x="41037" y="20959" width="432" height="958"/>
+       <text class="M" x="0" y="0" transform="translate(41466 21852) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+  </g></svg>

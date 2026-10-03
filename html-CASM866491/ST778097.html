@@ -1,0 +1,173 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Порядок действий после замены контроллера"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="ST778097"></meta>
+      
+      <meta name="DC.Language" content="ru"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Порядок действий после замены контроллера</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="ST778097">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST778097">Порядок действий после замены контроллера</h3>
+         
+         
+         <div class="body"> 
+            
+            <div class="section">
+               <h3 class="title topictitle1">Прошивка программного обеспечения</h3> 
+               
+               
+            </div>
+            
+            
+            <p class="p">1. Набрать на клавиатуре *#* или *#*#888 для входа в заводской инженерный режим головного устройства → открыть инженерный режим FOTA → выбрать вход для сотрудника или вход для послепродажного обслуживания (требуется вход под авторизованной учетной записью сотрудника или сервисной службы)</p>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474112.png" alt="MP474112"></img></div>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474170.png" alt="MP474170"></img></div>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474115.png" alt="MP474115"></img></div>  
+            
+            <p class="p">2. Нажать для перехода в «Послепродажное обслуживание» → нажать «Интеллектуальная замена деталей» → Подтвердить данные заменяемой детали (выбрать контроллер C3B, ввести аппаратный Номер детали 3609360-PT301) → Подтвердить версию ПО и нажать для запуска прошивки (после завершения прошивки выйти из режима)</p>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474176.png" alt="MP474176"></img></div>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474177.png" alt="MP474177"></img></div>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474180.png" alt="MP474180"></img></div>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474181.png" alt="MP474181"></img></div>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP474182.png" alt="MP474182"></img></div>  
+            
+            <div class="section">
+               <h3 class="title topictitle1">Запись VIN с помощью диагностического прибора</h3> 
+               
+               
+               <p class="p">1. После подключения диагностического прибора последовательно перейти в каталог соответствующей модели автомобиля → нажать «Центральный компьютер C3B» → «Версия диагностических данных» → «Специальные функции»</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP474187.png" alt="MP474187"></img></div>  
+               
+               <p class="p">2. Нажать «Запись VIN» → ввести 17-значный код VIN автомобиля</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP474188.png" alt="MP474188"></img></div> 
+               
+            </div>
+            
+            
+            <div class="section">
+               <h3 class="title topictitle1">Запись конфигурационного слова с помощью диагностического прибора</h3> 
+               
+               
+               <p class="p">1. После подключения диагностического прибора войти в каталог соответствующей модели автомобиля → нажать «Центральный компьютер C3B» → «Версия диагностических данных» → «Специальные функции» → «Конфигурация модели автомобиля» → выбрать соответствующую конфигурацию автомобиля</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP474260.png" alt="MP474260"></img></div> 
+               
+            </div>
+            
+            
+            <div class="section">
+               <h3 class="title topictitle1">Привязка TUID после замены контроллера</h3> 
+               
+               
+               <p class="p">1. После завершения замены нового контроллера домена на автомобиле подключить Диагностический прибор согласно руководству по эксплуатации сервисного диагностического прибора, войти в каталог соответствующей модели и выбрать «Центральный компьютер C3B», нажать для входа.</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP474005.png" alt="MP474005"></img></div>  
+               
+               <p class="p">2. После входа в меню контроллера домена выбрать «Версия диагностических данных» → «Чтение потока данных» → «Чтение стандартных данных» → «Номер TUID», нажать для входа, переписать номер TUID, затем перейти в систему клиентской поддержки телематики для замены устройства;</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP474012.png" alt="MP474012"></img></div>  
+               
+               <p class="p">3. Выполнить вход в систему клиентской поддержки телематики, ввести кузовной номер (VIN) автомобиля с замененным контроллером домена, нажать «Поиск»;</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP374248.png" alt="MP374248"></img></div>  
+               
+               <p class="p">4. После перехода нажать «Замена устройства», выбрать C3B_J6M, нажать «Заменить»;</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP374249.png" alt="MP374249"></img></div>  
+               
+               <p class="p">7. После перехода в поле «TUID нового устройства» ввести полный номер TUID, ранее считанный диагностическим прибором, нажать «Запрос»; в нижней строке отобразится «Состояние нового устройства: норма», нажать «Далее»;</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP374250.png" alt="MP374250"></img></div>  
+               
+               <p class="p">8. В соответствии с подсказками завершить установку нового контроллера домена на автомобиль, после завершения монтажа нажать «Далее»;</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP374251.png" alt="MP374251"></img></div>  
+               
+               <p class="p">9. После перехода нажать «Получить код подтверждения», ввести полученный проверочный код и нажать «Отправить».</p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP374252.png" alt="MP374252"></img></div> 
+               
+            </div>
+            
+            
+            <div class="section">
+               <h3 class="title topictitle1">INS杆臂值写入（该步骤适用于2026.6.30之前生产下线的车辆，2026.6.30之后生产下线的车辆不需要此步骤）</h3> 
+               
+               
+               <p class="p">1. Выполнить вход в центральный компьютер: ssh root@192.168.2.16 пароль: CQCATech@J6M#2025, после входа в центральный компьютер ввести cd /map;</p>  
+               
+               <p class="p">2. Открыть новое окно adb push D:\ota_demo_uart_MVT\ota_demo_uart_MVT /map; (здесь указан путь к пакету обновления на локальном компьютере; пакет обновления необходимо предварительно загрузить и сохранить локально, для загрузки пакета обновления обратиться к соответствующему специалисту сервисной службы)</p>  
+               
+               <p class="p">3. В терминале контроллера назначить права доступа: chmod 777./ota_demo_uart_MVT/build/up.sh;</p>  
+               
+               <p class="p">4. Запись значений плеча рычага: перейти в каталог cd./ota_demo_uart_MVT/build, ввести команду chmod 777./216.sh, ввести команду./216.sh; при успешном завершении прошивки отобразятся данные плеча рычага; если данные не отображаются корректно, ввести: tail -f /dev/ttyS1, затем printf "AGGETINSCFG" &gt;&gt;/dev/ttyS1
+               </p>  
+               
+               <div class="imagecenter"><img width="50%" src="image/MP474212.png" alt="MP474212"></img></div> 
+               
+            </div>
+            
+            
+            <div class="section">
+               <h3 class="title topictitle1">Калибровка видеокамер и лидара</h3> 
+               
+               
+            </div>
+            
+            
+            <p class="p">1. После замены контроллера выполнить калибровку видеокамер и лидара в соответствии с сервисным руководством по калибровке</p> 
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>

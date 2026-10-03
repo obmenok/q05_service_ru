@@ -1,0 +1,307 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Метод проверки аккумуляторной батареи после ремонта"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="ST576133"></meta>
+      
+      <meta name="DC.Language" content="ru"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Метод проверки аккумуляторной батареи после ремонта</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="ST576133">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST576133">Метод проверки аккумуляторной батареи после ремонта</h3>
+         
+         
+         <div class="body"> 
+            
+            <p class="p">① Использовать ZLG CANFD для мониторинга тяговой аккумуляторной батареи в сборе, убедиться, что система управления аккумуляторной батареей не сообщает о неисправностях; при наличии неисправностей выполнить проверку в соответствии с процедурой устранения соответствующих неисправностей; ② После сборки аккумуляторной батареи использовать Специальный приспособление для проверки герметичности, чтобы заглушить разъемы высокого и низкого напряжения тяговой аккумуляторной батареи, использовать прибор для проверки герметичности для проведения проверки (метод показан в 4.7); если проверка не пройдена, уведомить технического специалиста для анализа Причины неисправности и ее устранения; после успешного прохождения проверки выполнить Установка аккумуляторной батареи на автомобиль в соответствии с требованиями раздела 5.5; ③ После сборки автомобиля сначала удалить неисправности автомобиля с помощью Диагностический прибор; после повторного включения Питание считать Код неисправности автомобиля, если неисправностей нет, автомобиль работает нормально; если неисправности по-прежнему присутствуют, выполнить устранение неисправностей в соответствии с соответствующими Код неисправности. ④ При замене контроллера управления аккумуляторной батареей, шунта или BDU перед закрытием крышки аккумуляторной батареи использовать устройство для сканирования штрих-кодов, чтобы отсканировать QR-код шунта в BDU, как показано на Рисунке 3.3.4.4-2 "Пример значения сканирования шунта". Считать и записать начальное сопротивление шунта R0, коэффициент квадратичного члена A, коэффициент линейного члена B, свободный член C. (Например: R0=49.106, A=-0.000000367, B=0.000081463, C=0.998038055).</p>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP429126.png" alt="MP429126"></img></div>  
+            
+            <div class="imagecenter"><img width="50%" src="image/MP429128.png" alt="MP429128"></img></div>  
+            
+            <p class="p">⑤ При замене контроллера управления аккумуляторной батареей, шунта или BDU выполнить перепрошивку программного обеспечения контроллера управления аккумуляторной батареей с помощью Диагностический прибор; после восстановления автомобиля необходимо использовать Специальный Функции в блоке управления аккумуляторной батареей BMS на Диагностический прибор для записи начального сопротивления шунта R0, коэффициента квадратичного члена A, коэффициента линейного члена B и свободного члена C в контроллер управления аккумуляторной батареей. ⑥ При замене контроллера управления аккумуляторной батареей или аккумуляторной батареи в сборе выполнить перепрошивку программного обеспечения контроллера управления аккумуляторной батареей с помощью Диагностический прибор; после восстановления автомобиля необходимо использовать Специальный Функции в блоке управления аккумуляторной батареей BMS на Диагностический прибор для записи кода отслеживания аккумуляторной батареи и VIN автомобиля в контроллер управления аккумуляторной батареей. ⑦ Список слов конфигурации: 
+               
+               
+               <table width="100%" border="1" frame="box" rules="all">  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <tbody> 
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>№</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Слово конфигурации</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Содержимое для записи</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Сценарий записи</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>1</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" rowspan="4" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Параметры шунта</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Начальное сопротивление шунта R0</p>  
+                           
+                           <p>（ShuntR0）</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>QR-код шунта</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" rowspan="4" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Замена BDU, шунта, контроллера управления аккумуляторной батареей</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>2</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Коэффициент квадратичного члена A</p>  
+                           
+                           <p>（QuadraticCoefficientA）</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>QR-код шунта</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>3</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Коэффициент линейного члена B</p>  
+                           
+                           <p>（CoefficientofFirstOrderTermB）</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>QR-код шунта</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>4</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Свободный член C</p>  
+                           
+                           <p>（ConstantTermC）</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>QR-код шунта</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>5</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Код отслеживания аккумуляторной батареи</p>  
+                           
+                           <p>（Battery Traceable Code）</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>24-значный код на металлической табличке корпуса аккумуляторной батареи</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Замена контроллера управления аккумуляторной батареей</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>6</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Номер кузова (VIN)</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Номер кузова автомобиля</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Замена контроллера управления аккумуляторной батареей, аккумуляторной батареи в сборе</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>7</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Идентификатор архитектуры</p>  
+                           
+                           <p>（FrameIdentifier）</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Для данного Пункт это AA (шестнадцатеричный) / 170 (десятичный)</p> 
+                           
+                        </td>  
+                        
+                        <td width="20%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Возникновение неисправности контрольной суммы идентификатора архитектуры</p> 
+                           
+                        </td> 
+                        
+                     </tr> 
+                     
+                  </tbody> 
+                  
+               </table> 
+               
+               
+            </p> 
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>

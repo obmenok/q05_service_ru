@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 62563,65416" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.D{stroke-width:110px;}
+.A,.D,.B,.C{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B,.C{stroke-width:777px;}
+.E{font-size:8010px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.E,.A,.D,.B,.C{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M42045,63284 C52196,63284 60426,55055 60426,44903 L60426,44903 C60426,34752 52196,26523 42045,26523 M21541,26523 C11390,26523 3160,34752 3160,44903 L3160,44903 C3160,55055 11390,63284 21541,63284 M5688,41819 C5124,44265 5146,46810 5753,49246 M57897,48976 C58462,46530 58440,43985 57833,41549 M9915,49135 C11694,54023 16340,57276 21541,57276 M42045,57276 C47246,57276 51892,54023 53671,49135 M53996,41701 C52546,36292 47645,32531 42045,32531 M21541,32531 C15941,32531 11039,36292 9590,41701 M33560,52501 C34147,52501 34622,52026 34622,51439 M28964,51439 C28964,52026 29439,52501 30025,52501 "/>
+     <path class="B" d="M42045,65408 C53369,65408 62549,56228 62549,44903 L62549,44903 C62549,33579 53369,24399 42045,24399 M21541,24399 C10217,24399 1037,33579 1037,44903 L1037,44903 C1037,56228 10217,65408 21541,65408 "/>
+     <path class="A" d="M42398,17738h10604m-42419,0h10604m-10604,1712h42419"/>
+     <path class="B" d="M42045,24399h-20504"/>
+     <path class="A" d="M42045,26520h-20504m13081,6011v18908m-13081,-18908h20504m-13081,18908v-18908m-19282,8978h-36m44297,0h-36m52,174h3909m-52146,0h3909m337,7422h-4246m52146,0h-4246m-70,174h64m-43640,0h64m23523,3215h-3534m-8484,4774h20504m-20504,6008h20504"/>
+     <path class="B" d="M53003,27655v-27647h-42419v27647"/>
+     <rect class="C" x="21541" y="63987" width="20504" height="1414"/>
+     <rect class="D" x="21188" y="7077" width="21209" height="10678"/>
+     <rect class="D" x="48584" y="41685" width="2120" height="7422"/>
+     <rect class="D" x="37393" y="40331" width="9021" height="10215"/>
+     <rect class="D" x="17625" y="40331" width="9021" height="10215"/>
+     <rect class="D" x="12881" y="41685" width="2120" height="7422"/>
+     <g>      <text class="E" x="22017" y="49840" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="E" x="41785" y="49840" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,49549" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke-width:1201px;}
+.A,.B,.C{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B,.C{stroke-width:170px;}
+.D{font-size:12371px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:5px;}
+.D,.A,.B,.C{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M45884,9631 C45881,8636 45075,7831 44081,7827 M40463,2906 C40459,1911 39654,1106 38659,1102 M27812,1102 C26817,1106 26012,1911 26008,2906 M22390,7827 C21395,7831 20590,8636 20586,9631 M53112,1825 C53108,830 52303,25 51308,21 M15163,21 C14168,25 13363,830 13359,1825 "/>
+     <path class="B" d="M40463,14353h5421m-25298,0h5421M4929,32586 C5520,41012 12528,47546 20974,47546 "/>
+     <path class="A" d="M17630,15724 C11615,17005 6856,21602 5368,27569 M44529,49532 C49058,49533 53402,47735 56604,44532 L56604,44532 C59807,41330 61606,36986 61604,32457 M4866,32457 C4865,36986 6664,41330 9866,44532 L9866,44532 C13069,47735 17413,49533 21942,49532 M61034,27299 C59444,21358 54606,16843 48569,15668 "/>
+     <path class="B" d="M22032,43025h22407M44439,43025 C50825,43025 56003,37848 56003,31461 L56003,31461 C56003,25075 50825,19898 44439,19898 M22032,19898 C15645,19898 10468,25075 10468,31461 L10468,31461 C10468,37848 15645,43025 22032,43025 M26548,47546h-5573m24520,0h-5573M45496,47546 C53943,47546 60951,41012 61541,32586 "/>
+     <path class="A" d="M53116,1827v15468m-8497,32231h-22767"/>
+     <path class="B" d="M44439,19898h-22407"/>
+     <path class="A" d="M26008,19898v-16990m14454,16990v-16990m-27103,14388v-15468m14454,-725h10843m7227,18866v-10336m-25298,10336v-10336m1805,-1810h21686"/>
+     <path class="B" d="M26548,43025v6502m13374,-6502v6502"/>
+     <path class="A" d="M51306,17h-2530v20530m12279,6843h4345v5061h-3852m-46382,-32435h2530v20530m-12279,6843h-4341v5061h3848"/>
+     <path class="B" d="M36306,7822v-3274h-6142v3274m6687,0v-4914h-7232v4914m7232,12075v-6056h-7232v6056"/>
+     <rect class="C" x="36903" y="23670" width="13933" height="15781"/>
+     <path class="C" d="M30524,34532v5061h5421v-5061h-905v-6142h905v-5061h-5421v5061h905v6142 z"/>
+     <rect class="C" x="15312" y="23637" width="13933" height="15781"/>
+     <g>      <text class="D" x="21702" y="36294" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="42664" y="36535" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,45475" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke:#808080;}
+.A1{stroke-width:16.0px;}
+.A1,.V,.T,.P,.R,.N,.Q,.O{fill:#000;}
+.A1,.V,.T,.Y,.W,.S,.Z,.X,.U,.P,.R,.N,.Q,.O{fill-opacity:1.0;}
+.B,.D,.C,.A,.S,.Z,.X,.U{stroke-width:16px;}
+.C{stroke:#0F0;}
+.F{stroke-width:49px;}
+.G{stroke-width:122px;}
+.G,.E,.B,.D,.C,.A,.F,.H,.J,.L,.A1,.V,.T,.Y,.W,.S,.Z,.X,.U,.P,.R,.N,.Q,.O{stroke-dasharray:none;}
+.H,.J,.L,.V,.T,.Y,.W,.S,.Z,.X,.U,.P,.R,.N,.Q,.O{stroke-linecap:square;}
+.I,.G,.E,.B,.D,.F,.H,.A1,.V,.T,.P,.R,.N,.Q,.O{stroke:#000;}
+.I,.K,.M{stroke-dasharray:824,412,164,412;}
+.I,.K,.M,.E,.H,.J,.L{stroke-width:158px;}
+.I,.K,.M,.G,.E,.B,.D,.C,.A,.F,.A1{stroke-linecap:butt;}
+.I,.K,.M,.G,.E,.B,.D,.C,.A,.F,.H,.J,.L{fill-opacity:0.0;fill:none;}
+.I,.K,.M,.G,.E,.B,.D,.C,.A,.F,.H,.J,.L,.A1{font-family:sans-serif;}
+.I,.K,.M,.G,.E,.B,.D,.C,.A,.F,.H,.J,.L,.A1,.P,.R,.N,.Q,.O{stroke-opacity:1.0;}
+.I,.K,.M,.G,.E,.B,.D,.C,.A,.F,.H,.J,.L,.A1,.V,.T,.Y,.W,.S,.Z,.X,.U,.P,.R,.N,.Q,.O{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.K,.J,.Y{stroke:#00F;}
+.L{stroke:#0F3;}
+.M,.S,.Z,.X,.U{stroke:#D3D3D3;}
+.N{font-family:仿宋;font-size:897px;}
+.P{font-family:Arial;font-size:399px;}
+.Q{font-size:359px;}
+.S,.R{font-family:Arial Unicode MS;font-size:461px;}
+.S,.Z,.X,.U{fill:#FFF;}
+.T,.U,.O{font-size:603px;}
+.T,.W,.X,.U,.O{font-family:微软雅黑;}
+.V{font-size:323px;}
+.V,.Q{font-family:宋体;}
+.V,.T,.Y,.W,.P,.R,.N,.Q,.O{stroke-width:0.5px;}
+.V,.T,.Y,.W,.S,.Z,.X,.U{stroke-opacity:0.0;}
+.W{fill:#800080;stroke:#800080;}
+.W,.X{font-size:362px;}
+.Y{fill:#00F;}
+.Y,.Z{font-family:Lucida Sans;font-size:400px;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1098,45467v-45459h64291v45459h-64291m64291,-45459v45459h-64291m64291,-45459v45459"/>
+     <path class="B" d="M2040,2393h10584"/>
+     <path class="C" d="M65390,45467h-64292l0,-45459l64291,1 z"/>
+     <rect class="D" x="2004" y="849" width="62407" height="43849"/>
+     <path class="B" d="M12625,2393v-1511"/>
+     <path class="E" d="M10727,40272h48781"/>
+     <g>      <circle class="A1" cx="25451" cy="40272" r="259"/>
+    </g>
+     <g>      <path class="B" d="M25126,27608 C25126,27429 25271,27283 25451,27283 L25451,27283 C25630,27283 25775,27429 25775,27608 M25451,27933v649"/>
+       <rect class="A1" x="25321" y="27413" width="259" height="974"/>
+    </g>
+     <g/>
+     <g>      <rect class="A1" x="30516" y="18191" width="259" height="519"/>
+       <path class="B" d="M30646,17542v649"/>
+    </g>
+     <g>      <rect class="A1" x="25321" y="18191" width="259" height="519"/>
+       <path class="B" d="M25451,17542v649"/>
+    </g>
+     <g>      <path class="B" d="M30646,22088v649M30321,23062 C30321,23241 30467,23387 30646,23387 L30646,23387 C30825,23387 30971,23241 30971,23062 "/>
+       <rect class="A1" x="30516" y="22283" width="259" height="974"/>
+       <path class="B" d="M25451,22088v649M25126,23062 C25126,23241 25271,23387 25451,23387 L25451,23387 C25630,23387 25775,23241 25775,23062 "/>
+       <rect class="A1" x="25321" y="22283" width="259" height="974"/>
+    </g>
+     <g>      <path class="B" d="M30321,12671 C30321,12492 30467,12347 30646,12347 L30646,12347 C30825,12347 30971,12492 30971,12671 M30646,12996v649"/>
+       <rect class="A1" x="30516" y="12476" width="259" height="974"/>
+       <path class="B" d="M25126,12671 C25126,12492 25271,12347 25451,12347 L25451,12347 C25630,12347 25775,12492 25775,12671 M25451,12996v649"/>
+       <rect class="A1" x="25321" y="12476" width="259" height="974"/>
+    </g>
+     <g>      <path class="B" d="M25451,12801v844M25710,12541 C25710,12685 25594,12801 25451,12801 L25451,12801 C25307,12801 25191,12685 25191,12541 "/>
+    </g>
+     <g>      <path class="B" d="M30646,12801v844M30906,12541 C30906,12685 30790,12801 30646,12801 L30646,12801 C30503,12801 30386,12685 30386,12541 "/>
+    </g>
+     <g/>
+     <g>      <path class="B" d="M30646,17997v844M30386,17737 C30386,17880 30503,17997 30646,17997 L30646,17997 C30790,17997 30906,17880 30906,17737 "/>
+    </g>
+     <g>      <path class="B" d="M25451,17997v844M25191,17737 C25191,17880 25307,17997 25451,17997 L25451,17997 C25594,17997 25710,17880 25710,17737 "/>
+    </g>
+     <g>      <path class="F" d="M25451,40921h649m-649,259h454m-454,259h259m-259,-1168v649h-649m649,259h-454m194,259h259"/>
+    </g>
+     <g>      <path class="G" d="M32270,27283h324v-1818h-259l519,-259h-259v-1818h-9091v3896 z"/>
+    </g>
+     <g>      <path class="G" d="M32270,12347h324v-2143h-259l519,-259h-259v-2143h-9091v4545 z"/>
+    </g>
+     <g>      <path class="H" d="M25451,28582v11689"/>
+       <path class="I" d="M25451,28582v11689"/>
+    </g>
+     <g>      <path class="J" d="M30646,22088v-3247"/>
+       <path class="K" d="M30646,22088v-3247"/>
+    </g>
+     <g>      <path class="L" d="M25451,22088v-3247"/>
+       <path class="M" d="M25451,22088v-3247"/>
+    </g>
+     <g>      <path class="J" d="M30646,17542v-3896"/>
+       <path class="K" d="M30646,17542v-3896"/>
+    </g>
+     <g>      <path class="L" d="M25451,13645v3896"/>
+       <path class="M" d="M25451,13645v3896"/>
+    </g>
+     <text class="N" x="2806" y="2146" style="stroke:none;">组合后灯Ⅱ</text>
+     <text class="O" x="6386" y="40266" style="stroke:none;">GND</text>
+     <g>      <text class="P" x="25854" y="28687" style="stroke:none;">F14</text>
+    </g>
+     <g>      <text class="Q" x="26001" y="29224" style="stroke:none;">/4</text>
+    </g>
+     <g>      <text class="P" x="31057" y="17906" style="stroke:none;">FD5</text>
+    </g>
+     <g>      <text class="P" x="30095" y="17949" style="stroke:none;">/6</text>
+    </g>
+     <g>      <text class="P" x="25861" y="17906" style="stroke:none;">FD5</text>
+    </g>
+     <g>      <text class="P" x="24779" y="17949" style="stroke:none;">/11</text>
+    </g>
+     <g>      <text class="P" x="25854" y="22300" style="stroke:none;">F14</text>
+    </g>
+     <g>      <text class="Q" x="26001" y="21867" style="stroke:none;">/1</text>
+    </g>
+     <g>      <text class="P" x="31050" y="22300" style="stroke:none;">F14</text>
+    </g>
+     <g>      <text class="Q" x="31196" y="21867" style="stroke:none;">/2</text>
+    </g>
+     <g>      <text class="P" x="25613" y="13203" style="stroke:none;">F101e</text>
+    </g>
+     <g>      <text class="Q" x="26001" y="13735" style="stroke:none;">/6</text>
+    </g>
+     <g>      <text class="P" x="30809" y="13203" style="stroke:none;">F101e</text>
+    </g>
+     <g>      <text class="Q" x="31196" y="13735" style="stroke:none;">/3</text>
+    </g>
+     <g>      <text class="P" x="31057" y="18934" style="stroke:none;">DF5</text>
+    </g>
+     <g>      <text class="P" x="30095" y="18891" style="stroke:none;">/6</text>
+    </g>
+     <g>      <text class="P" x="25861" y="18934" style="stroke:none;">DF5</text>
+    </g>
+     <g>      <text class="P" x="24779" y="18891" style="stroke:none;">/11</text>
+    </g>
+     <g>      <text class="R" x="24565" y="42204" style="stroke:none;">GD502A</text>
+    </g>
+     <g>      <text class="R" x="24274" y="42746" style="stroke:none;">背门线接地</text>
+    </g>
+     <g>      <rect class="S" x="27416" y="25010" width="2346" height="649"/>
+       <text class="T" x="27509" y="25654" style="stroke:none;">LA-RLL2</text>
+    </g>
+     <g>      <rect class="U" x="26875" y="25768" width="2997" height="649"/>
+       <text class="T" x="26968" y="26411" style="stroke:none;">组合后灯Ⅱ</text>
+    </g>
+     <g>      <text class="V" x="25497" y="27145" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="W" x="25090" y="26868" style="stroke:none;">GND</text>
+    </g>
+     <g>      <text class="V" x="25497" y="23811" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="W" x="24608" y="24184" style="stroke:none;">位置灯正极</text>
+    </g>
+     <g>      <text class="V" x="30692" y="23811" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="W" x="29803" y="24184" style="stroke:none;">制动灯正极</text>
+    </g>
+     <g>      <rect class="X" x="27814" y="9749" width="1811" height="649"/>
+       <text class="T" x="27907" y="10392" style="stroke:none;">BDC-F</text>
+    </g>
+     <g>      <rect class="U" x="25626" y="10507" width="4455" height="649"/>
+       <text class="T" x="25719" y="11150" style="stroke:none;">车身域控制器-前</text>
+    </g>
+     <g>      <text class="V" x="25107" y="12208" style="stroke:none;">J 8-6</text>
+    </g>
+     <g>      <text class="W" x="24248" y="11931" style="stroke:none;">小蓝灯右侧控制</text>
+    </g>
+     <g>      <text class="V" x="30302" y="12208" style="stroke:none;">J 8-3</text>
+    </g>
+     <g>      <text class="W" x="30163" y="11931" style="stroke:none;">制动灯</text>
+    </g>
+     <g>      <rect class="X" x="25326" y="34211" width="248" height="432"/>
+       <text class="Y" x="25391" y="34640" style="stroke:none;">B</text>
+    </g>
+     <g>      <rect class="Z" x="24972" y="33778" width="958" height="432"/>
+       <text class="Y" x="25037" y="34207" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="Z" x="30459" y="20248" width="374" height="432"/>
+       <text class="Y" x="30524" y="20677" style="stroke:none;">Bl</text>
+    </g>
+     <g>      <rect class="Z" x="30167" y="19815" width="958" height="432"/>
+       <text class="Y" x="30232" y="20244" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="Z" x="25028" y="20248" width="846" height="432"/>
+       <text class="Y" x="25093" y="20677" style="stroke:none;">W/B</text>
+    </g>
+     <g>      <rect class="Z" x="24972" y="19815" width="958" height="432"/>
+       <text class="Y" x="25037" y="20244" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="Z" x="30459" y="15702" width="374" height="432"/>
+       <text class="Y" x="30524" y="16131" style="stroke:none;">Bl</text>
+    </g>
+     <g>      <rect class="Z" x="30167" y="15269" width="958" height="432"/>
+       <text class="Y" x="30232" y="15698" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="Z" x="25028" y="15702" width="846" height="432"/>
+       <text class="Y" x="25093" y="16131" style="stroke:none;">W/B</text>
+    </g>
+     <g>      <rect class="Z" x="24972" y="15269" width="958" height="432"/>
+       <text class="Y" x="25037" y="15698" style="stroke:none;">0.35</text>
+    </g>
+  </g></svg>

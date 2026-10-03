@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- 由 Microsoft Visio, SVG Export 生成 P1B54 自检失败.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="22.5984in" height="15.748in" viewBox="0 0 1627.09 1133.86" xml:space="preserve" color-interpolation-filters="sRGB" class="st22">
+	 
+  <v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		 
+    <v:userDefs>
+			 
+      <v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		
+    </v:userDefs>
+	
+  </v:documentProperties>
+
+	 
+  <style type="text/css">
+	 <![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:none;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.25}
+		.st3 {fill:#5b9bd5;filter:url(#filter_2);font-family:黑体;font-size:2.50001em;opacity:0.247059}
+		.st4 {fill:none;stroke:#41719c;stroke-width:2.25}
+		.st5 {fill:#000000;font-family:黑体;font-size:2.50001em}
+		.st6 {fill:#5b9bd5;filter:url(#filter_2);font-family:黑体;font-size:1.99999em;opacity:0.247059}
+		.st7 {font-size:1em}
+		.st8 {fill:#000000;font-family:黑体;font-size:1.99999em}
+		.st9 {font-family:Calibri;font-size:1em}
+		.st10 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st11 {fill:#ffffff;stroke:#2e75b5;stroke-width:2.25}
+		.st12 {fill:#feffff;font-family:黑体;font-size:1.00001em}
+		.st13 {fill:none;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st14 {fill:#5b9bd5;filter:url(#filter_2);font-family:黑体;font-size:1.5em;opacity:0.219608}
+		.st15 {fill:none;stroke:#2e75b5;stroke-width:2.25}
+		.st16 {fill:#000000;font-family:黑体;font-size:1.5em}
+		.st17 {marker-end:url(#mrkr4-82);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st18 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st19 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st20 {fill:none;stroke:none;stroke-width:2.25}
+		.st21 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st22 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	 
+  <defs id="Markers">
+		 
+    <g id="lend4">
+			 
+      <path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		
+    </g>
+		 
+    <marker id="mrkr4-82" class="st18" v:arrowType="4" v:arrowSize="2" v:setback="4.24" refX="-4.24" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			 
+      <use xlink:href="#lend4" transform="scale(-2.12,-2.12) "/>
+		
+    </marker>
+	
+  </defs>
+	 
+  <defs id="Filters">
+		 
+    <filter id="filter_2">
+			 
+      <feGaussianBlur stdDeviation="2"/>
+		
+    </filter>
+	
+  </defs>
+	 
+  <g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		 
+    <v:userDefs>
+			 
+      <v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		
+    </v:userDefs>
+		 
+    <title>页-1</title>
+		 
+    <v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394" v:shadowOffsetY="-8.50394"/>
+		 
+    <v:layer v:name="流程图" v:index="0"/>
+		 
+    <v:layer v:name="连接线" v:index="1"/>
+		 
+    <g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(189.979,-1057.47)">
+			 
+      <title>开始/结束</title>
+			 
+      <desc>开始</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.62992125984252):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="86.9657" cy="1099.07" width="173.94" height="69.5726"/>
+			 
+      <g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <path d="M34.79 1133.86 L139.15 1133.86 A34.7863 34.7863 -180 0 0 139.15 1064.29 L34.79 1064.29 A34.7863 34.7863         -180 1 0 34.79 1133.86 Z" class="st2"/>
+				 
+        <text x="56.97" y="1109.06" class="st3" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>开始
+        </text>			
+      </g>
+			 
+      <path d="M34.79 1133.86 L139.15 1133.86 A34.7863 34.7863 -180 0 0 139.15 1064.29 L34.79 1064.29 A34.7863 34.7863 -180        1 0 34.79 1133.86 Z" class="st4"/>
+			 
+      <text x="56.97" y="1109.06" class="st5" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>开始
+      </text>		
+    </g>
+		 
+    <g id="shape2-9" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(47.0478,-925.589)">
+			 
+      <title>判定</title>
+			 
+      <desc>读取当前故障代码此故障是否仍存在</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(1.2204724409449):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="229.897" cy="1089.64" width="383.17" height="66.3298"/>
+			 
+      <g id="shadow2-10" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <path d="M0 1089.64 L229.9 1045.42 L459.79 1089.64 L229.9 1133.86 L0 1089.64 Z" class="st2"/>
+				 
+        <text x="49.9" y="1080.86" class="st6" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>读取当前故障代码，此故障是否仍
+          <tspan x="193.9" dy="1.298em" class="st7">存在</tspan>？
+        </text>			
+      </g>
+			 
+      <path d="M0 1089.64 L229.9 1045.42 L459.79 1089.64 L229.9 1133.86 L0 1089.64 Z" class="st4"/>
+			 
+      <text x="49.9" y="1080.86" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>读取当前故障代码，此故障是否仍
+        <tspan x="193.9" dy="1.298em" class="st7">存在</tspan>？
+      </text>		
+    </g>
+		 
+    <g id="shape7-19" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(47.0478,-679.192)">
+			 
+      <title>判定.7</title>
+			 
+      <desc>拆下电池包打开电池上盖用万用表测量电池主正、主负铜排端电压是否&gt;100 V</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(1.7716535433071):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="229.897" cy="1042.59" width="383.17" height="136.902"/>
+			 
+      <g id="shadow7-20" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <path d="M0 1042.59 L229.9 951.32 L459.79 1042.59 L229.9 1133.86 L0 1042.59 Z" class="st2"/>
+				 
+        <text x="49.9" y="1019.42" class="st6" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>拆下电池包，打开电池上盖，用万
+          <tspan x="49.9" dy="1.2em" class="st7">用表测量电池主正</tspan>、主负铜排端电
+          <tspan x="148.15" dy="1.298em" class="st7">压是否</tspan>
+          <tspan class="st9">&gt;</tspan>
+          <tspan class="st9">100 </tspan>
+          <tspan class="st9">V</tspan>？
+        </text>			
+      </g>
+			 
+      <path d="M0 1042.59 L229.9 951.32 L459.79 1042.59 L229.9 1133.86 L0 1042.59 Z" class="st4"/>
+			 
+      <text x="49.9" y="1019.42" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>拆下电池包，打开电池上盖，用万
+        <tspan x="49.9" dy="1.2em" class="st7">用表测量电池主正</tspan>、主负铜排端电
+        <tspan x="148.15" dy="1.298em" class="st7">压是否</tspan>
+        <tspan class="st9">&gt;</tspan>
+        <tspan class="st9">100 </tspan>
+        <tspan class="st9">V</tspan>？
+      </text>		
+    </g>
+		 
+    <g id="shape8-37" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(28.3465,-6.81111)">
+			 
+      <title>流程</title>
+			 
+      <desc>更换电池管控制器</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="307.789" cy="980.637" width="615.58" height="306.444"/>
+			 
+      <g id="shadow8-38" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="827.415" width="615.577" height="306.444" class="st10"/>
+			
+      </g>
+			 
+      <rect x="0" y="827.415" width="615.577" height="306.444" class="st11"/>
+			 
+      <text x="316.76" y="984.63" class="st12" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换电池管控制器
+      </text>		
+    </g>
+		 
+    <g id="shape9-43" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(100.296,-220.467)">
+			 
+      <title>流程.9</title>
+			 
+      <desc>扫描一体式BDU内分流器二维码</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="176.879" cy="1099.88" width="353.76" height="67.9512"/>
+			 
+      <g id="shadow9-44" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1065.91" width="353.759" height="67.9512" class="st13"/>
+				 
+        <text x="52.67" y="1105.87" class="st14" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>扫描一体式
+          <tspan class="st9">BDU</tspan>内分流器二维码
+        </text>			
+      </g>
+			 
+      <rect x="0" y="1065.91" width="353.759" height="67.9512" class="st15"/>
+			 
+      <text x="52.67" y="1105.87" class="st16" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>扫描一体式
+        <tspan class="st9">BDU</tspan>内分流器二维码
+      </text>		
+    </g>
+		 
+    <g id="shape17-53" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(99.0982,-136.338)">
+			 
+      <title>流程.17</title>
+			 
+      <desc>更换电池管理控制器总成</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="176.879" cy="1110.16" width="353.76" height="47.3889"/>
+			 
+      <g id="shadow17-54" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1086.47" width="353.759" height="47.3889" class="st13"/>
+				 
+        <text x="77.88" y="1116.15" class="st14" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>更换电池管理控制器总成
+        </text>			
+      </g>
+			 
+      <rect x="0" y="1086.47" width="353.759" height="47.3889" class="st15"/>
+			 
+      <text x="77.88" y="1116.15" class="st16" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换电池管理控制器总成
+      </text>		
+    </g>
+		 
+    <g id="shape18-61" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(99.0982,-33.1956)">
+			 
+      <title>流程.18</title>
+			 
+      <desc>重新写入分流器参数、电池追溯码、车架号、配置编码</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.70866141732283):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="176.879" cy="1099.88" width="353.76" height="67.9512"/>
+			 
+      <g id="shadow18-62" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1065.91" width="353.759" height="67.9512" class="st13"/>
+				 
+        <text x="14.88" y="1093.3" class="st14" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>重新写入分流器参数、电池追溯码、车架
+          <tspan x="122.88" dy="1.298em" class="st7">号</tspan>、配置编码
+        </text>			
+      </g>
+			 
+      <rect x="0" y="1065.91" width="353.759" height="67.9512" class="st15"/>
+			 
+      <text x="14.88" y="1093.3" class="st16" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>重新写入分流器参数、电池追溯码、车架
+        <tspan x="122.88" dy="1.298em" class="st7">号</tspan>、配置编码
+      </text>		
+    </g>
+		 
+    <g id="shape19-71" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(637.613,-925.589)">
+			 
+      <title>流程.19</title>
+			 
+      <desc>故障消除</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="161.034" cy="1089.64" width="322.07" height="88.4397"/>
+			 
+      <g id="shadow19-72" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1045.42" width="322.068" height="88.4397" class="st10"/>
+			
+      </g>
+			 
+      <rect x="0" y="1045.42" width="322.068" height="88.4397" class="st11"/>
+			 
+      <text x="113.03" y="1097.63" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>故障消除
+      </text>		
+    </g>
+		 
+    <g id="shape23-77" v:mID="23" v:groupContext="shape" v:layerMember="1" transform="translate(269.858,-925.589)">
+			 
+      <title>动态连接线.23</title>
+			 
+      <desc>是</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="7.08661" cy="1165.79" width="120.01" height="39.9534"/>
+			 
+      <path d="M7.09 1133.86 L7.09 1188.18" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="-4.91329" y="1149.81" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="-4.91" y="1173.78" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>是
+      </text>		
+    </g>
+		 
+    <g id="shape25-85" v:mID="25" v:groupContext="shape" v:layerMember="1" transform="translate(506.842,-976.895)">
+			 
+      <title>动态连接线.25</title>
+			 
+      <desc>否</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="65.3855" cy="1140.94" width="120.01" height="39.9534"/>
+			 
+      <path d="M0 1140.94 L121.23 1140.94" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="53.3856" y="1124.97" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="53.39" y="1148.93" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>否
+      </text>		
+    </g>
+		 
+    <g id="shape30-92" v:mID="30" v:groupContext="shape" transform="translate(445.768,-217.371)">
+			 
+      <title>工作表.30</title>
+			 
+      <desc>更换电池管理控制器</desc>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="69.045" cy="1099.88" width="138.1" height="67.9512"/>
+			 
+      <rect x="0" y="1065.91" width="138.09" height="67.9512" class="st20"/>
+			 
+      <text x="9.05" y="1091.11" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换电池管
+        <tspan x="21.05" dy="1.298em" class="st7">理控制器</tspan>
+      </text>		
+    </g>
+		 
+    <g id="shape32-96" v:mID="32" v:groupContext="shape" v:layerMember="1" transform="translate(269.858,-1057.47)">
+			 
+      <title>动态连接线</title>
+			 
+      <path d="M7.09 1133.86 L7.09 1167.76" class="st17"/>
+		
+    </g>
+		 
+    <g id="shape34-101" v:mID="34" v:groupContext="shape" v:layerMember="0" transform="translate(1143.52,-799.687)">
+			 
+      <title>流程.34</title>
+			 
+      <desc>重新固定铜排或更换损坏铜排</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="161.034" cy="1099.88" width="322.07" height="67.9512"/>
+			 
+      <g id="shadow34-102" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1065.91" width="322.068" height="67.9512" class="st10"/>
+			
+      </g>
+			 
+      <rect x="0" y="1065.91" width="322.068" height="67.9512" class="st11"/>
+			 
+      <text x="5.03" y="1107.87" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>重新固定铜排或更换损坏铜排
+      </text>		
+    </g>
+		 
+    <g id="shape35-107" v:mID="35" v:groupContext="shape" v:layerMember="1" transform="translate(506.842,-770.46)">
+			 
+      <title>动态连接线.35</title>
+			 
+      <desc>否</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="21.2598" cy="1079.3" width="120.01" height="39.9534"/>
+			 
+      <path d="M0 1133.86 L21.26 1133.86 L21.26 1070.66 L78.9 1070.66" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="9.25993" y="1063.32" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="9.26" y="1087.28" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>否
+      </text>		
+    </g>
+		 
+    <g id="shape41-114" v:mID="41" v:groupContext="shape" v:layerMember="1" transform="translate(269.973,-679.192)">
+			 
+      <title>动态连接线.41</title>
+			 
+      <desc>是</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="7.20177" cy="1165.67" width="120.01" height="39.9534"/>
+			 
+      <path d="M6.97 1133.86 L6.97 1155.12 L7.2 1155.12 L7.2 1188.18" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="-4.79814" y="1149.7" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="-4.8" y="1173.66" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>是
+      </text>		
+    </g>
+		 
+    <g id="shape44-121" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(47.2781,-432.796)">
+			 
+      <title>判定.44</title>
+			 
+      <desc>拔掉与电池管理器总成I或电池管理器总成Ⅱ连接的所有接插件在用万用表测量电池主正、主负铜排端电压是否&gt;100 V</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(2.3622047244094):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="229.897" cy="1042.59" width="383.17" height="136.902"/>
+			 
+      <g id="shadow44-122" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <path d="M0 1042.59 L229.9 951.32 L459.79 1042.59 L229.9 1133.86 L0 1042.59 Z" class="st2"/>
+				 
+        <text x="46.87" y="1005.8" class="st6" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>拔掉与电池管理器总成
+          <tspan class="st9">I</tspan>或电池管理
+          <tspan x="49.9" dy="1.233em" class="st7">器总成</tspan>Ⅱ连接的所有接插件，在用
+          <tspan x="49.9" dy="1.2em" class="st7">万用表测量电池主正</tspan>、主负铜排端
+          <tspan x="136.15" dy="1.298em" class="st7">电压是否</tspan>
+          <tspan class="st9">&gt;</tspan>
+          <tspan class="st9">100 </tspan>
+          <tspan class="st9">V</tspan>？
+        </text>			
+      </g>
+			 
+      <path d="M0 1042.59 L229.9 951.32 L459.79 1042.59 L229.9 1133.86 L0 1042.59 Z" class="st4"/>
+			 
+      <text x="46.87" y="1005.8" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>拔掉与电池管理器总成
+        <tspan class="st9">I</tspan>或电池管理
+        <tspan x="49.9" dy="1.233em" class="st7">器总成</tspan>Ⅱ连接的所有接插件，在用
+        <tspan x="49.9" dy="1.2em" class="st7">万用表测量电池主正</tspan>、主负铜排端
+        <tspan x="136.15" dy="1.298em" class="st7">电压是否</tspan>
+        <tspan class="st9">&gt;</tspan>
+        <tspan class="st9">100 </tspan>
+        <tspan class="st9">V</tspan>？
+      </text>		
+    </g>
+		 
+    <g id="shape46-143" v:mID="46" v:groupContext="shape" v:layerMember="1" transform="translate(270.089,-432.796)">
+			 
+      <title>动态连接线.46</title>
+			 
+      <desc>是</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="7.08661" cy="1206.05" width="120.01" height="39.9534"/>
+			 
+      <path d="M7.09 1133.86 L7.09 1268.7" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="-4.91329" y="1190.07" width="23.9999" height="31.9496" class="st21"/>
+			 
+      <text x="-4.91" y="1214.03" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>是
+      </text>		
+    </g>
+		 
+    <g id="shape47-150" v:mID="47" v:groupContext="shape" v:layerMember="0" transform="translate(595.282,-770.46)">
+			 
+      <title>判定.47</title>
+			 
+      <desc>依次检查模组间铜排连接是否存在铜排漏装、错装或未打紧的情况</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(1.7716535433071):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="229.897" cy="1070.66" width="383.17" height="94.8032"/>
+			 
+      <g id="shadow47-151" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <path d="M0 1070.66 L229.9 1007.45 L459.79 1070.66 L229.9 1133.86 L0 1070.66 Z" class="st2"/>
+				 
+        <text x="49.9" y="1047.48" class="st6" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>依次检查模组间铜排连接，是否存
+          <tspan x="61.9" dy="1.2em" class="st7">在铜排漏装</tspan>、错装或未打紧的情
+          <tspan x="205.9" dy="1.298em" class="st7">况</tspan>？
+        </text>			
+      </g>
+			 
+      <path d="M0 1070.66 L229.9 1007.45 L459.79 1070.66 L229.9 1133.86 L0 1070.66 Z" class="st4"/>
+			 
+      <text x="49.9" y="1047.48" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>依次检查模组间铜排连接，是否存
+        <tspan x="61.9" dy="1.2em" class="st7">在铜排漏装</tspan>、错装或未打紧的情
+        <tspan x="205.9" dy="1.298em" class="st7">况</tspan>？
+      </text>		
+    </g>
+		 
+    <g id="shape48-162" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(595.282,-589.085)">
+			 
+      <title>判定.48</title>
+			 
+      <desc>用万用表测量电池主正端铜排与电池管理控制器总成J3接插件Pin1是否导通</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(1.8110236220472):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="229.897" cy="1071.24" width="383.17" height="93.9326"/>
+			 
+      <g id="shadow48-163" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <path d="M0 1071.24 L229.9 1008.61 L459.79 1071.24 L229.9 1133.86 L0 1071.24 Z" class="st2"/>
+				 
+        <text x="49.9" y="1046.49" class="st6" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>用万用表测量电池主正端铜排与电
+          <tspan x="42.65" dy="1.298em" class="st7">池管理控制器总成</tspan>
+          <tspan class="st9">J</tspan>
+          <tspan class="st9">3</tspan>接插件
+          <tspan class="st9">Pin</tspan>
+          <tspan class="st9">1</tspan>是否
+          <tspan x="193.9" dy="1.331em" class="st7">导通</tspan>？
+        </text>			
+      </g>
+			 
+      <path d="M0 1071.24 L229.9 1008.61 L459.79 1071.24 L229.9 1133.86 L0 1071.24 Z" class="st4"/>
+			 
+      <text x="49.9" y="1046.49" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>用万用表测量电池主正端铜排与电
+        <tspan x="42.65" dy="1.298em" class="st7">池管理控制器总成</tspan>
+        <tspan class="st9">J</tspan>
+        <tspan class="st9">3</tspan>接插件
+        <tspan class="st9">Pin</tspan>
+        <tspan class="st9">1</tspan>是否
+        <tspan x="193.9" dy="1.331em" class="st7">导通</tspan>？
+      </text>		
+    </g>
+		 
+    <g id="shape49-182" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(595.282,-407.71)">
+			 
+      <title>判定.49</title>
+			 
+      <desc>用万用表测量电池主负端铜排与电池管理控制器总成J3接插件Pin7是否导通</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(1.8110236220472):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="229.897" cy="1071.24" width="383.17" height="93.9326"/>
+			 
+      <g id="shadow49-183" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <path d="M0 1071.24 L229.9 1008.61 L459.79 1071.24 L229.9 1133.86 L0 1071.24 Z" class="st2"/>
+				 
+        <text x="49.9" y="1046.49" class="st6" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>用万用表测量电池主负端铜排与电
+          <tspan x="42.65" dy="1.298em" class="st7">池管理控制器总成</tspan>
+          <tspan class="st9">J</tspan>
+          <tspan class="st9">3</tspan>接插件
+          <tspan class="st9">Pin</tspan>
+          <tspan class="st9">7</tspan>是否
+          <tspan x="193.9" dy="1.331em" class="st7">导通</tspan>？
+        </text>			
+      </g>
+			 
+      <path d="M0 1071.24 L229.9 1008.61 L459.79 1071.24 L229.9 1133.86 L0 1071.24 Z" class="st4"/>
+			 
+      <text x="49.9" y="1046.49" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>用万用表测量电池主负端铜排与电
+        <tspan x="42.65" dy="1.298em" class="st7">池管理控制器总成</tspan>
+        <tspan class="st9">J</tspan>
+        <tspan class="st9">3</tspan>接插件
+        <tspan class="st9">Pin</tspan>
+        <tspan class="st9">7</tspan>是否
+        <tspan x="193.9" dy="1.331em" class="st7">导通</tspan>？
+      </text>		
+    </g>
+		 
+    <g id="shape52-202" v:mID="52" v:groupContext="shape" v:layerMember="1" transform="translate(1055.08,-826.576)">
+			 
+      <title>动态连接线.52</title>
+			 
+      <desc>是</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="44.2198" cy="1126.77" width="120.01" height="39.9534"/>
+			 
+      <path d="M0 1126.77 L78.9 1126.77" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="32.2199" y="1110.8" width="23.9999" height="31.9496" class="st21"/>
+			 
+      <text x="32.22" y="1134.76" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>是
+      </text>		
+    </g>
+		 
+    <g id="shape53-209" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(1143.29,-617.731)">
+			 
+      <title>流程.53</title>
+			 
+      <desc>更换对应低压线束</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="161.034" cy="1099.88" width="322.07" height="67.9512"/>
+			 
+      <g id="shadow53-210" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1065.91" width="322.068" height="67.9512" class="st10"/>
+			
+      </g>
+			 
+      <rect x="0" y="1065.91" width="322.068" height="67.9512" class="st11"/>
+			 
+      <text x="65.03" y="1107.87" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换对应低压线束
+      </text>		
+    </g>
+		 
+    <g id="shape54-215" v:mID="54" v:groupContext="shape" v:layerMember="0" transform="translate(1143.29,-436.356)">
+			 
+      <title>流程.54</title>
+			 
+      <desc>更换对应低压线束</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="161.034" cy="1099.88" width="322.07" height="67.9512"/>
+			 
+      <g id="shadow54-216" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1065.91" width="322.068" height="67.9512" class="st10"/>
+			
+      </g>
+			 
+      <rect x="0" y="1065.91" width="322.068" height="67.9512" class="st11"/>
+			 
+      <text x="65.03" y="1107.87" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换对应低压线束
+      </text>		
+    </g>
+		 
+    <g id="shape55-221" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(908.045,-6.81111)">
+			 
+      <title>流程.55</title>
+			 
+      <desc>更换电池管控制器</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="307.789" cy="983.584" width="615.58" height="300.548"/>
+			 
+      <g id="shadow55-222" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="833.311" width="615.577" height="300.548" class="st10"/>
+			
+      </g>
+			 
+      <rect x="0" y="833.311" width="615.577" height="300.548" class="st11"/>
+			 
+      <text x="316.76" y="987.58" class="st12" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换电池管控制器
+      </text>		
+    </g>
+		 
+    <g id="shape56-227" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(995.287,-219.066)">
+			 
+      <title>流程.56</title>
+			 
+      <desc>扫描一体式BDU内分流器新件二维码</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="176.879" cy="1110.16" width="353.76" height="47.3889"/>
+			 
+      <g id="shadow56-228" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1086.47" width="353.759" height="47.3889" class="st13"/>
+				 
+        <text x="16.67" y="1116.15" class="st14" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>扫描一体式
+          <tspan class="st9">BDU</tspan>内分流器（新件）二维码
+        </text>			
+      </g>
+			 
+      <rect x="0" y="1086.47" width="353.759" height="47.3889" class="st15"/>
+			 
+      <text x="16.67" y="1116.15" class="st16" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>扫描一体式
+        <tspan class="st9">BDU</tspan>内分流器（新件）二维码
+      </text>		
+    </g>
+		 
+    <g id="shape57-237" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(997.682,-133.39)">
+			 
+      <title>流程.57</title>
+			 
+      <desc>更换一体式BDU或分流器</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="176.879" cy="1110.16" width="353.76" height="47.3889"/>
+			 
+      <g id="shadow57-238" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1086.47" width="353.759" height="47.3889" class="st13"/>
+				 
+        <text x="79.67" y="1116.15" class="st14" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>更换一体式
+          <tspan class="st9">BDU</tspan>或分流器
+        </text>			
+      </g>
+			 
+      <rect x="0" y="1086.47" width="353.759" height="47.3889" class="st15"/>
+			 
+      <text x="79.67" y="1116.15" class="st16" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换一体式
+        <tspan class="st9">BDU</tspan>或分流器
+      </text>		
+    </g>
+		 
+    <g id="shape58-247" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(997.682,-33.1956)">
+			 
+      <title>流程.58</title>
+			 
+      <desc>重新写入分流器参数</desc>
+			 
+      <v:custProps>
+				 
+        <v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+				 
+        <v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				 
+        <v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey="" v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			
+      </v:custProps>
+			 
+      <v:userDefs>
+				 
+        <v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				 
+        <v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				 
+        <v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				 
+        <v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			
+      </v:userDefs>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="176.879" cy="1099.88" width="353.76" height="67.9512"/>
+			 
+      <g id="shadow58-248" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				 
+        <rect x="0" y="1065.91" width="353.759" height="67.9512" class="st13"/>
+				 
+        <text x="95.88" y="1105.87" class="st14" v:langID="2052" style="stroke:none;">
+          <v:paragraph v:horizAlign="1"/>
+          <v:tabList/>重新写入分流器参数
+        </text>			
+      </g>
+			 
+      <rect x="0" y="1065.91" width="353.759" height="67.9512" class="st15"/>
+			 
+      <text x="95.88" y="1105.87" class="st16" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>重新写入分流器参数
+      </text>		
+    </g>
+		 
+    <g id="shape59-255" v:mID="59" v:groupContext="shape" transform="translate(1384.43,-205.506)">
+			 
+      <title>工作表.59</title>
+			 
+      <desc>更换一体式BDU或分流器</desc>
+			 
+      <v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="69.045" cy="1099.88" width="138.1" height="67.9512"/>
+			 
+      <rect x="0" y="1065.91" width="138.09" height="67.9512" class="st20"/>
+			 
+      <text x="9.05" y="1075.13" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>更换一体式
+        <tspan x="11.44" dy="1.298em" class="st9">BDU</tspan>或分流
+        <tspan x="57.05" dy="1.331em" class="st7">器</tspan>
+      </text>		
+    </g>
+		 
+    <g id="shape60-260" v:mID="60" v:groupContext="shape" v:layerMember="1" transform="translate(1055.08,-658.793)">
+			 
+      <title>动态连接线.60</title>
+			 
+      <desc>否</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="44.1047" cy="1140.94" width="120.01" height="39.9534"/>
+			 
+      <path d="M0 1140.94 L78.67 1140.94" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="32.1048" y="1124.97" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="32.1" y="1148.93" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>否
+      </text>		
+    </g>
+		 
+    <g id="shape61-267" v:mID="61" v:groupContext="shape" v:layerMember="1" transform="translate(1055.08,-477.418)">
+			 
+      <title>动态连接线.61</title>
+			 
+      <desc>否</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="44.1047" cy="1140.94" width="120.01" height="39.9534"/>
+			 
+      <path d="M0 1140.94 L78.67 1140.94" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="32.1048" y="1124.97" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="32.1" y="1148.93" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>否
+      </text>		
+    </g>
+		 
+    <g id="shape62-274" v:mID="62" v:groupContext="shape" v:layerMember="1" transform="translate(507.072,-524.064)">
+			 
+      <title>动态连接线.62</title>
+			 
+      <desc>否</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="21.2598" cy="956.214" width="120.01" height="39.9534"/>
+			 
+      <path d="M0 1133.86 L21.26 1133.86 L21.26 824.26 L78.67 824.26" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="9.25993" y="940.239" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="9.26" y="964.2" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>否
+      </text>		
+    </g>
+		 
+    <g id="shape63-281" v:mID="63" v:groupContext="shape" v:layerMember="1" transform="translate(818.092,-770.46)">
+			 
+      <title>动态连接线.63</title>
+			 
+      <desc>否</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="7.08661" cy="1161.92" width="120.01" height="39.9534"/>
+			 
+      <path d="M7.09 1133.86 L7.09 1180.45" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="-4.91329" y="1145.95" width="23.9999" height="31.9496" class="st21"/>
+			 
+      <text x="-4.91" y="1169.91" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>否
+      </text>		
+    </g>
+		 
+    <g id="shape64-288" v:mID="64" v:groupContext="shape" v:layerMember="1" transform="translate(818.092,-589.085)">
+			 
+      <title>动态连接线.64</title>
+			 
+      <desc>是</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="7.08661" cy="1161.92" width="120.01" height="39.9534"/>
+			 
+      <path d="M7.09 1133.86 L7.09 1180.45" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="-4.91329" y="1145.95" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="-4.91" y="1169.91" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>是
+      </text>		
+    </g>
+		 
+    <g id="shape65-295" v:mID="65" v:groupContext="shape" v:layerMember="1" transform="translate(825.179,-407.71)">
+			 
+      <title>动态连接线.65</title>
+			 
+      <desc>是</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="-294.442" cy="1173.06" width="120.01" height="39.9534"/>
+			 
+      <path d="M0 1133.86 L0 1173.06 L-548 1173.06 L-548 1243.61" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="-306.442" y="1157.09" width="23.9999" height="31.9496" class="st19"/>
+			 
+      <text x="-306.44" y="1181.05" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>是
+      </text>		
+    </g>
+		 
+    <g id="shape66-302" v:mID="66" v:groupContext="shape" v:layerMember="1" transform="translate(1465.58,-833.662)">
+			 
+      <title>动态连接线.66</title>
+			 
+      <desc>若需更换一体式BDU 或分流器</desc>
+			 
+      <v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			 
+      <v:textRect cx="26.1762" cy="1406.66" width="224.65" height="71.9032"/>
+			 
+      <path d="M0 1133.86 L21.26 1133.86 L21.26 1679.81 L-293.42 1679.81 L-293.42 1691.53" class="st17"/>
+			 
+      <rect v:rectContext="textBkgnd" x="-79.4327" y="1374.71" width="211.218" height="63.8992" class="st21"/>
+			 
+      <text x="-79.43" y="1398.67" class="st8" v:langID="2052" style="stroke:none;">
+        <v:paragraph v:horizAlign="1"/>
+        <v:tabList/>若需更换一体式
+        <tspan class="st9">BDU
+          <v:newlineChar/>
+        </tspan>
+        <tspan x="-21.82" dy="1.331em" class="st7">或分流器</tspan>
+      </text>		
+    </g>
+		 
+    <g id="shape67-311" v:mID="67" v:groupContext="shape" v:layerMember="1" transform="translate(283.663,-220.467)">
+			 
+      <title>动态连接线.67</title>
+			 
+      <path d="M-6.49 1133.86 L-6.49 1155.12 L-7.69 1155.12 L-7.69 1161.06" class="st17"/>
+		
+    </g>
+		 
+    <g id="shape68-316" v:mID="68" v:groupContext="shape" v:layerMember="1" transform="translate(268.891,-136.338)">
+			 
+      <title>动态连接线.68</title>
+			 
+      <path d="M7.09 1133.86 L7.09 1159.51" class="st17"/>
+		
+    </g>
+		 
+    <g id="shape69-321" v:mID="69" v:groupContext="shape" v:layerMember="1" transform="translate(1166.28,-219.066)">
+			 
+      <title>动态连接线.69</title>
+			 
+      <path d="M5.89 1133.86 L5.89 1155.12 L8.28 1155.12 L8.28 1162.61" class="st17"/>
+		
+    </g>
+		 
+    <g id="shape73-326" v:mID="73" v:groupContext="shape" v:layerMember="1" transform="translate(1167.48,-133.39)">
+			 
+      <title>动态连接线.73</title>
+			 
+      <path d="M7.09 1133.86 L7.09 1156.56" class="st17"/>
+		
+    </g>
+	
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,65103" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.B{stroke-width:133px;}
+.A,.B,.C{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.C{stroke-width:938px;}
+.D{font-size:9673px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.D,.A,.B,.C{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <rect class="A" x="10377" y="36010" width="14425" height="14214"/>
+     <rect class="A" x="27256" y="36148" width="14425" height="14218"/>
+     <rect class="A" x="43612" y="36196" width="14421" height="14214"/>
+     <rect class="A" x="10377" y="18965" width="14425" height="14214"/>
+     <rect class="A" x="27256" y="19106" width="14425" height="14214"/>
+     <rect class="A" x="43612" y="19150" width="14421" height="14214"/>
+     <path class="B" d="M21338,3806 C20638,3806 20071,4373 20071,5073 M46410,5073 C46410,4373 45842,3806 45142,3806 M46410,5073 C46410,4373 45842,3806 45142,3806 "/>
+     <path class="C" d="M52487,60456v3372m-38493,-3372v3372M47929,62561 C47929,63958 49062,65091 50460,65091 M16021,65091 C17418,65091 18551,63958 18551,62561 M50460,65088h759M51219,65095 C51919,65095 52487,64528 52487,63828 M13994,63828 C13994,64528 14561,65095 15261,65095 M15261,65088h759m31908,-4554v2026m-29377,-2026v2026M12474,4313 C9677,4313 7409,6581 7409,9379 M12474,4313h3857m-8922,5065v1982M50208,6433 C50208,7728 51186,8815 52474,8950 "/>
+     <path class="B" d="M20071,5073v7600m1267,-8863h23804m1267,1263v7600"/>
+     <path class="C" d="M50208,5073 C50208,2275 47940,8 45142,8 M21338,8 C18846,8 16725,1820 16335,4281 M21338,11h23804m5065,5061v1359M7442,11342 C3464,14025 1080,18510 1080,23308 M1080,46101 C1080,54072 7542,60534 15513,60534 M50967,60534 C58939,60534 65400,54072 65400,46101 M65400,23308 C65400,15921 59823,9726 52476,8954 "/>
+     <path class="B" d="M4878,46101 C4878,51974 9639,56735 15513,56735 M50967,56735 C56841,56735 61602,51974 61602,46101 M61602,23308 C61602,17434 56841,12673 50967,12673 M11187,13592 C7350,15301 4878,19108 4878,23308 M16021,12673h34946m-35454,44062h35454m-46089,-33427v22792m56724,-22792v22792"/>
+     <path class="C" d="M15513,60534h35454m-49887,-37225v22792m64324,-22792v22792"/>
+     <path class="B" d="M16021,12684v-4572h-4813v5469"/>
+     <g>      <text class="D" x="50312" y="47666" style="stroke:none;">6</text>
+    </g>
+     <g>      <text class="D" x="33864" y="47889" style="stroke:none;">5</text>
+    </g>
+     <g>      <text class="D" x="16518" y="47559" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="D" x="50516" y="31054" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="D" x="33400" y="30969" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="16770" y="30721" style="stroke:none;">1</text>
+    </g>
+  </g></svg>

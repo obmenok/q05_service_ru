@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,47998" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke-width:937px;}
+.B,.C{stroke-width:133px;}
+.B,.C,.A{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.D{font-size:9664px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.D,.B,.C,.A{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M2499,47987l-1421,-1421v-45132l1421,-1421h2665l1421,1421v7463h6752v-7463l1421,-1421h2310l1421,1421v7463h2132v12083h1954v-20968h21324v20968h1954v-12083h2132v-7463l1421,-1421h2310l1421,1421v7463h6752v-7463l1421,-1421h2665l1421,1421v45132l-1421,1421 z"/>
+     <rect class="B" x="49657" y="12846" width="10884" height="12328"/>
+     <path class="C" d="M27911,12450v-4620h10662v4620m26833,22390h-2665v-7108h2665"/>
+     <rect class="B" x="49657" y="31942" width="10884" height="12324"/>
+     <path class="C" d="M22580,13872l1421,-1421h18481l1421,1421"/>
+     <rect class="B" x="35348" y="31942" width="10884" height="12324"/>
+     <rect class="B" x="6712" y="12846" width="10884" height="12328"/>
+     <rect class="B" x="21469" y="31942" width="10884" height="12324"/>
+     <rect class="B" x="6712" y="31942" width="10884" height="12324"/>
+     <path class="C" d="M1078,34841h2665v-7108h-2665"/>
+     <g>      <text class="D" x="11767" y="23977" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="54712" y="23977" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="11767" y="43072" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="D" x="54712" y="43072" style="stroke:none;">6</text>
+    </g>
+     <g>      <text class="D" x="26524" y="43072" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="D" x="40403" y="43072" style="stroke:none;">5</text>
+    </g>
+  </g></svg>

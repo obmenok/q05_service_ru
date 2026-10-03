@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 32452,65416" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke-width:982px;}
+.B,.C{stroke-width:140px;}
+.B,.C,.A{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.D{font-size:10120px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:4px;}
+.D,.B,.C,.A{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M8761,65408h15949"/>
+     <path class="B" d="M29250,14364h-25521"/>
+     <path class="A" d="M24710,8v8614"/>
+     <path class="B" d="M32441,17555 C32441,15792 31012,14364 29250,14364 M3728,14364 C1966,14364 538,15792 538,17555 "/>
+     <path class="A" d="M3728,36695h1841M24710,65408 C26472,65408 27901,63979 27901,62217 M5570,62217 C5570,63979 6998,65408 8761,65408 M29250,36695 C31012,36695 32441,35266 32441,33504 M538,33504 C538,35266 1966,36695 3728,36695 M27901,36695v25521m-22331,-25521v25521m22331,-25521h1349"/>
+     <path class="B" d="M8761,8622l15949,-8614m-15949,0l15949,8614"/>
+     <rect class="C" x="9063" y="18256" width="15089" height="14871"/>
+     <rect class="C" x="9330" y="42720" width="15092" height="14875"/>
+     <path class="A" d="M8761,8622v-8614h15949h-8277m-15891,33496v-24882h31899v24882"/>
+     <g>      <text class="D" x="16322" y="29462" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="16594" y="53926" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

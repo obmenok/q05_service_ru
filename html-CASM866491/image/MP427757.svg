@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,50900" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:1036px;}
+.A,.C,.B{stroke-linecap:butt;}
+.A,.C,.B,.D{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B{stroke-width:385px;}
+.D{stroke-width:55px;}
+.E{font-size:10064px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:4px;}
+.E,.A,.C,.B,.D{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+.E,.D{stroke-linecap:square;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M31429,20785v1813m3625,0v-1813m5440,1813h-14507M3937,47291 C4276,47668 4641,48020 5029,48346 M10322,19106 C7795,19506 5490,20783 3812,22714 M61599,48222 C61981,47890 62340,47531 62672,47149 M62547,22572 C60835,20671 58508,19434 55974,19078 "/>
+     <path class="B" d="M31429,20785h3625m27439,1813v24665m-58505,0v-24665"/>
+     <path class="A" d="M25988,16071h2720m9066,0h2720"/>
+     <path class="B" d="M37775,19453h-9066"/>
+     <path class="A" d="M44123,16071h1451v-16063h-24664v16063h1451m6347,1813v4714m0,-7254v2539h9066v-2539m0,7254v-4714m-8159,-7073v-6347h7252v6347m15597,249h3627v11538"/>
+     <rect class="C" x="25988" y="15344" width="14507" height="9521"/>
+     <path class="A" d="M4950,22599v24665h56583v3627h-56583v-3627h-3861v-24665h12929v-11788h3627v11788h4715v-11788h21761v11788h4715v-11788h3627v11788h12929v24665h-3861v-24665m-47515,-11538h-3627v11538"/>
+     <rect class="D" x="44959" y="31358" width="11334" height="12837"/>
+     <rect class="D" x="28278" y="31358" width="11333" height="12837"/>
+     <rect class="D" x="11268" y="31358" width="11334" height="12837"/>
+     <g>      <text class="E" x="17276" y="43302" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="E" x="32966" y="43302" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="E" x="52025" y="43302" style="stroke:none;">1</text>
+    </g>
+  </g></svg>

@@ -1,0 +1,1106 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Проверка и подтверждение"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="topic-1-F5240221"></meta>
+      
+      <meta name="DC.Language" content="ru"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Проверка и подтверждение</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="topic-1-F5240221">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST576302">Проверка и подтверждение</h3>
+         
+         
+         <div class="body"> 
+            
+            <p class="p">1. Подтвердить проблему клиента.</p>  
+            
+            <p class="p">2. Визуально проверить на наличие очевидных механических или электрических неисправностей.</p>  
+            
+            <p class="p"> 
+               <span class="ph b">Таблица визуального осмотра</span> 
+               
+            </p>  
+            
+            
+            <table width="100%" border="1" frame="box" rules="all">  
+               
+               
+               
+               <tbody> 
+                  
+                  <tr> 
+                     
+                     <td width="50%" valign="&#xA;            top&#xA;          ">Механическая часть</td>  
+                     
+                     <td width="50%" valign="&#xA;            top&#xA;          ">Электрическая часть</td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="50%" valign="&#xA;            top&#xA;          ">Датчик скорости вращения колеса, зубчатое кольцо датчика скорости вращения колеса</td>  
+                     
+                     <td width="50%" valign="&#xA;            top&#xA;          ">Плавкий предохранитель, разъемы, жгут проводов</td> 
+                     
+                  </tr> 
+                  
+               </tbody> 
+               
+            </table> 
+            
+            
+            <p class="p">3. Устранить обнаруженные проблемы перед переходом к следующей проверке.</p>  
+            
+            <p class="p">4. Если обнаружена очевидная причина наблюдаемой или заявленной проблемы, ее необходимо устранить перед переходом к следующему шагу.</p>  
+            
+            <p class="p">5. Если визуальный осмотр пройден, подтвердить неисправность и обратиться к таблице симптомов неисправностей.</p>  
+            
+            <p class="p"> 
+               <span class="ph b">Универсальное оборудование</span> 
+               
+            </p>  
+            
+            
+            <table width="100%" border="1" frame="box" rules="all">  
+               
+               
+               <tbody> 
+                  
+                  <tr> 
+                     
+                     <td width="100%" class="greenCell" valign="&#xA;            top&#xA;          ">Цифровой мультиметр</td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="100%" valign="&#xA;            top&#xA;          ">Диагностический прибор</td> 
+                     
+                  </tr> 
+                  
+               </tbody> 
+               
+            </table> 
+            
+            
+         </div>
+         
+         
+         <div class="topic nested1"> 
+            
+            <h3 class="title topictitle2" title="ST576302">Диагностика и проверка симптомов неисправностей</h3>
+            
+            
+            <div class="body"> 
+               
+               <p class="p"> 
+                  <span class="ph b">Процедура диагностики эпизодических неисправностей</span>  
+                  
+                  <ul name="contents" class="ul"> 
+                     
+                     <li> 
+                        
+                        <div>
+                           <div class="wl-attention prespace postspace" data-attention-type="caution" id="d48379e111">
+                              <header>
+                                 <h2>Внимание</h2>
+                              </header>
+                              <div class="attention-text postspace-s wl-attention-content">1. Удалить коды DTC.</div>
+                           </div>
+                           
+                        </div>  
+                        
+                        <p>2. Выполнить имитационные испытания.</p>  
+                        
+                        <p>3. Проверить и подергать жгут проводов, разъемы и клеммы</p> 
+                        
+                     </li> 
+                     
+                  </ul>
+                  
+                  
+               </p>  
+               
+               <p class="p">Когда с помощью проверки DTC не удается подтвердить неисправность, Симптом неисправности проявляется лишь эпизодически в процессе эксплуатации. В этом случае следует проверить все цепь и Компонент, которые могут привести к неисправности. Во многих случаях выполнение базовых проверок, показанных на блок-схеме ниже, позволяет быстро и эффективно обнаружить место неисправности, особенно в отношении таких проблем, как плохой контакт в разъемах жгута проводов.</p>  
+               
+               <p class="p">Определение неисправности: в настоящее время данная неисправность отсутствует, но запись диагностического кода неисправности в истории указывает на то, что эта неисправность возникала ранее. Либо клиент сообщил о неисправности, но поскольку она не связана с диагностическим кодом неисправности, воспроизвести Симптом неисправности в настоящее время невозможно.</p>  
+               
+               
+               <table width="100%" border="1" frame="box" rules="all">  
+                  
+                  
+                  
+                  <tbody> 
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Условия проверки</span> 
+                           
+                        </td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Детали/Результат/Меры</span> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">1. Метод вибрации</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Если неисправность возникает при движении по неровной дороге или становится более выраженной, либо двигатель/электромотор создает вибрацию, перейти к шагу 2 или 3.</p>  
+                           
+                           <div>
+                              <div class="wl-attention prespace postspace" data-attention-type="caution" id="d48379e171">
+                                 <header>
+                                    <h2>Внимание</h2>
+                                 </header>
+                                 <div class="attention-text postspace-s wl-attention-content">Существует несколько причин, которые могут привести к электрической неисправности из-за вибрации автомобиля или двигателя/электромотора. Проверить следующие пункты:</div>
+                              </div>
+                              
+                           </div>  
+                           
+                           <p> 
+                              
+                              <ul name="contents" class="ul"> 
+                                 
+                                 <li> 
+                                    
+                                    <p>Разъем вставлен не до конца.</p> 
+                                    
+                                 </li> 
+                                 
+                              </ul>
+                              
+                              
+                              <ul name="contents" class="ul"> 
+                                 
+                                 <li> 
+                                    
+                                    <p>Жгут проводов не имеет достаточного зазора.</p> 
+                                    
+                                 </li> 
+                                 
+                              </ul>
+                              
+                              
+                              <ul name="contents" class="ul"> 
+                                 
+                                 <li> 
+                                    
+                                    <p>Жгут проводов проложен поперек кронштейнов или движущихся компонентов.</p> 
+                                    
+                                 </li> 
+                                 
+                              </ul>
+                              
+                              
+                              <ul name="contents" class="ul"> 
+                                 
+                                 <li> 
+                                    
+                                    <p>Жгут проводов проложен слишком близко к высокотемпературным компонентам.</p> 
+                                    
+                                 </li> 
+                                 
+                              </ul>
+                              
+                              
+                           </p>  
+                           
+                           <div>
+                              <div class="wl-attention prespace postspace" data-attention-type="caution" id="d48379e213">
+                                 <header>
+                                    <h2>Внимание</h2>
+                                 </header>
+                                 <div class="attention-text postspace-s wl-attention-content">Неправильная прокладка, отсутствие надежной фиксации или ослабленный жгут проводов могут привести к защемлению проводов между компонентами.</div>
+                              </div>
+                              
+                           </div>  
+                           
+                           <div>
+                              <div class="wl-attention prespace postspace" data-attention-type="caution" id="d48379e216">
+                                 <header>
+                                    <h2>Внимание</h2>
+                                 </header>
+                                 <div class="attention-text postspace-s wl-attention-content">Места соединения разъемов, зоны вибрации и участки прохождения жгута проводов являются ключевыми точками для проверки, например: места прохождения жгута проводов через перегородку моторного отсека и панель кузова.</div>
+                              </div>
+                              
+                           </div> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">2. Метод проверки переключателей и разъемов</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Подключить Диагностический прибор к диагностическому порту (OBD).</p>  
+                           
+                           <p>B. Разблокировать автомобиль и включить Питание.</p>  
+                           
+                           <p>C. Получить доступ к потоку данных проверяемого переключателя.</p>  
+                           
+                           <p>D. Включить переключатель вручную.</p>  
+                           
+                           <p>E. Во время контроля потока данных слегка покачать каждый разъем или жгут проводов в вертикальном и горизонтальном направлениях. Если значения потока данных нестабильны, проверить качество подключения.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">3. Метод проверки датчиков и разъемов</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Подключить Диагностический прибор к диагностическому порту (OBD).</p>  
+                           
+                           <p>B. Разблокировать автомобиль и включить Питание.</p>  
+                           
+                           <p>C. Получить доступ к потоку данных проверяемого переключателя.</p>  
+                           
+                           <p>D. Во время контроля потока данных слегка покачать каждый разъем или жгут проводов в вертикальном и горизонтальном направлениях. Если значения потока данных нестабильны, проверить качество подключения.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">4. Метод проверки исполнительных механизмов или реле</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Подключить Диагностический прибор к диагностическому порту (OBD).</p>  
+                           
+                           <p>B. Разблокировать автомобиль и включить Питание.</p>  
+                           
+                           <p>C. Выполнить активное тестирование проверяемого исполнительного механизма или реле.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">5. Имитация неисправности в дорожных условиях, считывание потока данных</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Подключить Диагностический прибор к диагностическому порту (OBD).</p>  
+                           
+                           <p>B. Выполнить дорожные испытания, имитируя неисправность и одновременно считывая поток данных. Если значения потока данных нестабильны или возникает неисправность, выполнить ремонт или заменить детали.</p> 
+                           
+                        </td> 
+                        
+                     </tr> 
+                     
+                  </tbody> 
+                  
+               </table> 
+               
+               
+               <p class="p"> 
+                  <span class="ph b">Процедура диагностики постоянного горения предупреждающего лампа ABS</span> 
+                  
+               </p>  
+               
+               
+               <table width="100%" border="1" frame="box" rules="all">  
+                  
+                  
+                  
+                  <tbody> 
+                     
+                     <tr> 
+                        
+                        <td width="50%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Условия проверки</span> 
+                           
+                        </td>  
+                        
+                        <td width="50%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Детали / Результат / Меры</span> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">1. Обратиться к Интегрированный модуль управления тормозной системой (IBCU) с помощью Диагностический прибор</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Проверить, выводится ли Код неисправности?</p>  
+                           
+                           <p>→Да Выполнить ремонт в соответствии с выведенным кодом DTC.</p>  
+                           
+                           <p>→Нет. Перейти к шагу 2.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">2. Обратиться к контроллеру зоны (VIU) с помощью Диагностический прибор</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Проверить, выводится ли Код неисправности?</p>  
+                           
+                           <p>→Да Выполнить ремонт в соответствии с выведенным кодом DTC.</p>  
+                           
+                           <p>→Нет. Перейти к шагу 3.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">3. Обратиться к компьютеру управления впечатлениями от вождения (EDC) с помощью Диагностический прибор</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Проверить, выводится ли Код неисправности?</p>  
+                           
+                           <p>→Да Выполнить ремонт в соответствии с выведенным кодом DTC.</p>  
+                           
+                           <p>→Нет. Перейти к шагу 4.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">4. Заменить компьютер управления впечатлениями от вождения (EDC)</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Выключить Питание автомобиля, отсоединить жгут проводов отрицательной клеммы Аккумуляторная батарея</p>  
+                           
+                           <p>B. Заменить блок управления мультимедиа EDC. Подтвердить нормальную работу системы</p> 
+                           
+                        </td> 
+                        
+                     </tr> 
+                     
+                  </tbody> 
+                  
+               </table> 
+               
+               
+               <p class="p"> 
+                  <span class="ph b">Процедура диагностики интегрированного модуля управления тормозной системой</span>  
+                  
+                  
+                  <table width="100%" border="1" frame="box" rules="all">  
+                     
+                     
+                     
+                     <tbody> 
+                        
+                        <tr> 
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          "> 
+                              <span class="ph b">Условия проверки</span> 
+                              
+                           </td>  
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          "> 
+                              <span class="ph b">Детали / Результат / Меры</span> 
+                              
+                           </td> 
+                           
+                        </tr>  
+                        
+                        <tr> 
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">1. Проверить напряжение Аккумуляторная батарея</td>  
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                           
+                        </tr>  
+                        
+                        <tr> 
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          "> 
+                              
+                              <p>A. Включить Питание автомобиля.</p>  
+                              
+                              <p>B. С помощью мультиметра проверить, в норме ли напряжение Аккумуляторная батарея? (Стандартное значение: 9 ~ 16 V)</p>  
+                              
+                              <p>→Да Перейти к шагу 2.</p>  
+                              
+                              <p>→Нет</p> 
+                              
+                           </td> 
+                           
+                        </tr>  
+                        
+                        <tr> 
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">2. Цепь питания и заземления Интегрированный модуль управления тормозной системой (IBCU)</td>  
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                           
+                        </tr>  
+                        
+                        <tr> 
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          "> 
+                              
+                              <p>A. Снять разъем Интегрированный модуль управления тормозной системой (IBCU);</p>  
+                              
+                              <p>B. Найти жгут проводов разъема, соответствующий выводам № 1, № 14, № 30, № 46;</p>  
+                              
+                              <p>C. С помощью мультиметра проверить, в норме ли Выход напряжение этого жгута проводов (стандартное значение: 9 ~ 16 V);</p>  
+                              
+                              <p>→Да Питание в норме.</p>  
+                              
+                              <p>→Нет. Перейти к шагу 3.</p> 
+                              
+                           </td> 
+                           
+                        </tr>  
+                        
+                        <tr> 
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">3. Обратиться к Интегрированный модуль управления тормозной системой (IBCU) с помощью Диагностический прибор</td>  
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                           
+                        </tr>  
+                        
+                        <tr> 
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                           
+                           <td width="50%" valign="&#xA;            top&#xA;          "> 
+                              
+                              <p>A. Обратиться к Интегрированный модуль управления тормозной системой (IBCU) с помощью Диагностический прибор, выполнить активное тестирование насоса, слышен ли звук работающего насоса?</p>  
+                              
+                              <p>→Да Система в норме.</p>  
+                              
+                              <p>→Нет Заменить Интегрированный модуль управления тормозной системой (IBCU).</p>  
+                              
+                              <p>Ссылка <a class="xref" href="ST576295.html">Интегрированный модуль управления тормозной системой (IBCU)</a> 
+                                 
+                              </p> 
+                              
+                           </td> 
+                           
+                        </tr> 
+                        
+                     </tbody> 
+                     
+                  </table> 
+                  
+                  
+               </p>  
+               
+               <p class="p"> 
+                  <span class="ph b">Процедура диагностики датчика скорости вращения колеса</span> 
+                  
+               </p>  
+               
+               
+               <table width="100%" border="1" frame="box" rules="all">  
+                  
+                  
+                  
+                  <tbody> 
+                     
+                     <tr> 
+                        
+                        <td width="50%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Условия проверки</span> 
+                           
+                        </td>  
+                        
+                        <td width="50%" class="greenCell" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Детали / Результат / Меры</span> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">1. Проверить Установка датчика скорости вращения колеса</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Проверить, не ослаблена ли Установка датчика скорости вращения колеса?</p>  
+                           
+                           <p>→Да Перейти к шагу 2.</p>  
+                           
+                           <p>→Нет Выполнить затяжку.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">2. Проверить сборочный зазор датчика скорости вращения колеса</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Выполнить повторную сборку и проверить, в норме ли зазор датчика скорости вращения колеса. Стандартное значение: спереди: 0.2 - 1 mm; сзади: 0.35 - 1.65 mm</p>  
+                           
+                           <p>→Да Перейти к шагу 3.</p>  
+                           
+                           <p>→Нет Заменить датчик скорости вращения колеса.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">3. Измерить состояние деталей датчика скорости вращения колеса</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Отсоединить жгут проводов датчика скорости вращения колеса, проверить головку датчика и разъем на наличие царапин, посторонних предметов, грязи.</p>  
+                           
+                           <p>→Да Очистить или заменить датчик.</p>  
+                           
+                           <p>→Нет. Перейти к шагу 4.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">4. Проверить напряжение на контакте разъема жгута проводов датчика скорости вращения колеса</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Проверить, в норме ли напряжение в цепь четырех датчиков скорости вращения колеса</p>  
+                           
+                           <p>→Да Заменить датчик скорости вращения колеса.</p>  
+                           
+                           <p>→Нет Перейти к шагу 5.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">5. Проверить цепь от разъема интегрированного модуля управления тормозной системой до разъема датчика скорости вращения колеса на обрыв/замыкание</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Отсоединить разъем интегрированного модуля управления тормозной системой, проверить цепь от контактов № 4, № 5, № 6, № 7, № 8, № 9, № 10, № 11 на контакты разъемов четырех датчиков скорости вращения колеса на предмет обрыва или замыкания, проверить, в норме ли жгут проводов</p>  
+                           
+                           <p>→Да Перейти к шагу 6.</p>  
+                           
+                           <p>→Нет Заменить неисправный жгут проводов.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">6. Проверить напряжение Аккумуляторная батарея</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Включить Питание автомобиля.</p>  
+                           
+                           <p>B. С помощью мультиметра проверить, в норме ли напряжение Аккумуляторная батарея. Стандартное значение: 9 ~ 16 V.</p>  
+                           
+                           <p>→Да Перейти к шагу 7.</p>  
+                           
+                           <p>→Нет Заменить Аккумуляторная батарея.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">7. Цепь питания и заземления интегрированного модуля управления тормозной системой</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Снять разъем интегрированного модуля управления тормозной системой, найти жгут проводов разъема, соответствующий выводам № 1, № 14, № 30, № 46</p>  
+                           
+                           <p>B. С помощью мультиметра проверить, в норме ли Выход напряжение этого жгута проводов, стандартное значение: 9 ~ 16 V;</p>  
+                           
+                           <p>→Да Перейти к шагу 8.</p>  
+                           
+                           <p>→Нет Заменить жгут проводов разъема.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">8. Обратиться к интегрированному модулю управления тормозной системой с помощью Диагностический прибор</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Подключить разъем, обратиться к интегрированному модулю управления тормозной системой с помощью Диагностический прибор, выполнить активное тестирование насоса. Слышен ли звук работающего насоса?</p>  
+                           
+                           <p>→Да Система в норме.</p>  
+                           
+                           <p>→Нет Перейти к шагу 9.</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">9. Заменить интегрированный модуль управления тормозной системой (IBCU)</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>A. Заменить интегрированный модуль управления тормозной системой (IBCU).</p> 
+                           
+                        </td> 
+                        
+                     </tr> 
+                     
+                  </tbody> 
+                  
+               </table> 
+               
+               
+            </div>
+            
+            
+         </div>
+         
+         
+         <div class="topic nested1"> 
+            
+            <h3 class="title topictitle2" title="ST576302">Диагностика и проверка DTC</h3>
+            
+            
+            <div class="body"> 
+               
+               <p class="p"> 
+                  <span class="ph b">Список потоков данных для диагностики и проверки DTC</span> 
+                  
+               </p>  
+               
+               <p class="p">Путем считывания "Списка потоков данных" на диагностическом приборе можно проверить рабочее состояние переключателей, датчиков и исполнительных механизмов без демонтажа каких-либо деталей. Наблюдение и анализ данных перед проведением диагностики электронной системы управления двигателем являются первым шагом в устранении неисправностей, что позволяет сократить время поиска и устранения неисправностей.</p>  
+               
+               <div>
+                  <div class="wl-attention prespace postspace" data-attention-type="caution" id="d48379e870">
+                     <header>
+                        <h2>Внимание</h2>
+                     </header>
+                     <div class="attention-text postspace-s wl-attention-content"> 
+                        
+                        <p class="p">В таблице ниже приведены данные при нормальных условиях, которые служат только для справки. Категорически запрещается судить о неисправности какой-либо детали исключительно на основе этих справочных значений. Как правило, можно использовать рабочий автомобиль для сравнения с подозреваемым в неисправности автомобилем в одинаковых условиях, чтобы определить, являются ли данные диагностируемого автомобиля нормальными в текущем состоянии.</p> 
+                        
+                     </div>
+                  </div>
+                  
+               </div>  
+               
+               <p class="p">1. Подключить диагностический прибор.</p>  
+               
+               <p class="p">2. Включить Питание автомобиля или запустить двигатель.</p>  
+               
+               <p class="p">3. Открыть ПО диагностического прибора &gt; Диагностика автомобиля &gt; Интегрированный модуль управления тормозной системой &gt; Читать поток данных.</p>  
+               
+               <p class="p">4. Обратиться к таблице ниже (в диагностическом приборе имеется меню списков примеров, здесь приведено для иллюстрации), проверить каждый элемент данных.</p>  
+               
+               
+               <table width="100%" border="1" frame="box" rules="all">  
+                  
+                  
+                  
+                  
+                  
+                  <tbody> 
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Элемент отображения диагностического прибора</span> 
+                           
+                        </td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Компонент</span> 
+                           
+                        </td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Диапазон управления</span> 
+                           
+                        </td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          "> 
+                           <span class="ph b">Описание диагностики</span> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость левого переднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Сигнал поступает от датчика скорости левого переднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость левого переднего колеса изменяется в зависимости от скорости автомобиля</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Наблюдать за изменением скорости колеса</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость правого переднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Сигнал поступает от датчика скорости правого переднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость правого переднего колеса изменяется в зависимости от скорости автомобиля</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Наблюдать за изменением скорости колеса</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость левого заднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Сигнал поступает от датчика скорости левого заднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость левого заднего колеса изменяется в зависимости от скорости автомобиля</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Наблюдать за изменением скорости колеса</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость правого заднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Сигнал поступает от датчика скорости правого заднего колеса</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Скорость правого заднего колеса изменяется в зависимости от скорости автомобиля</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Наблюдать за изменением скорости колеса</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Состояние индикатора неисправности тормозной системы</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Сигнал поступает от интегрированного модуля управления тормозной системой</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Управляется интегрированным модулем управления тормозной системой</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Индикатор может загореться при связи диагностического прибора с интегрированным модулем управления тормозной системой</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Состояние предупреждающего лампа ABS</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Сигнал поступает от интегрированного модуля управления тормозной системой</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Управляется интегрированным модулем управления тормозной системой</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Индикатор может загореться при связи диагностического прибора с интегрированным модулем управления тормозной системой</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Состояние предупреждающего лампа ESC</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Сигнал поступает от интегрированного модуля управления тормозной системой</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Управляется интегрированным модулем управления тормозной системой</td>  
+                        
+                        <td width="25%" valign="&#xA;            top&#xA;          ">Индикатор может загореться при связи диагностического прибора с интегрированным модулем управления тормозной системой</td> 
+                        
+                     </tr> 
+                     
+                  </tbody> 
+                  
+               </table> 
+               
+               
+               <p class="p"> 
+                  <span class="ph b">Динамический тест</span> 
+                  
+               </p>  
+               
+               <p class="p">С помощью диагностического прибора выполнить функциональное тестирование; рабочее состояние исполнительных механизмов интегрированного модуля управления тормозной системой (IBCU) можно проверить без демонтажа каких-либо деталей. Выполнение функционального тестирования до проведения диагностики соответствующих неисправностей интегрированного модуля управления тормозной системой (IBCU) является эффективным средством поиска неисправностей, что позволяет сократить время их устранения.</p>  
+               
+               <p class="p">1. Подключить диагностический прибор.</p>  
+               
+               <p class="p">2. Включить Питание автомобиля или запустить двигатель.</p>  
+               
+               <p class="p">3. Открыть ПО диагностического прибора &gt; Диагностический прибор &gt; Интегрированный модуль управления тормозной системой &gt; Специальные функции.</p>  
+               
+               <p class="p">Условия проверки:</p>  
+               
+               <p class="p">1. Тестирование невозможно при пониженном напряжении.</p>  
+               
+               <p class="p">2. Скорость автомобиля не должна превышать 3 km/h.</p>  
+               
+               <p class="p">Шаги проверки:</p>  
+               
+               <p class="p">Открыть ПО диагностического прибора &gt; Диагностический прибор &gt; Интегрированный модуль управления тормозной системой &gt; Специальные функции &gt; Динамический тест, выполнять тестирование по пунктам в соответствии с пунктами на экране диагностического прибора.</p>  
+               
+               <p class="p"> 
+                  <span class="ph b">Запись конфигурационного слова</span> 
+                  
+               </p>  
+               
+               <p class="p">При замене интегрированного модуля управления тормозной системой в условиях послепродажного обслуживания необходимо с помощью диагностического прибора выполнить конфигурацию автомобиля и другие действия для интегрированного модуля управления тормозной системой.</p>  
+               
+               <p class="p">1. Подключить диагностический прибор.</p>  
+               
+               <p class="p">2. Включить Питание автомобиля или запустить двигатель.</p>  
+               
+               <p class="p">3. Открыть ПО диагностического прибора &gt; Диагностический прибор &gt; Интегрированный модуль управления тормозной системой &gt; Запись конфигурационного слова, правильно припарковать автомобиль в соответствии с выбором и подсказками на экране диагностического прибора, выполнить действие "Конфигурация автомобиля".</p>  
+               
+               <p class="p"> 
+                  <span class="ph b">Процедура диагностики невозможности связи диагностического прибора с автомобилем</span> 
+                  
+               </p>  
+               
+               <p class="p">1. Подключить диагностический прибор.</p>  
+               
+               <p class="p">2. Включить Питание автомобиля или запустить двигатель.</p>  
+               
+               <p class="p">3. В зависимости от результатов диагностики проверить неисправности цепи и модуля управления. 
+                  
+                  <div>
+                     <div class="wl-attention prespace postspace" data-attention-type="caution" id="d48379e1107">
+                        <header>
+                           <h2>Внимание</h2>
+                        </header>
+                        <div class="attention-text postspace-s wl-attention-content">Внутреннее короткое замыкание в модуле также может вызвать эту неисправность.</div>
+                     </div>
+                     
+                  </div> 
+                  
+               </p> 
+               
+            </div>
+            
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,34116" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:81px;}
+.B{stroke-width:569px;}
+.B,.A,.C{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.D{font-size:5871px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:2px;}
+.D,.B,.A,.C{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1077,31690h64328"/>
+     <path class="B" d="M1077,31690l2415,2418h59494l2418,-2418v-23698l-726,-726h-2175l-726,726v5319h-16082v-12575l-726,-726h-2175l-726,726v12575h-1572v-13302h-14510v13302h-1572v-12575l-724,-726h-2177l-726,726v12575h-16082v-5319l-724,-726h-2175l-724,726 z"/>
+     <path class="A" d="M65406,17906h-2418v4836h2418"/>
+     <rect class="C" x="54591" y="20452" width="6612" height="7487"/>
+     <rect class="C" x="44667" y="20452" width="6612" height="7487"/>
+     <path class="C" d="M27113,6297l-1129,1210h14510l-1129,-1210h-2498v-1934h-7254v1934 z"/>
+     <rect class="C" x="35110" y="20452" width="6612" height="7487"/>
+     <rect class="C" x="25186" y="20452" width="6612" height="7487"/>
+     <rect class="C" x="15259" y="20452" width="6612" height="7487"/>
+     <rect class="C" x="5335" y="20452" width="6612" height="7487"/>
+     <path class="A" d="M1077,22742h2415v-4836h-2415"/>
+     <g>      <text class="D" x="28257" y="27212" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="D" x="38181" y="27212" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="D" x="18330" y="27212" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="8406" y="27212" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="57662" y="27212" style="stroke:none;">6</text>
+    </g>
+     <g>      <text class="D" x="47738" y="27212" style="stroke:none;">5</text>
+    </g>
+  </g></svg>

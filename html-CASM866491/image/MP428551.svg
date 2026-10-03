@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,33260" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:100px;}
+.A,.C,.B{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B{stroke-width:707px;}
+.D{font-size:7288px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:2px;}
+.D,.A,.C,.B{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1931,871v15867m2359,-11363l-857,857m2786,27016l309,-854m13522,-27018l-859,857m-17260,21873l-429,427"/>
+     <path class="B" d="M22517,12665v-12223"/>
+     <path class="A" d="M34953,5375v-5360m5145,6217l859,-857m-17584,3001v4288m-429,-12650v5360"/>
+     <path class="B" d="M35383,441v12223"/>
+     <path class="A" d="M35383,441h-12865m14044,4933h1287m-5681,505h-6432m10827,351h2144"/>
+     <path class="B" d="M34953,14h-12008"/>
+     <path class="A" d="M64546,16739v-15867"/>
+     <path class="B" d="M22944,11 C22707,11 22514,204 22514,441 M35383,441 C35383,204 35191,11 34953,11 "/>
+     <path class="A" d="M56151,27391v-9297"/>
+     <path class="B" d="M23374,12665h-2038v-12650h-19404l-854,857v28091l5143,4285h54037l5145,-4285v-28091l-857,-857h-27985v12650h-2035"/>
+     <path class="A" d="M63044,871v5360l-857,-857v-4503m427,-429l429,429h1502l427,-429"/>
+     <rect class="C" x="55433" y="7159" width="8208" height="9294"/>
+     <path class="A" d="M38279,441l427,429h1393m0,-857l859,857h21228l857,-857m2359,21013h-1717v-4288h1717"/>
+     <rect class="C" x="46688" y="7159" width="8208" height="9294"/>
+     <path class="A" d="M38706,871v5360l-857,-857v-4503m17576,17221h8208v9297h-8208m-14895,-26949l-429,429v5360h22945m1929,22300l-427,-427v-7077m-25840,-21013l-857,857h-1287m4397,0v4503h21228"/>
+     <rect class="C" x="38030" y="7142" width="8208" height="9294"/>
+     <path class="A" d="M33239,6232l857,-857h1287m24874,27873l-312,-854l4118,-3431"/>
+     <rect class="C" x="46677" y="18093" width="8208" height="9297"/>
+     <path class="A" d="M24662,6232l-857,-857h-1287m-3325,-5360l859,857h1284m11902,5790v-2253h-8577v2253m9864,6002v-4288l427,-429"/>
+     <rect class="C" x="37988" y="18076" width="8208" height="9297"/>
+     <path class="A" d="M17799,871v5360l-857,-857v-4503m2680,-429l-429,429v5360h2144m-1284,-5360v4503h1284m13189,3001h-11151l-429,-429m12438,429l-857,-857h-11151l-857,857m-5145,-7935l427,429h1393m4612,4503v1287h1929v-1502h6432v1502h1929v-1287"/>
+     <rect class="C" x="29344" y="18093" width="8208" height="9297"/>
+     <path class="A" d="M17799,14l-857,857h-12650l-857,-857"/>
+     <rect class="C" x="11888" y="7176" width="8205" height="9297"/>
+     <path class="A" d="M1501,441l429,429h1502"/>
+     <rect class="C" x="20607" y="18076" width="8208" height="9297"/>
+     <path class="A" d="M3861,441l-427,429v5360h14365m-13508,-5360v4503h12650"/>
+     <rect class="C" x="3068" y="7159" width="8208" height="9297"/>
+     <rect class="C" x="11882" y="18065" width="8208" height="9294"/>
+     <rect class="C" x="3068" y="18048" width="8208" height="9294"/>
+     <path class="A" d="M1077,21027h1711v-4288h-1711m854,4288v7077h62615m-62132,857l4115,3431h53415m5458,-4288l-857,857h-62615l-854,-857"/>
+     <g>      <text class="D" x="15281" y="15291" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="6296" y="15154" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="41795" y="15135" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="D" x="50085" y="15271" style="stroke:none;">4</text>
+    </g>
+     <g>      <text class="D" x="58829" y="15271" style="stroke:none;">5</text>
+    </g>
+     <g>      <text class="D" x="6832" y="26041" style="stroke:none;">6</text>
+    </g>
+     <g>      <text class="D" x="15278" y="26177" style="stroke:none;">7</text>
+    </g>
+     <g>      <text class="D" x="56825" y="26208" style="stroke:none;">12</text>
+    </g>
+     <g>      <text class="D" x="48002" y="26208" style="stroke:none;">11</text>
+    </g>
+     <g>      <text class="D" x="39031" y="26071" style="stroke:none;">10</text>
+    </g>
+     <g>      <text class="D" x="23836" y="26071" style="stroke:none;">8</text>
+    </g>
+     <g>      <text class="D" x="32740" y="26208" style="stroke:none;">9</text>
+    </g>
+  </g></svg>

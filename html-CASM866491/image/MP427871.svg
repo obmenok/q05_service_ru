@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 33266,65416" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:123px;}
+.A,.C,.B{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B{stroke-width:865px;}
+.D{font-size:8918px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.D,.A,.C,.B{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <rect class="A" x="17768" y="37506" width="12276" height="12098"/>
+     <rect class="A" x="3848" y="37547" width="12276" height="12098"/>
+     <path class="B" d="M7818,11h18166m-2569,64333l6201,-6201m-5449,-52682h-14531m23616,10899v39965m-5449,-54500v19721m-21648,263h3481m14531,0h3481m-21648,-263v-19721m-5449,54500v-39965m30884,41783h-29066m1817,0l6201,6201m2569,1062h7889M33253,30891 C33253,29888 32439,29074 31435,29074 M31435,58143 C32439,58143 33253,57330 33253,56326 M551,56326 C551,57330 1365,58143 2369,58143 M2369,29074 C1365,29074 551,29888 551,30891 M7818,8 C6814,8 6001,821 6001,1825 M27803,1825 C27803,821 26989,8 25985,8 M33253,16360 C33253,15356 32439,14542 31435,14542 M20846,65408 C21810,65408 22733,65025 23415,64344 M10389,64344 C11070,65025 11994,65408 12957,65408 M2369,14542 C1365,14542 551,15356 551,16360 "/>
+     <path class="C" d="M27694,16432l6,6l3,6l6,6l6,6l6,6l6,6l3,6l6,10l6,6l3,6l6,6l3,6l3,6l3,10l6,6l3,6l3,6l3,10v6l3,6l3,6v10l3,6v13l3,10v20l3,10m-21692,-225l-3,6l-6,6l-6,6l-6,6l-6,6l-6,6l-3,6l-6,10l-6,6l-3,6l-6,6l-3,6l-3,6l-3,10l-6,6l-3,6l-3,6v10l-3,6l-3,6l-3,6v10l-3,6v13l-3,10v20l-3,10"/>
+     <path class="B" d="M2369,29077h7267v-23616m-5449,23616v-14534h-1817m21798,-9081v23616h7267m-1817,0v-14534h1817m-25434,7004l6,27l3,13l10,41l3,13l3,13l6,10l6,13l6,13l30,41l10,13l13,13l10,10l13,13l13,10l13,13m21494,0l13,-13l13,-10l13,-13l10,-10l13,-13l10,-13l30,-41l10,-13l3,-13l6,-10l3,-13l3,-13l10,-41l3,-13l6,-27"/>
+     <path class="C" d="M11450,30891h-9081v25434h29066v-25434h-9081m-12717,-1814l1814,1814v-14531h10902l1814,-1817h-14531l1814,1817m12717,12717l-1814,1814v-14531"/>
+     <g>      <text class="D" x="23520" y="46775" style="stroke:none;">2</text>
+    </g>
+     <g>      <text class="D" x="9009" y="46710" style="stroke:none;">1</text>
+    </g>
+  </g></svg>

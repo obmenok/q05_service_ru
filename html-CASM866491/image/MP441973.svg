@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,45475" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke:#808080;}
+.B,.D,.C,.A,.E,.G,.H,.P,.N{stroke-width:16px;}
+.B,.D,.C,.A,.E,.I,.K,.G,.H,.Q,.O,.P,.N,.M,.L,.R{stroke-dasharray:none;}
+.C{stroke:#0F0;}
+.E{stroke:#990;}
+.F{stroke-dasharray:696,348;stroke-width:122px;}
+.F,.B,.D,.I,.G,.H,.Q,.M,.L,.R{stroke:#000;}
+.F,.J,.B,.D,.C,.A,.E,.I,.K,.G,.H{fill-opacity:0.0;fill:none;}
+.F,.J,.B,.D,.C,.A,.E,.I,.K,.G,.H,.Q,.M,.L,.R{stroke-opacity:1.0;}
+.F,.J,.B,.D,.C,.A,.E,.I,.K,.G,.H,.Q,.O,.P,.N,.M,.L,.R{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.F,.J,.B,.D,.C,.A,.E,.I,.K,.G,.H,.Q,.R{font-family:sans-serif;}
+.F,.J,.B,.D,.C,.A,.E,.Q{stroke-linecap:butt;}
+.I,.K,.G,.H,.O,.P,.N,.M,.L,.R{stroke-linecap:square;}
+.J{stroke-dasharray:824,412,164,412;}
+.J,.I,.K{stroke-width:158px;}
+.J,.K,.P,.N{stroke:#F9C;}
+.L{font-size:897px;font-family:仿宋;}
+.N,.M{font-size:603px;font-family:微软雅黑;}
+.O{fill:#00F;stroke:#00F;}
+.O,.M,.L{stroke-width:0.5px;}
+.O,.P{font-size:400px;font-family:Lucida Sans;}
+.O,.P,.N{stroke-opacity:0.0;}
+.P,.N{fill:#FFF;}
+.Q,.M,.L,.R{fill:#000;}
+.Q,.O,.P,.N,.M,.L,.R{fill-opacity:1.0;}
+.Q,.R{stroke-width:16.0px;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1098,45467v-45459h64291v45459h-64291m64291,-45459v45459h-64291m64291,-45459v45459"/>
+     <path class="B" d="M2040,2393h10584"/>
+     <path class="C" d="M65390,45467h-64292l0,-45459l64291,1 z"/>
+     <rect class="D" x="2004" y="849" width="62407" height="43849"/>
+     <path class="B" d="M12625,2393v-1511"/>
+     <rect class="E" x="52077" y="23387" width="2272" height="4221"/>
+     <rect class="E" x="11488" y="23712" width="2272" height="4221"/>
+     <rect class="E" x="52077" y="29232" width="2272" height="4221"/>
+     <g>      <path class="B" d="M39089,26741 C39148,26741 39195,26693 39195,26634 M38982,26634 C38982,26693 39030,26741 39089,26741 M39195,26634 C39195,26575 39148,26527 39089,26527 M39089,26527 C39030,26527 38982,26575 38982,26634 "/>
+    </g>
+     <g>      <path class="B" d="M46232,29774 C46173,29774 46125,29822 46125,29881 M46339,29881 C46339,29822 46291,29774 46232,29774 M46125,32479 C46125,32538 46173,32586 46232,32586 M46232,32586 C46291,32586 46339,32538 46339,32479 M46125,29881l213,2597m0,-2597l-213,2597"/>
+    </g>
+     <g>      <path class="B" d="M45583,23929 C45524,23929 45476,23977 45476,24036 M45690,24036 C45690,23977 45642,23929 45583,23929 M45476,26634 C45476,26693 45524,26741 45583,26741 M45583,26741 C45642,26741 45690,26693 45690,26634 M45476,24036l213,2597m0,-2597l-213,2597"/>
+    </g>
+     <g>      <path class="B" d="M17658,23929 C17599,23929 17551,23977 17551,24036 M17764,24036 C17764,23977 17717,23929 17658,23929 M17551,26634 C17551,26693 17599,26741 17658,26741 M17658,26741 C17717,26741 17764,26693 17764,26634 M17551,24036l213,2597m0,-2597l-213,2597"/>
+    </g>
+     <g>      <path class="B" d="M29997,23929 C29938,23929 29890,23977 29890,24036 M30104,24036 C30104,23977 30056,23929 29997,23929 M29890,26634 C29890,26693 29938,26741 29997,26741 M29997,26741 C30056,26741 30104,26693 30104,26634 M29890,24036l213,2597m0,-2597l-213,2597"/>
+    </g>
+     <g>      <path class="B" d="M24152,18734l2597,213m-2597,0l2597,-213M24045,18841 C24045,18900 24093,18948 24152,18948 M24152,18734 C24093,18734 24045,18782 24045,18841 M26750,18948 C26809,18948 26856,18900 26856,18841 M26856,18841 C26856,18782 26809,18734 26750,18734 "/>
+    </g>
+     <g>      <path class="B" d="M24152,12889l2597,213m-2597,0l2597,-213M24045,12996 C24045,13055 24093,13103 24152,13103 M24152,12889 C24093,12889 24045,12937 24045,12996 M26750,13103 C26809,13103 26856,13055 26856,12996 M26856,12996 C26856,12937 26809,12889 26750,12889 "/>
+    </g>
+     <g>      <path class="B" d="M39738,29774 C39679,29774 39631,29822 39631,29881 M39845,29881 C39845,29822 39797,29774 39738,29774 M39631,32479 C39631,32538 39679,32586 39738,32586 M39738,32586 C39797,32586 39845,32538 39845,32479 M39631,29881l213,2597m0,-2597l-213,2597"/>
+    </g>
+     <g>      <path class="B" d="M39738,23929 C39679,23929 39631,23977 39631,24036 M39845,24036 C39845,23977 39797,23929 39738,23929 M39631,26634 C39631,26693 39679,26741 39738,26741 M39738,26741 C39797,26741 39845,26693 39845,26634 M39631,24036l213,2597m0,-2597l-213,2597"/>
+    </g>
+     <g>      <circle class="Q" cx="26750" cy="24036" r="259"/>
+    </g>
+     <g>      <circle class="Q" cx="24152" cy="26634" r="259"/>
+    </g>
+     <g>      <circle class="Q" cx="26750" cy="19490" r="259"/>
+    </g>
+     <g>      <circle class="Q" cx="39089" cy="24036" r="259"/>
+    </g>
+     <g>      <circle class="Q" cx="39089" cy="29881" r="259"/>
+    </g>
+     <g>      <circle class="Q" cx="36491" cy="26634" r="259"/>
+    </g>
+     <g>      <circle class="Q" cx="36491" cy="32479" r="259"/>
+    </g>
+     <g>      <circle class="R" cx="24152" cy="21439" r="259"/>
+    </g>
+     <g>      <path class="F" d="M24152,26634v-5195m2597,2597v-4545m9741,12988v-5844m2597,3246v-5844"/>
+    </g>
+     <g>      <rect class="G" x="53181" y="25205" width="389" height="844"/>
+       <path class="H" d="M53376,24686v519m0,844v584"/>
+    </g>
+     <g>      <rect class="G" x="12267" y="25270" width="389" height="844"/>
+       <path class="H" d="M12462,24686v584m0,844v519"/>
+    </g>
+     <g>      <rect class="G" x="53181" y="31050" width="389" height="844"/>
+       <path class="H" d="M53376,30531v519m0,844v584"/>
+    </g>
+     <g>      <path class="I" d="M36491,26634h-12339"/>
+       <path class="J" d="M36491,26634h-12339"/>
+    </g>
+     <g>      <path class="K" d="M26750,24036h-9741"/>
+       <path class="J" d="M26750,24036h-9741"/>
+       <path class="K" d="M16846,24036l-162,-162"/>
+       <path class="J" d="M16846,24036l-162,-162"/>
+       <path class="K" d="M16846,24036l-162,162"/>
+       <path class="J" d="M16846,24036l-162,162"/>
+       <path class="K" d="M17008,24036l-162,-162"/>
+       <path class="J" d="M17008,24036l-162,-162"/>
+       <path class="K" d="M17008,24036l-162,162"/>
+       <path class="J" d="M17008,24036l-162,162"/>
+    </g>
+     <g>      <path class="I" d="M24152,26634h-7143"/>
+       <path class="J" d="M24152,26634h-7143"/>
+       <path class="I" d="M16846,26634l-162,-162"/>
+       <path class="J" d="M16846,26634l-162,-162"/>
+       <path class="I" d="M16846,26634l-162,162"/>
+       <path class="J" d="M16846,26634l-162,162"/>
+       <path class="I" d="M17008,26634l-162,-162"/>
+       <path class="J" d="M17008,26634l-162,-162"/>
+       <path class="I" d="M17008,26634l-162,162"/>
+       <path class="J" d="M17008,26634l-162,162"/>
+    </g>
+     <g>      <path class="I" d="M36491,26634h9741"/>
+       <path class="J" d="M36491,26634h9741"/>
+       <path class="I" d="M46232,26634l-162,-162"/>
+       <path class="J" d="M46232,26634l-162,-162"/>
+       <path class="I" d="M46232,26634l-162,162"/>
+       <path class="J" d="M46232,26634l-162,162"/>
+       <path class="I" d="M46395,26634l-162,-162"/>
+       <path class="J" d="M46395,26634l-162,-162"/>
+       <path class="I" d="M46395,26634l-162,162"/>
+       <path class="J" d="M46395,26634l-162,162"/>
+    </g>
+     <g>      <path class="K" d="M39089,24036h7793"/>
+       <path class="J" d="M39089,24036h7793"/>
+       <path class="K" d="M46882,24036l-162,-162"/>
+       <path class="J" d="M46882,24036l-162,-162"/>
+       <path class="K" d="M46882,24036l-162,162"/>
+       <path class="J" d="M46882,24036l-162,162"/>
+       <path class="K" d="M47044,24036l-162,-162"/>
+       <path class="J" d="M47044,24036l-162,-162"/>
+       <path class="K" d="M47044,24036l-162,162"/>
+       <path class="J" d="M47044,24036l-162,162"/>
+    </g>
+     <g>      <path class="I" d="M36491,32479h10390"/>
+       <path class="J" d="M36491,32479h10390"/>
+       <path class="I" d="M46882,32479l-162,-162"/>
+       <path class="J" d="M46882,32479l-162,-162"/>
+       <path class="I" d="M46882,32479l-162,162"/>
+       <path class="J" d="M46882,32479l-162,162"/>
+       <path class="I" d="M47044,32479l-162,-162"/>
+       <path class="J" d="M47044,32479l-162,-162"/>
+       <path class="I" d="M47044,32479l-162,162"/>
+       <path class="J" d="M47044,32479l-162,162"/>
+    </g>
+     <g>      <path class="K" d="M39089,29881h7793"/>
+       <path class="J" d="M39089,29881h7793"/>
+       <path class="K" d="M46882,29881l-162,-162"/>
+       <path class="J" d="M46882,29881l-162,-162"/>
+       <path class="K" d="M46882,29881l-162,162"/>
+       <path class="J" d="M46882,29881l-162,162"/>
+       <path class="K" d="M47044,29881l-162,-162"/>
+       <path class="J" d="M47044,29881l-162,-162"/>
+       <path class="K" d="M47044,29881l-162,162"/>
+       <path class="J" d="M47044,29881l-162,162"/>
+    </g>
+     <g>      <path class="K" d="M26750,19490v-7143"/>
+       <path class="J" d="M26750,19490v-7143"/>
+       <path class="K" d="M26750,12184l162,-162"/>
+       <path class="J" d="M26750,12184l162,-162"/>
+       <path class="K" d="M26750,12184l-162,-162"/>
+       <path class="J" d="M26750,12184l-162,-162"/>
+       <path class="K" d="M26750,12347l162,-162"/>
+       <path class="J" d="M26750,12347l162,-162"/>
+       <path class="K" d="M26750,12347l-162,-162"/>
+       <path class="J" d="M26750,12347l-162,-162"/>
+    </g>
+     <g>      <path class="I" d="M24152,21439v-9091"/>
+       <path class="J" d="M24152,21439v-9091"/>
+       <path class="I" d="M24152,12184l162,-162"/>
+       <path class="J" d="M24152,12184l162,-162"/>
+       <path class="I" d="M24152,12184l-162,-162"/>
+       <path class="J" d="M24152,12184l-162,-162"/>
+       <path class="I" d="M24152,12347l162,-162"/>
+       <path class="J" d="M24152,12347l162,-162"/>
+       <path class="I" d="M24152,12347l-162,-162"/>
+       <path class="J" d="M24152,12347l-162,-162"/>
+    </g>
+     <g>      <path class="K" d="M39089,24036h-12339"/>
+       <path class="J" d="M39089,24036h-12339"/>
+    </g>
+     <text class="L" x="2806" y="2146" style="stroke:none;">infoCANFD 2M</text>
+     <text class="M" x="0" y="0" transform="translate(10784 26109) rotate (270.0)" style="stroke:none;">BDCF</text>
+     <text class="M" x="0" y="0" transform="translate(55735 33000) rotate (270.0)" style="stroke:none;">高配车机</text>
+     <text class="M" x="0" y="0" transform="translate(55735 26830) rotate (270.0)" style="stroke:none;">低配车机</text>
+     <text class="M" x="24499" y="10195" style="stroke:none;">断码仪表</text>
+     <g>      <text class="M" x="50099" y="25546" style="stroke:none;">120Ω</text>
+    </g>
+     <g>      <text class="M" x="14056" y="25948" style="stroke:none;">120Ω</text>
+    </g>
+     <g>      <text class="M" x="50424" y="31390" style="stroke:none;">120Ω</text>
+    </g>
+     <g>      <rect class="N" x="30105" y="26276" width="432" height="715"/>
+       <text class="O" x="0" y="0" transform="translate(30534 26925) rotate (270.0)" style="stroke:none;">P/B</text>
+    </g>
+     <g>      <rect class="P" x="29672" y="26155" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(30101 27047) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="21662" y="23917" width="432" height="239"/>
+       <text class="O" x="0" y="0" transform="translate(22091 24090) rotate (270.0)" style="stroke:none;">P</text>
+    </g>
+     <g>      <rect class="P" x="21229" y="23557" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(21658 24449) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="20363" y="26276" width="432" height="715"/>
+       <text class="O" x="0" y="0" transform="translate(20792 26925) rotate (270.0)" style="stroke:none;">P/B</text>
+    </g>
+     <g>      <rect class="P" x="19931" y="26155" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(20359 27047) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="41145" y="26276" width="432" height="715"/>
+       <text class="O" x="0" y="0" transform="translate(41574 26925) rotate (270.0)" style="stroke:none;">P/B</text>
+    </g>
+     <g>      <rect class="P" x="40712" y="26155" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(41141 27047) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="42769" y="23917" width="432" height="239"/>
+       <text class="O" x="0" y="0" transform="translate(43198 24090) rotate (270.0)" style="stroke:none;">P</text>
+    </g>
+     <g>      <rect class="P" x="42336" y="23557" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(42765 24449) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="41470" y="32121" width="432" height="715"/>
+       <text class="O" x="0" y="0" transform="translate(41899 32770) rotate (270.0)" style="stroke:none;">P/B</text>
+    </g>
+     <g>      <rect class="P" x="41037" y="31999" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(41466 32892) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="42769" y="29761" width="432" height="239"/>
+       <text class="O" x="0" y="0" transform="translate(43198 29934) rotate (270.0)" style="stroke:none;">P</text>
+    </g>
+     <g>      <rect class="P" x="42336" y="29402" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(42765 30294) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="26630" y="15702" width="239" height="432"/>
+       <text class="O" x="26695" y="16131" style="stroke:none;">P</text>
+    </g>
+     <g>      <rect class="P" x="26271" y="15269" width="958" height="432"/>
+       <text class="O" x="26336" y="15698" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="23794" y="16676" width="715" height="432"/>
+       <text class="O" x="23859" y="17105" style="stroke:none;">P/B</text>
+    </g>
+     <g>      <rect class="P" x="23673" y="16243" width="958" height="432"/>
+       <text class="O" x="23738" y="16672" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="P" x="32703" y="23917" width="432" height="239"/>
+       <text class="O" x="0" y="0" transform="translate(33132 24090) rotate (270.0)" style="stroke:none;">P</text>
+    </g>
+     <g>      <rect class="P" x="32270" y="23557" width="432" height="958"/>
+       <text class="O" x="0" y="0" transform="translate(32699 24449) rotate (270.0)" style="stroke:none;">0.35</text>
+    </g>
+  </g></svg>

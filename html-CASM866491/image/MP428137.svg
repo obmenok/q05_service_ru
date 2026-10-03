@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,57546" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:137px;}
+.A,.C,.B{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B{stroke-width:966px;}
+.D{font-size:9955px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:4px;}
+.D,.A,.C,.B{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M7874,37142 C7874,43642 13143,48911 19643,48911 M19643,21189 C13143,21189 7874,26458 7874,32958 M46842,48911 C53342,48911 58611,43642 58611,37142 M46842,21189h-27199m-11765,11769v4183m50733,0v-4183m-38968,15948h27199M58611,32958 C58611,26458 53342,21189 46842,21189 "/>
+     <path class="B" d="M15066,5236v10297m3531,39391h29289M47887,54921 C57563,54921 65407,47077 65407,37401 M1078,37401 C1078,47077 8922,54921 18598,54921 M65407,37401v-4706m-64329,0v4706M65407,32695 C65407,24423 59621,17278 51530,15558 M14955,15558 C6864,17278 1078,24423 1078,32695 M51419,15533v-10297M51415,5236 C51415,2349 49074,8 46186,8 M46186,8h-25887M20299,8 C17411,8 15070,2349 15070,5236 "/>
+     <path class="A" d="M20299,2883 C18999,2883 17946,3937 17946,5236 M48539,5236 C48539,3937 47486,2883 46186,2883 M20299,2883h25887"/>
+     <path class="B" d="M46320,55448v-522"/>
+     <path class="A" d="M11276,32958v4183M11276,37142 C11276,41763 15022,45509 19643,45509 M46842,45509h-27199M46842,45509 C51463,45509 55209,41763 55209,37142 M55209,32958v4183M55209,32958 C55209,28337 51463,24591 46842,24591 M19643,24587h27199M19643,24591 C15022,24591 11276,28337 11276,32958 "/>
+     <rect class="C" x="16832" y="27508" width="14846" height="14629"/>
+     <rect class="C" x="34963" y="27303" width="14846" height="14629"/>
+     <path class="B" d="M46320,55448v2089h-26150v-2612"/>
+     <path class="A" d="M17946,5236v16074l29907,-17737m-29220,0l29910,17737v-16074"/>
+     <g>      <text class="D" x="23851" y="39199" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="41714" y="39039" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,45475" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A{stroke:#808080;}
+.B,.D,.C,.A,.T,.R,.L,.Q,.N{stroke-width:16px;}
+.C{stroke:#0F0;}
+.E{stroke-width:122px;}
+.E,.B,.D,.C,.A,.H,.F,.U,.O,.M,.S,.P,.T,.R,.L,.Q,.N,.J,.I,.K{stroke-dasharray:none;}
+.E,.B,.D,.U,.O,.M,.J,.I,.K{stroke:#000;}
+.F{stroke:#F00;}
+.G{stroke-dasharray:824,412,164,412;}
+.G,.E,.B,.D,.C,.A,.H,.F{fill-opacity:0.0;fill:none;}
+.G,.E,.B,.D,.C,.A,.H,.F,.U{font-family:sans-serif;}
+.G,.E,.B,.D,.C,.A,.H,.F,.U,.J,.I,.K{stroke-opacity:1.0;}
+.G,.E,.B,.D,.C,.A,.H,.F,.U,.O,.M,.S,.P,.T,.R,.L,.Q,.N,.J,.I,.K{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke-linejoin:miter;stroke-miterlimit:10;}
+.G,.E,.B,.D,.C,.A,.U{stroke-linecap:butt;}
+.G,.H,.F{stroke-width:158px;}
+.G,.T,.R,.L,.Q,.N{stroke:#0F3;}
+.H{stroke:#D3D3D3;}
+.H,.F,.O,.M,.S,.P,.T,.R,.L,.Q,.N,.J,.I,.K{stroke-linecap:square;}
+.I{font-family:仿宋;font-size:897px;}
+.J{font-family:Arial;font-size:399px;}
+.L,.K{font-size:359px;}
+.M,.N{font-size:603px;}
+.M,.P,.Q,.N{font-family:微软雅黑;}
+.O,.M,.S,.P,.J,.I,.K{stroke-width:0.5px;}
+.O,.M,.S,.P,.T,.R,.L,.Q,.N{stroke-opacity:0.0;}
+.O,.R{font-size:323px;}
+.O,.R,.L,.K{font-family:宋体;}
+.P{fill:#800080;stroke:#800080;}
+.P,.Q{font-size:362px;}
+.S{fill:#00F;stroke:#00F;}
+.S,.T{font-family:Lucida Sans;font-size:400px;}
+.T,.R,.L,.Q,.N{fill:#FFF;}
+.U{stroke-width:16.0px;}
+.U,.O,.M,.J,.I,.K{fill:#000;}
+.U,.O,.M,.S,.P,.T,.R,.L,.Q,.N,.J,.I,.K{fill-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M1098,45467v-45459h64291v45459h-64291m64291,-45459v45459h-64291m64291,-45459v45459"/>
+     <path class="B" d="M2040,2393h10584"/>
+     <path class="C" d="M65390,45467h-64292l0,-45459l64291,1 z"/>
+     <rect class="D" x="2004" y="849" width="62407" height="43849"/>
+     <path class="B" d="M12625,2393v-1511"/>
+     <g>      <path class="B" d="M33568,12022 C33568,11843 33714,11697 33893,11697 L33893,11697 C34073,11697 34218,11843 34218,12022 M33893,12347v649"/>
+       <rect class="U" x="33763" y="11827" width="259" height="974"/>
+       <path class="B" d="M29672,12022 C29672,11843 29817,11697 29997,11697 L29997,11697 C30176,11697 30321,11843 30321,12022 M29997,12347v649"/>
+       <rect class="U" x="29867" y="11827" width="259" height="974"/>
+    </g>
+     <g>      <path class="B" d="M33893,12152v844M34153,11892 C34153,12035 34037,12152 33893,12152 L33893,12152 C33750,12152 33633,12035 33633,11892 "/>
+    </g>
+     <g>      <path class="B" d="M29997,12152v844M30256,11892 C30256,12035 30140,12152 29997,12152 L29997,12152 C29853,12152 29737,12035 29737,11892 "/>
+    </g>
+     <g>      <path class="B" d="M33893,29232v649M33568,30206 C33568,30385 33714,30531 33893,30531 L33893,30531 C34073,30531 34218,30385 34218,30206 "/>
+       <rect class="U" x="33763" y="29426" width="259" height="974"/>
+       <path class="B" d="M29997,29232v649M29672,30206 C29672,30385 29817,30531 29997,30531 L29997,30531 C30176,30531 30321,30385 30321,30206 "/>
+       <rect class="U" x="29867" y="29426" width="259" height="974"/>
+    </g>
+     <g>      <rect class="U" x="29867" y="29881" width="259" height="519"/>
+       <path class="B" d="M29997,29232v649"/>
+    </g>
+     <g>      <rect class="U" x="33763" y="29881" width="259" height="519"/>
+       <path class="B" d="M33893,29232v649"/>
+    </g>
+     <g>      <path class="E" d="M35517,11697h324v-2143h-259l519,-259h-259v-2143h-8442v4545 z"/>
+    </g>
+     <g>      <path class="E" d="M35517,33778h324v-3247h-7793v3247 z"/>
+    </g>
+     <g>      <path class="F" d="M29997,19490v9741"/>
+       <path class="G" d="M29997,19490v9741"/>
+    </g>
+     <g>      <path class="H" d="M33893,19490v9741"/>
+       <path class="G" d="M33893,19490v9741"/>
+    </g>
+     <g>      <path class="H" d="M33893,12996v5195"/>
+       <path class="G" d="M33893,12996v5195"/>
+    </g>
+     <g>      <path class="F" d="M29997,12996v5195"/>
+       <path class="G" d="M29997,12996v5195"/>
+    </g>
+     <text class="I" x="2806" y="2146" style="stroke:none;">车外PE门把手</text>
+     <g>      <text class="J" x="34304" y="17971" style="stroke:none;">FD1</text>
+    </g>
+     <g>      <text class="J" x="33222" y="18014" style="stroke:none;">/18</text>
+    </g>
+     <g>      <text class="J" x="30407" y="17971" style="stroke:none;">FD1</text>
+    </g>
+     <g>      <text class="J" x="29325" y="18014" style="stroke:none;">/19</text>
+    </g>
+     <g>      <text class="J" x="34304" y="20136" style="stroke:none;">DF1</text>
+    </g>
+     <g>      <text class="J" x="33222" y="20092" style="stroke:none;">/18</text>
+    </g>
+     <g>      <text class="J" x="30407" y="20136" style="stroke:none;">DF1</text>
+    </g>
+     <g>      <text class="J" x="29325" y="20092" style="stroke:none;">/19</text>
+    </g>
+     <g>      <text class="J" x="34056" y="12554" style="stroke:none;">F101a</text>
+    </g>
+     <g>      <text class="K" x="34335" y="13086" style="stroke:none;">/70</text>
+    </g>
+     <g>      <text class="J" x="30159" y="12554" style="stroke:none;">F101a</text>
+    </g>
+     <g>      <text class="K" x="30547" y="13086" style="stroke:none;">/1</text>
+    </g>
+     <g>      <text class="J" x="30376" y="30029" style="stroke:none;">D39</text>
+    </g>
+     <g>      <text class="K" x="30547" y="29596" style="stroke:none;">/3</text>
+    </g>
+     <g>      <text class="J" x="34272" y="30029" style="stroke:none;">D39</text>
+    </g>
+     <g>      <text class="K" x="34443" y="29596" style="stroke:none;">/4</text>
+    </g>
+     <g>      <rect class="L" x="31061" y="9099" width="1811" height="649"/>
+       <text class="M" x="31154" y="9743" style="stroke:none;">BDC-F</text>
+    </g>
+     <g>      <rect class="N" x="29522" y="9857" width="4455" height="649"/>
+       <text class="M" x="29615" y="10501" style="stroke:none;">车身域控制器-前</text>
+    </g>
+     <g>      <text class="O" x="29653" y="11559" style="stroke:none;">J 2-1</text>
+    </g>
+     <g>      <text class="P" x="28765" y="11282" style="stroke:none;">门把手PE信号地</text>
+    </g>
+     <g>      <text class="O" x="33452" y="11559" style="stroke:none;">J 2-70</text>
+    </g>
+     <g>      <text class="P" x="32122" y="11282" style="stroke:none;">主驾驶侧门把手PE开关</text>
+    </g>
+     <g>      <rect class="Q" x="30872" y="31829" width="2579" height="649"/>
+       <text class="M" x="30965" y="32473" style="stroke:none;">SG-DDLL</text>
+    </g>
+     <g>      <rect class="N" x="29118" y="32587" width="5654" height="649"/>
+       <text class="M" x="29211" y="33230" style="stroke:none;">门把手按钮及天线-左</text>
+    </g>
+     <g>      <text class="O" x="33939" y="30955" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="O" x="30043" y="30955" style="stroke:none;">2</text>
+    </g>
+     <g>      <rect class="R" x="29590" y="24144" width="813" height="432"/>
+       <text class="S" x="29655" y="24573" style="stroke:none;">G/R</text>
+    </g>
+     <g>      <rect class="T" x="29518" y="23712" width="958" height="432"/>
+       <text class="S" x="29583" y="24140" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="T" x="33438" y="24144" width="910" height="432"/>
+       <text class="S" x="33503" y="24573" style="stroke:none;">G/W</text>
+    </g>
+     <g>      <rect class="T" x="33414" y="23712" width="958" height="432"/>
+       <text class="S" x="33479" y="24140" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="T" x="33438" y="15377" width="910" height="432"/>
+       <text class="S" x="33503" y="15806" style="stroke:none;">G/W</text>
+    </g>
+     <g>      <rect class="T" x="33414" y="14944" width="958" height="432"/>
+       <text class="S" x="33479" y="15373" style="stroke:none;">0.35</text>
+    </g>
+     <g>      <rect class="T" x="29590" y="15377" width="813" height="432"/>
+       <text class="S" x="29655" y="15806" style="stroke:none;">G/R</text>
+    </g>
+     <g>      <rect class="T" x="29518" y="14944" width="958" height="432"/>
+       <text class="S" x="29583" y="15373" style="stroke:none;">0.35</text>
+    </g>
+  </g></svg>

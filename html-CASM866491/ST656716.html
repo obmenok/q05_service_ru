@@ -1,0 +1,261 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) Copyright 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) Copyright 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Таблица диагностики неисправностей"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="topic-1-F5240221"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Таблица диагностики неисправностей</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="topic-1-F5240221">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST656716">Таблица диагностики неисправностей</h3>
+         
+         
+         <div class="body"> 
+            
+            
+            <table width="100%" border="1" frame="box" rules="all">  
+               
+               
+               
+               
+               <thead style="font-weight: bold"> 
+                  
+                  <tr> 
+                     
+                     <th width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Симптом неисправности</p> 
+                        
+                     </th>  
+                     
+                     <th width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Причина неисправности</p> 
+                        
+                     </th>  
+                     
+                     <th width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Меры по устранению</p> 
+                        
+                     </th> 
+                     
+                  </tr> 
+                  
+               </thead>  
+               
+               <tbody> 
+                  
+                  <tr> 
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Невозможно включить или выключить функцию предупреждения о сходе с полосы движения</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Неисправность узла камеры переднего обзора</p>  
+                        
+                        <p>2. Короткое замыкание или обрыв цепи между узлом камеры переднего обзора и шиной CAN автомобиля</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Проверить выходную цепь переключателя на наличие обрыва или короткого замыкания</p>  
+                        
+                        <p>2. Проверить подключение жгута проводов интерфейса шины CAN со стороны контроллера; если соединение есть, с помощью диагностического прибора проверить, не потеряна ли шина CAN автомобиля; если связь диагностического прибора с контроллером невозможна, необходимо проверить исправность жгута проводов или правильность конфигурации BDC</p>  
+                        
+                        <p>3. Если все указанное выше в норме, заменить узел контроллера схода с полосы</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>На комбинации приборов появляется подсказка о неисправности перекрытия камеры, контрольная лампа схода с полосы горит желтым цветом</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Поле зрения узла камеры переднего обзора перекрыто посторонним предметом</p>  
+                        
+                        <p>2. Стекло в зоне обзора узла камеры переднего обзора треснуло</p>  
+                        
+                        <p>3. На объективе камеры узла камеры переднего обзора имеется пыль</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Очистить ветровое стекло</p>  
+                        
+                        <p>2. Заменить ветровое стекло</p>  
+                        
+                        <p>3. Очистить объектив</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Диагностический прибор не может установить связь с узлом камеры переднего обзора</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Перегорел плавкий предохранитель узла камеры переднего обзора;</p>  
+                        
+                        <p>2. Нарушение контакта в разъеме;</p>  
+                        
+                        <p>3. Неправильная конфигурация BDC</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Заменить предохранитель;</p>  
+                        
+                        <p>2. Проверить разъемы</p>  
+                        
+                        <p>3. Выполнить повторную конфигурацию BDC или заменить BDC</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>На комбинации приборов появляется сообщение о неисправности системы помощи при движении по полосе, контрольная лампа схода с полосы горит желтым цветом</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Неисправность в смежной системе вызывает сбой системы помощи при движении по полосе;</p>  
+                        
+                        <p>2. Неисправность узла камеры переднего обзора</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Выполнить ремонт смежной системы в соответствии с кодами неисправностей диагностического прибора;</p>  
+                        
+                        <p>2. Заменить узел контроллера схода с полосы</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>На комбинации приборов появляется подсказка «LAS не откалиброван», контрольная лампа схода с полосы горит желтым цветом</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. Угол установки камеры выходит за пределы допустимого диапазона</p>  
+                        
+                        <p>2. Поврежден кронштейн</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>1. С помощью диагностического прибора войти в калибровку FC для выполнения калибровки схода с полосы</p>  
+                        
+                        <p>2. Выполнить повторную установку и провести калибровку</p>  
+                        
+                        <p>3. Если указанные действия не помогли, заменить узел камеры переднего обзора</p>  
+                        
+                        <p>Методы калибровки см. в разделе послепродажной калибровки системы помощи при движении по полосе</p> 
+                        
+                     </td> 
+                     
+                  </tr>  
+                  
+                  <tr> 
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Диагностический прибор выдает сообщение о прерывании связи с MRR (Private CAN)</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Неправильная конфигурация модели автомобиля для системы адаптивного круиз-контроля</p> 
+                        
+                     </td>  
+                     
+                     <td width="33.33333333333333%" valign="&#xA;            top&#xA;          "> 
+                        
+                        <p>Выполнить повторную конфигурацию модели автомобиля для системы адаптивного круиз-контроля</p> 
+                        
+                     </td> 
+                     
+                  </tr> 
+                  
+               </tbody> 
+               
+            </table> 
+            
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>

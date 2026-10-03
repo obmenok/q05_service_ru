@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" height="768.0" viewBox="0,0 65416,43025" width="1024.0">   
+   <defs>
+     <style type="text/css">
+ <![CDATA[
+.A,.C{stroke-width:106px;}
+.A,.C,.B{fill:none;fill-opacity:0.0;font-family:sans-serif;}
+.B{stroke-width:746px;}
+.D{font-size:7694px;fill:#000;fill-opacity:1.0;font-family:Times New Roman;stroke-width:3px;}
+.D,.A,.C,.B{fill-rule:evenodd;font-style:normal;font-weight:normal;stroke:#000;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1.0;}
+]]>
+</style>
+  </defs>
+   <g>
+     <path class="A" d="M5041,38199 C5041,38662 5224,39105 5551,39432 L5551,39432 C5878,39759 6321,39942 6784,39942 M6582,20935 C5742,21256 5147,22016 5038,22910 "/>
+     <path class="B" d="M6783,39942h45029"/>
+     <path class="A" d="M5041,38200v-15332"/>
+     <path class="B" d="M9418,18108l55990,8v3961h-7922v9054h-5585m-73,0l-14,8809"/>
+     <path class="A" d="M2621,11315 C1780,11636 1186,12396 1077,13290 M1079,41013 C1155,42113 2049,42979 3152,43018 M1083,41030l-2,-27740m1541,-1971l6767,17m-2,-7931l5,14713m-5,-14713h13015v-3395h10186v3395h6790l-5,14713m2,-7356h9057l-2,7356m2,-7356v-6790h7356l-32,14147"/>
+     <rect class="C" x="55762" y="15376" width="2013" height="2741"/>
+     <path class="A" d="M9412,20964l-2832,-26m50326,10194l14,11883h-53759"/>
+     <path class="B" d="M9418,18108l-50,21833"/>
+     <rect class="C" x="35416" y="26605" width="9620" height="8488"/>
+     <rect class="C" x="25796" y="26605" width="9620" height="8488"/>
+     <rect class="C" x="16176" y="26605" width="9620" height="8488"/>
+     <g>      <text class="D" x="19278" y="33990" style="stroke:none;">3</text>
+    </g>
+     <g>      <text class="D" x="39084" y="33990" style="stroke:none;">1</text>
+    </g>
+     <g>      <text class="D" x="28898" y="33990" style="stroke:none;">2</text>
+    </g>
+  </g></svg>

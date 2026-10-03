@@ -1,0 +1,220 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+   
+   <head>
+      
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+      
+      <meta name="copyright" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.rights.owner" content="(C) 版权 2005"></meta>
+      
+      <meta name="DC.Type" content="topic"></meta>
+      
+      <meta name="DC.Title" content="Процедура диагностики неработающего мотора стеклоочистителя"></meta>
+      
+      <meta name="DC.Format" content="XHTML"></meta>
+      
+      <meta name="DC.Identifier" content="topic-1-F5240221"></meta>
+      
+      <meta name="DC.Language" content="ru"></meta>
+      
+      <link rel="stylesheet" type="text/css" href="htmlCustom.css"></link>
+      <script type="text/javascript" src="../basefiles/js/custom.js"></script><script type="text/javascript" src="basefiles/js/custom.js"></script><title>Процедура диагностики неработающего мотора стеклоочистителя</title>
+      <script type="text/javascript" src="basefiles/js/dtc-step.js"></script>
+      <script type="text/javascript" src="basefiles/js/svg_topics.js"></script>
+      <script type="text/javascript">
+        function toggleImage(el) {
+            if(el.className=="thumb"){
+                el.className="full";
+            } else {
+                el.className="thumb";
+            }
+        }
+    </script><link rel="stylesheet" type="text/css" href="basefiles/style/svg-topics.css"></link>
+      
+      <link rel="stylesheet" type="text/css" href="basefiles/style/dtc-style.css"></link>
+      
+   <style id="ru-font">body, body :not(pre):not(code):not(samp):not(kbd):not(tt) { font-family: Segoe UI, Arial, Helvetica, sans-serif !important; }</style></head>
+   
+   <body onload="custTopic()">
+      <section id="topic-1-F5240221">
+         
+         
+         
+         <h3 class="title topictitle1" title="ST576464">Процедура диагностики неработающего мотора стеклоочистителя</h3>
+         
+         
+         <div class="body"> 
+            
+            <p class="p">Когда мотор стеклоочистителя не работает, выполните проверку, определение и ремонт неисправности в соответствии с таблицей диагностики ниже 
+               
+               
+               <table width="100%" border="1" frame="box" rules="all">  
+                  
+                  
+                  
+                  <tbody> 
+                     
+                     <tr align="center"> 
+                        
+                        <td width="50%" align="center" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Условия проверки</p> 
+                           
+                        </td>  
+                        
+                        <td width="50%" align="center" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Детали/Результат/Меры</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>1. Проверить напряжение на положительном выводе подключения мотора стеклоочистителя со стороны жгута проводов;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Оно больше 9 V?</p>  
+                           
+                           <p>→Да, выполните шаг 5;</p>  
+                           
+                           <p>→Нет, выполните шаг 2;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>2. Проверить жгут проводов, соединяющий мотор стеклоочистителя и контроллер переднего домена;</p> 
+                           
+                        </td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Жгут проводов соединений прозванивается?</p>  
+                           
+                           <p>→Да, выполните шаг 3;</p>  
+                           
+                           <p>→Нет, неисправность жгута проводов между мотором стеклоочистителя и контроллером переднего домена;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>3. Проверить плавкий предохранитель между контроллером переднего домена и блоком предохранителей моторного отсека;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Плавкий предохранитель перегорел?</p>  
+                           
+                           <p>→Да, замените плавкий предохранитель между контроллером переднего домена и блоком предохранителей моторного отсека;</p>  
+                           
+                           <p>→Нет, выполните шаг 4;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>4. Проверить соединительный жгут проводов между контроллером переднего домена и блоком предохранителей моторного отсека;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>Жгут проводов соединений прозванивается?</p>  
+                           
+                           <p>→Да, имеется неисправность контроллера переднего домена;</p>  
+                           
+                           <p>→Нет, неисправность жгута проводов между контроллером переднего домена и блоком предохранителей моторного отсека;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" colspan="2" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>5. Проверить надежность заземления отрицательного вывода подключения мотора стеклоочистителя со стороны жгута проводов;</p> 
+                           
+                        </td> 
+                        
+                     </tr>  
+                     
+                     <tr> 
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          ">&nbsp;</td>  
+                        
+                        <td width="50%" valign="&#xA;            top&#xA;          "> 
+                           
+                           <p>→Да, имеется неисправность мотора стеклоочистителя;</p>  
+                           
+                           <p>→Нет, плохое Заземление со стороны жгута проводов подключения мотора стеклоочистителя;</p> 
+                           
+                        </td> 
+                        
+                     </tr> 
+                     
+                  </tbody> 
+                  
+               </table> 
+               
+               
+            </p> 
+            
+         </div>
+         
+         
+         
+      </section>
+   </body>
+   
+</html>
